@@ -16,7 +16,7 @@
     "lighthouse": "6.1.0",
     "move-to": "1.5.1",
     "netlify": "4.3.5",
-    "netlify-cli": "2.54.0",
+    "netlify-cli": "2.55.0",
     "newman": "5.1.0",
     "nodemon": "2.0.4",
     "now": "19.1.1",
