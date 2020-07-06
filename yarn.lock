@@ -10083,10 +10083,10 @@ eslint-visitor-keys@^1.2.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.2.0.tgz#74415ac884874495f78ec2a97349525344c981fa"
   integrity sha512-WFb4ihckKil6hu3Dp798xdzSfddwKKU3+nGniKF6HfeW6OLd2OUDEPP7TcHtB5+QXOKg2s6B2DaMPE1Nn/kxKQ==
 
-eslint@7.3.1:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.3.1.tgz#76392bd7e44468d046149ba128d1566c59acbe19"
-  integrity sha512-cQC/xj9bhWUcyi/RuMbRtC3I0eW8MH0jhRELSvpKYkWep3C6YZ2OkvcvJVUeO6gcunABmzptbXBuDoXsjHmfTA==
+eslint@7.4.0:
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.4.0.tgz#4e35a2697e6c1972f9d6ef2b690ad319f80f206f"
+  integrity sha512-gU+lxhlPHu45H3JkEGgYhWhkR9wLHHEXC9FbWFnTlEkbKyZKWgWRLgf61E8zWmBuI6g5xKBph9ltg3NtZMVF8g==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
@@ -16391,10 +16391,10 @@ nested-error-stacks@~2.0.1:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.0.1.tgz#d2cc9fc5235ddb371fc44d506234339c8e4b0a4b"
   integrity sha512-SrQrok4CATudVzBS7coSz26QRSmlK9TzzoFbeKfcPBUFPjcQM9Rqvr/DlJkOrwI/0KcgvMub1n1g5Jt9EgRn4A==
 
-netlify-cli@2.56.0:
-  version "2.56.0"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.56.0.tgz#e4fc10f45d995ccebbb2c5e19feef6e688f2954c"
-  integrity sha512-KaArGB1ihi5w4P37iWfyGn5kbdop308BOX7xZ4ihTbIF2ijSyGFurrtJ06b6VvNYqdUq/nVXaSwWy9pL5h/JGw==
+netlify-cli@2.57.0:
+  version "2.57.0"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.57.0.tgz#01766460135c41659eb041cacc90899a30f0cb72"
+  integrity sha512-Fk7lynhW8C00UjCQFt/8tRQ1Ge7PZurlawgo15nCQ2pVfmAexSUItCMLqPHZqAaki2/ZflPbut8fONQaryl2Hg==
   dependencies:
     "@netlify/build" "^2.0.26"
     "@netlify/config" "^2.0.3"
@@ -16935,10 +16935,10 @@ now@19.1.1:
     "@vercel/ruby" "1.2.2"
     "@vercel/static-build" "0.17.3"
 
-np@6.2.5:
-  version "6.2.5"
-  resolved "https://registry.yarnpkg.com/np/-/np-6.2.5.tgz#63eb54905415f04114bfd883cb1f99ee7012cfab"
-  integrity sha512-oDGzbDFPae7O2fxitPAIHFFu7nfyhp//NZ4fs41IYq/k24IzRWSOFhnVjEBKjZSI3MsaH7gcW3dNy868S8KgyQ==
+np@6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/np/-/np-6.3.0.tgz#061d1f3c2b7e2307b14c49547879b358b31acc07"
+  integrity sha512-UwXhgmuzgkJHqflf2sCVdeCn2P9auKlcjQ/L37o9ORQe0O+mbrNhU04PBoLcdW+sMu3gCSx/uGBx79iL1sp9qg==
   dependencies:
     "@samverschueren/stream-to-observable" "^0.3.0"
     any-observable "^0.5.0"
@@ -18333,10 +18333,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@5.2.6:
-  version "5.2.6"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.2.6.tgz#2b08ef42961c97783fecb235c53759eb589421d1"
-  integrity sha512-7PFzPm0l14hzio59fufxpGgWRcMmtC2JZmYbRdkrJmm/f4iExXFhGklB/IrdQidhTi5helNZrBY48/9Ows4naA==
+pnpm@5.2.9:
+  version "5.2.9"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.2.9.tgz#2999a3e917df93f44decafafceaebff39508a705"
+  integrity sha512-+x6iR7wjHdABvte8pFJJPWyqQrrelwr8FHa0lW7F7Twi1iyWPridqHaImUIMmZp4GIANsJcMsMcsYjpfvU32Ug==
 
 portfinder@^1.0.26:
   version "1.0.26"
@@ -22445,10 +22445,10 @@ typescript@3.9.3, typescript@~3.9.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.3.tgz#d3ac8883a97c26139e42df5e93eeece33d610b8a"
   integrity sha512-D/wqnB2xzNFIcoBG9FG8cXRDjiqSTbG2wd8DMZeQyJlP1vfTkIxH4GKveWaEBYySKIg+USu+E+EDIR47SqnaMQ==
 
-typescript@3.9.5:
-  version "3.9.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.5.tgz#586f0dba300cde8be52dd1ac4f7e1009c1b13f36"
-  integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
+typescript@3.9.6:
+  version "3.9.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.6.tgz#8f3e0198a34c3ae17091b35571d3afd31999365a"
+  integrity sha512-Pspx3oKAPJtjNwE92YS05HQoY7z2SFyOpHo9MqJor3BXAGNaPUs83CuVp9VISFkSjyRfiTpmKuAYGJB7S7hOxw==
 
 typescript@^3.6.4:
   version "3.8.3"
