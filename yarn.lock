@@ -6942,10 +6942,10 @@ change-case@^3.0.1:
     upper-case "^1.1.1"
     upper-case-first "^1.1.0"
 
-chardet@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/chardet/-/chardet-1.1.0.tgz#c653dfc04731e8bfa90da4fd4968d69129d72b12"
-  integrity sha512-K6BWWdt9ncg6TDTX42J57s9zZWVI1DXVYQ6zUM8dZUB2TDeV5ia4kDei19r/pMxNzSGYYf6LqHsyvEybvTPHuA==
+chardet@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/chardet/-/chardet-1.2.1.tgz#8e0b4441c96f1ad747431989db1ff590739c6931"
+  integrity sha512-bnDt+69nS8Hi7Xmt0uDiQ32/hRpMK/0pc4lc32Y87voBgdsz26VZXOyo5VNQWQfe7rUsevZIfWB82C5QSpCXcQ==
 
 chardet@^0.4.0:
   version "0.4.2"
@@ -15233,6 +15233,11 @@ lodash@4, lodash@4.17.15, "lodash@4.6.1 || ^4.16.1", lodash@^4.0.0, lodash@^4.15
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
+lodash@^4.17.19:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
+
 log-ok@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/log-ok/-/log-ok-0.1.1.tgz#bea3dd36acd0b8a7240d78736b5b97c65444a334"
@@ -16569,13 +16574,13 @@ new-github-release-url@^1.0.0:
   dependencies:
     type-fest "^0.4.1"
 
-newman@5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/newman/-/newman-5.1.0.tgz#ab7258589eeacaeb9adff6905b38d97bd514bcd6"
-  integrity sha512-V3HrweC3t7tsHshOiu8cG2dbHvJwMf5/rxwqBHAK/fZq/H1CGPSLM/T6IhbTpbPqIs+GpklQXO9VsFFuUf7Nfw==
+newman@5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/newman/-/newman-5.1.1.tgz#fbadeb29ac3f90989a54fdc9ce7d91debe0ae932"
+  integrity sha512-XkC3JNIY8Lb8c5vt2jYhFUeqQU/zyHSwgWgtrychJKZYIzL63YS9+jB5EY9qsuUwBBg7rVei4FnJzzOZV/9rHA==
   dependencies:
     async "3.2.0"
-    chardet "1.1.0"
+    chardet "1.2.1"
     cli-progress "3.8.2"
     cli-table3 "0.6.0"
     colors "1.4.0"
@@ -16588,7 +16593,7 @@ newman@5.1.0:
     postman-collection "3.6.2"
     postman-collection-transformer "3.3.2"
     postman-request "2.88.1-postman.23"
-    postman-runtime "7.26.0"
+    postman-runtime "7.26.1"
     pretty-ms "7.0.0"
     semver "7.3.2"
     serialised-error "1.1.3"
@@ -18803,10 +18808,10 @@ postman-request@2.88.1-postman.23:
     tough-cookie "~2.5.0"
     uuid "^3.3.2"
 
-postman-runtime@7.26.0:
-  version "7.26.0"
-  resolved "https://registry.yarnpkg.com/postman-runtime/-/postman-runtime-7.26.0.tgz#cfe542929b78372cad01b0e934a6faecaae406cf"
-  integrity sha512-ueQdLL1PtvfVbzg46eKSy/9tpJz1nIDrJVRabpTph3j6Uz4otB5oC63SW8c50QcOGOn1Q1MlNDYN8mWjvRyPgg==
+postman-runtime@7.26.1:
+  version "7.26.1"
+  resolved "https://registry.yarnpkg.com/postman-runtime/-/postman-runtime-7.26.1.tgz#6284d4c5a910a14984db26bf950648340ae60790"
+  integrity sha512-zzQHwFLJG3ELOWZWaeKPy784eIVRGzpDxPni7hwULsJ/EF/pQWbxm6ERcPwwCHCBRneTqb/mOB9YuZ9N8utOtA==
   dependencies:
     async "2.6.3"
     aws4 "1.10.0"
@@ -18821,17 +18826,17 @@ postman-runtime@7.26.0:
     performance-now "2.1.0"
     postman-collection "3.6.2"
     postman-request "2.88.1-postman.23"
-    postman-sandbox "3.5.4"
+    postman-sandbox "3.5.5"
     postman-url-encoder "2.1.1"
     resolve-from "5.0.0"
     serialised-error "1.1.3"
     tough-cookie "3.0.1"
     uuid "3.4.0"
 
-postman-sandbox@3.5.4:
-  version "3.5.4"
-  resolved "https://registry.yarnpkg.com/postman-sandbox/-/postman-sandbox-3.5.4.tgz#82c7249b890bc7782a63ee091b1b009981f0d814"
-  integrity sha512-spo4UudKdHZ7GsTpkg+fDgwWAYuSaR7pOaMRHkIWR7IArG4iTf1Rm9BDe+vyy8ACFWtOLFWAnOYqPKnLhN6DVA==
+postman-sandbox@3.5.5:
+  version "3.5.5"
+  resolved "https://registry.yarnpkg.com/postman-sandbox/-/postman-sandbox-3.5.5.tgz#d815b05414419aa96ecceaf2cbf0ad44a20110c3"
+  integrity sha512-uAwPl/HRybep5Go0PC+orFlIZN4np/V1PZQhplVxWDQp/k6JNku4q4Vp1x6ejUMjqiPFTfTMjjzdhPhSv8vhiw==
   dependencies:
     inherits "2.0.4"
     lodash "4.17.15"
@@ -23152,14 +23157,14 @@ w3c-xmlserializer@^1.1.2:
     webidl-conversions "^4.0.2"
     xml-name-validator "^3.0.0"
 
-wait-on@5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/wait-on/-/wait-on-5.0.1.tgz#7dadfe83c36fdf034de996a41aa094af5cf23077"
-  integrity sha512-TxzkYIfRWK1hLc9IlUh9bE1mrvIIM3ptPRKQ86Z8Qo0tBQLCHEvWzkRD1Ge4FWprKflHOnAtqIBH2nKmib/lrg==
+wait-on@5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/wait-on/-/wait-on-5.0.3.tgz#763789f77a548bba318a256211f49fae04dc8065"
+  integrity sha512-0v3rQfJfLNVxZS0UP9lSYYMRUh8M+RgtkiSoPQOi7+QOlbG8XeY2uD0OE+rDeG/cJ35n1xMihuweSbjt1uB17w==
   dependencies:
     "@hapi/joi" "^17.1.1"
     axios "^0.19.2"
-    lodash "^4.17.15"
+    lodash "^4.17.19"
     minimist "^1.2.5"
     rxjs "^6.5.5"
 
