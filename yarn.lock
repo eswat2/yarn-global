@@ -9424,10 +9424,10 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-direflow-cli@3.4.15:
-  version "3.4.15"
-  resolved "https://registry.yarnpkg.com/direflow-cli/-/direflow-cli-3.4.15.tgz#b672a8b8f8ad1d42496f36d46c631019cdd35eaa"
-  integrity sha512-CxGoVGsdXLxjvbMcTRku8p3YWnlVVW7Dm53+yk9F1b2L9V8fjNcrNRZ5DNvlgCGwbITUL1bGNmue5R2WabzACw==
+direflow-cli@3.4.16:
+  version "3.4.16"
+  resolved "https://registry.yarnpkg.com/direflow-cli/-/direflow-cli-3.4.16.tgz#b3350d033e07403ad6c36278492d82382125c471"
+  integrity sha512-OBIGNUC0GSdRWeAnmD93eqPUgWNWITHYLPXmwhUrUdkNWC7CSKOrn9x77B+3KgOOeJpjXO52NxDsz5CzAHD1Bw==
   dependencies:
     boxen "^4.1.0"
     chalk "2.4.2"
@@ -18470,10 +18470,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@5.4.7:
-  version "5.4.7"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.4.7.tgz#e767121fcdcde1cfde6d391d83b051a1962207db"
-  integrity sha512-jhtvP0En0MOsdCyt2cEVyhk71vvQaN9f5K4iv8X8ekSCGpX/ApNXIJPxaXbVA53vKjzNCtdHtwRLTjgSC2zf5A==
+pnpm@5.4.8:
+  version "5.4.8"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.4.8.tgz#c267b76e9d2070074f2c98bf9b63fc9e28399133"
+  integrity sha512-bZwFZMtrDnJrdl0A66xcgIWjYxlgaAyGCNHL1KE9PN95KfArUgDU1spCVj68ucp7pQx+LwZYRKtuKtGNPsq/dQ==
 
 portfinder@^1.0.26:
   version "1.0.26"
