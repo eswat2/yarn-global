@@ -2,7 +2,7 @@
   "dependencies": {
     "@storybook/storybook-deployer": "2.8.6",
     "@vue/cli": "4.4.6",
-    "cloc": "2.5.1",
+    "cloc": "2.6.0",
     "concurrently": "5.2.0",
     "create-react-app": "3.4.1",
     "create-react-library": "3.1.1",
@@ -13,7 +13,7 @@
     "foreman": "3.0.1",
     "hackmyresume": "1.9.0-beta",
     "lerna": "3.22.1",
-    "lighthouse": "6.1.1",
+    "lighthouse": "6.2.0",
     "markdownlint-cli": "0.23.2",
     "move-to": "1.5.1",
     "netlify": "4.3.10",
@@ -35,7 +35,7 @@
     "typescript": "3.9.7",
     "updtr": "3.1.0",
     "uuid": "8.3.0",
-    "verdaccio": "4.8.0",
+    "verdaccio": "4.8.1",
     "wait-on": "5.1.0",
     "yarn-check": "0.0.3"
   }
