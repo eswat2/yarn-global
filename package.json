@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@storybook/storybook-deployer": "2.8.6",
-    "@vue/cli": "4.5.2",
+    "@vue/cli": "4.5.3",
     "cloc": "2.6.0",
     "concurrently": "5.3.0",
     "create-react-app": "3.4.1",
@@ -23,7 +23,7 @@
     "now": "19.2.0",
     "np": "6.4.0",
     "npm-check": "5.9.2",
-    "npm-check-updates": "7.0.4",
+    "npm-check-updates": "7.1.0",
     "parcel-bundler": "1.12.4",
     "pnpm": "5.5.1",
     "prettier": "2.0.5",
