@@ -16564,10 +16564,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@2.60.1:
-  version "2.60.1"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.60.1.tgz#72342619829754ba65ef258fd2c24cd96cff2a49"
-  integrity sha512-oh+X4uUASpjUqBUSQm24xdLb9NAMiix6QemKy8esQWFZZvENnZblq9ZvCxkcIkoVxkgAqT8BnTOfcHT+OdfzJw==
+netlify-cli@2.61.0:
+  version "2.61.0"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.61.0.tgz#12619ddbb55746d0e78f6f16557d97f2a5ae5964"
+  integrity sha512-IGB8m/Cb0LB84K9wXSv3KbGJ29RzPTRt8CfHdH6mBMW5hWk3TfCGIIXl1xjqVR7am4ZxbGlKUcDDiMGGwF+/JQ==
   dependencies:
     "@netlify/build" "^3.1.10"
     "@netlify/config" "^2.0.9"
@@ -17184,10 +17184,10 @@ npm-bundled@^1.0.1, npm-bundled@^1.1.1:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@8.0.4:
-  version "8.0.4"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-8.0.4.tgz#45aea807ac9ed92d7adadde6d1a97f7b828e85b2"
-  integrity sha512-OafZsu6Yl4iY9emPMnaUraPGfTE21AYSoXFuN94i3zFMBxqba8/BjRoy5ywsXi4mUFOW7SaiMleM0/t1O0RWaw==
+npm-check-updates@8.0.5:
+  version "8.0.5"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-8.0.5.tgz#091646ab63dd722055e7ae122f044d1c37d01350"
+  integrity sha512-EZ3DIFvKFNZzwV9OdEYITTAY6fmuD7evItEmf9XyntG4p29n8JpFaGrf9uCQIR0Hx3G5RFNsdCeURHzF6YXIAw==
   dependencies:
     chalk "^4.1.0"
     cint "^8.2.1"
@@ -18533,10 +18533,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@5.5.9:
-  version "5.5.9"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.5.9.tgz#568282cf78ac937dff6d554597749424c4c58912"
-  integrity sha512-QLpJiWKP4R3X0B8vDMTvoJ5nJTfGd2TbmgEDEUqumjVthTt8CcPgFWQ0Rixm8e0QzOYIHLyfEl1SON3M8FPyxQ==
+pnpm@5.5.10:
+  version "5.5.10"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.5.10.tgz#2dea4c20b18579d1d70403c44586bddb2f9fd726"
+  integrity sha512-lHaae4Xiiz2I6+1czn/3AvvM+O7sHDoiEiBW4UK0NPuWJdCBGuu6qcuneuo02cmo5Hur3KuqgGmUdkMKq7gMnw==
 
 portfinder@^1.0.26:
   version "1.0.26"
