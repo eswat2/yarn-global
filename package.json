@@ -14,7 +14,7 @@
     "hackmyresume": "1.9.0-beta",
     "lerna": "3.22.1",
     "lighthouse": "6.4.0",
-    "markdownlint-cli": "0.23.2",
+    "markdownlint-cli": "0.24.0",
     "move-to": "1.5.1",
     "netlify": "4.6.0",
     "netlify-cli": "2.64.1",
