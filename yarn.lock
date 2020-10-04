@@ -3302,6 +3302,11 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
+"@ungap/from-entries@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@ungap/from-entries/-/from-entries-0.2.1.tgz#7e86196b8b2e99d73106a8f25c2a068326346354"
+  integrity sha512-CAqefTFAfnUPwYqsWHXpOxHaq1Zo5UQ3m9Zm2p09LggGe57rqHoBn3c++xcoomzXKynAUuiBMDUCQvKMnXjUpA==
+
 "@vercel/build-utils@2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.5.1.tgz#2f687c2d82464dd85e0ed8130bc01e5dac9b11a4"
@@ -15252,10 +15257,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@2.64.1:
-  version "2.64.1"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.64.1.tgz#fe9253f7098523d1be33b38ae20f7f0ab2ff5cfd"
-  integrity sha512-Lo1DX//zdGzbiRaDfcRd+RyjenNw7UvnZbFpSDiPUq+88BmTY2e9UinFCKoFmymG+o0+lYnRA+wynozknjFUQw==
+netlify-cli@2.65.0:
+  version "2.65.0"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.65.0.tgz#b313c2c232d0b363f5a466b94a1e51ab324b5638"
+  integrity sha512-AWJpjtddKWYo63DEwY9duRAk5IlHpTMfSdI2MvuD0fEQ+wwwlSkJdEWhJ/AxePrtUtra+xS8K9QUpzYKuxtmYg==
   dependencies:
     "@netlify/build" "^4.0.1"
     "@netlify/config" "^2.0.9"
@@ -15268,6 +15273,7 @@ netlify-cli@2.64.1:
     "@oclif/plugin-not-found" "^1.1.4"
     "@oclif/plugin-plugins" "^1.7.8"
     "@octokit/rest" "^16.28.1"
+    "@ungap/from-entries" "^0.2.1"
     ansi-styles "^4.0.0"
     ascii-table "0.0.9"
     body-parser "^1.19.0"
@@ -15290,6 +15296,7 @@ netlify-cli@2.64.1:
     execa "^3.4.0"
     express "^4.17.1"
     express-logging "^1.1.1"
+    filter-obj "^2.0.1"
     find-up "^4.1.0"
     fs-extra "^8.1.0"
     fuzzy "^0.1.3"
@@ -15322,11 +15329,12 @@ netlify-cli@2.64.1:
     netlify-redirect-parser "^2.5.0"
     netlify-redirector "^0.2.0"
     node-fetch "^2.6.0"
-    open "^6.4.0"
+    open "^7.0.0"
     ora "^4.1.1"
     p-wait-for "^3.0.0"
     parse-github-url "^1.0.2"
     parse-gitignore "^1.0.1"
+    path-type "^4.0.0"
     prettyjson "^1.2.1"
     random-item "^3.0.0"
     raw-body "^2.4.1"
@@ -21695,7 +21703,12 @@ uuid@3.4.0, uuid@^3.0.0, uuid@^3.0.1, uuid@^3.1.0, uuid@^3.3.2:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
-uuid@8.3.0, uuid@^8.0.0:
+uuid@8.3.1:
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.1.tgz#2ba2e6ca000da60fce5a196954ab241131e05a31"
+  integrity sha512-FOmRr+FmWEIG8uhZv6C2bTgEVXsHk08kE7mPlrBbEe+c3r9pjceVPgupIfNIhc4yx55H69OXANrUaSuu9eInKg==
+
+uuid@^8.0.0:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.0.tgz#ab738085ca22dc9a8c92725e459b1d507df5d6ea"
   integrity sha512-fX6Z5o4m6XsXBdli9g7DtWgAx+osMsRRZFKma1mIUsLCz6vRvv+pz5VNbyu9UEDzpMWulZfvpgb/cmDXVulYFQ==
