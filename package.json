@@ -23,7 +23,7 @@
     "now": "^20.1.2",
     "np": "7.0.0",
     "npm-check": "5.9.2",
-    "npm-check-updates": "9.2.4",
+    "npm-check-updates": "10.0.0",
     "parcel-bundler": "1.12.4",
     "pnpm": "5.11.0",
     "prettier": "2.1.2",
