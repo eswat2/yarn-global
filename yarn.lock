@@ -7662,10 +7662,10 @@ cspell-io@^4.1.7:
     iconv-lite "^0.6.2"
     iterable-to-stream "^1.0.1"
 
-cspell-lib@^4.3.7:
-  version "4.3.7"
-  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-4.3.7.tgz#f8b4410fa44b09117e4fc8d148ca3b2ef18cef28"
-  integrity sha512-J9DP1z3Zc5HPNHkJ+eDvbQ3DoCRs2Kr8s1mfG7yXfUqxybPfF21wA/DZZ/Z6S49LjavoSxgEeHZ/hGEzq4ALSg==
+cspell-lib@^4.3.8:
+  version "4.3.8"
+  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-4.3.8.tgz#814f62a2583ddd9b69b7790d00c3e8d007250b18"
+  integrity sha512-K9Fem+JdVU0vCFenihHY3EfQBePQbqwDDopK6+GAi2eb9vATNHQYdh8r/TkGGek3yVlbjZmkc+PXYMqME9+LxQ==
   dependencies:
     comment-json "^4.1.0"
     configstore "^5.0.1"
@@ -7724,16 +7724,16 @@ cspell-util-bundle@^4.1.9:
   resolved "https://registry.yarnpkg.com/cspell-util-bundle/-/cspell-util-bundle-4.1.9.tgz#7a92fcf427ec67601f96e4bb4e473557dae5d906"
   integrity sha512-ytYWn+EmSuthkh+GOKqLpBXsa5mnSBvOgl58IF04zB8LvjQpzRdo1FJkiQiy+HYPMl1xUmcLDqcAhvANzNGDMg==
 
-cspell@4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/cspell/-/cspell-4.2.3.tgz#34a49daf8ec8010ed7a2a3d09ba8b186d6d2ff86"
-  integrity sha512-ox83ITQ4+HZFDANS+rMuyBkv6TxZdwq6FiLQkg+Xv6zJWnMkBPkGrTm03xeuAIfGWHlO+fOSS6p9c7rT9rBL7g==
+cspell@4.2.4:
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/cspell/-/cspell-4.2.4.tgz#db9c4856e1b2703c0c6423d77006c14630edf4fb"
+  integrity sha512-y4fkxtijImJNJVgIXhKuhncK62zMkSJrfs6WsGAVQKxVmaB2cWbEWQzR5LHEQpVueXU/NPprj7aD6ZNdmLF0+w==
   dependencies:
     chalk "^4.1.0"
     commander "^6.1.0"
     comment-json "^4.0.6"
     cspell-glob "^0.1.25"
-    cspell-lib "^4.3.7"
+    cspell-lib "^4.3.8"
     fs-extra "^9.0.1"
     gensequence "^3.1.1"
     get-stdin "^8.0.0"
@@ -17483,10 +17483,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@5.13.4:
-  version "5.13.4"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.13.4.tgz#6abe31b32893b200217addeae23346e35b4c646a"
-  integrity sha512-Q/1SlzLitcrggjTJN7Ooiu2y5ty+yTaxJYb7xGt6QpNijsIhxkGK58pP8IZYh04C7+8aI9MxNgppOTOyQG7k5g==
+pnpm@5.13.5:
+  version "5.13.5"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.13.5.tgz#f3919573defaec47ac53b13200ef99a2f51a3059"
+  integrity sha512-EJO8eYZyNpOvW+JhjBnLtxD2xcC6YlrzH8jxjETj8bevLATFa9vnGq614ada6o1XOIMq31JWtj1WyPJNogAzLA==
 
 portfinder@^1.0.26:
   version "1.0.28"
