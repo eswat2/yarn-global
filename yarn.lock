@@ -15494,10 +15494,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@2.69.1:
-  version "2.69.1"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.69.1.tgz#0d968fdca0a71e8f7c3513de40b5d4759c154d82"
-  integrity sha512-e6C2UT0yt9RblWuLIQKZwR2xzwVcBX5PnDrYTsBnVaBNs6ddorpWjHm/qRx7No7CH5P7ITI8b3W4fQhOsQSo7g==
+netlify-cli@2.69.2:
+  version "2.69.2"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.69.2.tgz#d4c089b32c01828210517e3dc7b33738e8719ce5"
+  integrity sha512-nIwI/7GH2LW3qpFPQv6YvazCY5NJHEsNkrSXSCagbjvM6ugpGqUwr72mntOW2gVOsL/DbtP/07BWuugHxXezkA==
   dependencies:
     "@netlify/build" "^5.0.0"
     "@netlify/config" "^2.0.9"
@@ -22214,10 +22214,10 @@ verdaccio-htpasswd@9.7.2:
     http-errors "1.8.0"
     unix-crypt-td-js "1.1.4"
 
-verdaccio@4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-4.9.1.tgz#b9e324b2317ab6ce8ecbfd0a26ac592432a340d8"
-  integrity sha512-KQSEtSpepAR3OCgrCNI9ERKNxwBAzQwP1T8+OKIMlM9qNdI4rGkshnOVW0EsB7ZdEblo9EDjaWFMgS8SbPcqnQ==
+verdaccio@4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-4.10.0.tgz#ca48c4b7a5bb967f0e2b5d38bab599a39cd0aaf1"
+  integrity sha512-9nCIHM9rvgwasBJvo82MiEDzS2HGWolopID8/THU0vZfa1d6MDAiuakjwQ9Z2xDonpoOoDji6xpg2i6il+gEWQ==
   dependencies:
     "@verdaccio/commons-api" "9.7.1"
     "@verdaccio/local-storage" "9.7.4"
