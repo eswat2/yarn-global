@@ -15651,10 +15651,10 @@ netlify-redirector@^0.2.0:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.0.2.tgz#a23802b0dcdd77bd0198c40a7251ef0167281d9c"
-  integrity sha512-pK8KvKvDu+BGAu3O10BKDwmOT2w1jrSISTMErJiS4csqjNZ+T8HzbKDjS/Kn6a0ppwWZ9qN03uWcpfv9H/bn7w==
+netlify@6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.0.3.tgz#f5385f5d0c51ed782ee84b909d32c9f6dbe9242a"
+  integrity sha512-Z+Dc5elqCvp2R2NiE3K479wv6Vw98rfuh5Oo5Ti0bLrgs3P0SmLj3uUHLdemDG0Kp35DcZE33eGdoG2xxZeYhg==
   dependencies:
     "@netlify/open-api" "^1.0.0"
     "@netlify/zip-it-and-ship-it" "^1.3.12"
