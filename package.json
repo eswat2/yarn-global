@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@storybook/storybook-deployer": "2.8.7",
-    "@vue/cli": "4.5.9",
+    "@vue/cli": "4.5.10",
     "cloc": "2.7.0",
     "concurrently": "5.3.0",
     "create-react-app": "4.0.1",
@@ -19,7 +19,7 @@
     "netlify": "6.0.9",
     "netlify-cli": "2.70.0",
     "newman": "5.2.2",
-    "nodemon": "2.0.6",
+    "nodemon": "2.0.7",
     "now": "21.0.1",
     "np": "7.2.0",
     "npm-check": "5.9.2",
