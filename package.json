@@ -16,7 +16,7 @@
     "lighthouse": "7.0.0",
     "markdownlint-cli": "0.26.0",
     "move-to": "1.5.1",
-    "netlify": "6.0.9",
+    "netlify": "6.0.11",
     "netlify-cli": "3.0.0",
     "newman": "5.2.2",
     "nodemon": "2.0.7",
