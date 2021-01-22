@@ -2435,6 +2435,11 @@
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-1.0.0.tgz#b68c426ee60b2adb28084b3058731dc6b59a5bd6"
   integrity sha512-LAicAlsAZXybGtKzaOTmIYelSe82vgZlc17IeNUQxab2IlUCH7VhTKCx9EyJEgiXhLvmYoOjuYE1Ee9ZsnrybA==
 
+"@netlify/open-api@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-1.3.0.tgz#873b6b1d678a883b3f8e097ce05054455253d676"
+  integrity sha512-GcCPXIWI8VDBsLN4nPvb6sKS9tbi4lrHLhex90hT27nwTDeu4HgGE93YilcsgZ1LLODJNxC5LdfTNLtvEHMKVg==
+
 "@netlify/plugin-edge-handlers@^1.10.0":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/@netlify/plugin-edge-handlers/-/plugin-edge-handlers-1.10.0.tgz#57c8a04669b4b0118eb645c46e1f12db396b4222"
@@ -2495,29 +2500,29 @@
   dependencies:
     execa "^3.4.0"
 
-"@netlify/traffic-mesh-agent-darwin-x64@^0.27.8":
-  version "0.27.8"
-  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-darwin-x64/-/traffic-mesh-agent-darwin-x64-0.27.8.tgz#df49a4634bc94dcea66b170de5545973690a7f01"
-  integrity sha512-y2AfFo/RDdnmSXFqsJD07iMjSiAkTyBSmUuailmVssPSO0Z6uiPvxvngFCz2e0qbiVarPu9japLkx630P/MmpQ==
+"@netlify/traffic-mesh-agent-darwin-x64@^0.27.10":
+  version "0.27.10"
+  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-darwin-x64/-/traffic-mesh-agent-darwin-x64-0.27.10.tgz#b7dd84262565993e1b632f62cbd6497d705fb828"
+  integrity sha512-j2blCh3TKNV35VPF9Zf/LM3v6pH/gz/Y7uu/78RLbgNvCW0vGN7b1GgFnXQKwrvbL6tRGumJS2P5PWUfEsKOBA==
 
-"@netlify/traffic-mesh-agent-linux-x64@^0.27.8":
-  version "0.27.8"
-  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-linux-x64/-/traffic-mesh-agent-linux-x64-0.27.8.tgz#03aed466655215be62362d99bba3b12c8669996b"
-  integrity sha512-tT+2Urh3dgePC1SbGZl0f2G51ss7yU+6E+fF9B1CYow/eGnQ8Z9PUc1QC1tNE3+js2ApO/eOm90iHCYIqLtF4w==
+"@netlify/traffic-mesh-agent-linux-x64@^0.27.10":
+  version "0.27.10"
+  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-linux-x64/-/traffic-mesh-agent-linux-x64-0.27.10.tgz#8885b4970a44d08a47a4da418ee3cfa9a3500892"
+  integrity sha512-JdeGT356TtqbxY6IjsS+wik68V0iNGdRsGV4cYOx/aAfclAyZ9DL29A4nzobyq5J+s5binrbKpix26/WKi+sqA==
 
-"@netlify/traffic-mesh-agent-win32-x64@^0.27.8":
-  version "0.27.8"
-  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-win32-x64/-/traffic-mesh-agent-win32-x64-0.27.8.tgz#75e165b604d0231a0c8f6ea58cd25c8c70c6e51d"
-  integrity sha512-c6W/uh+MiNGQNmVFfz6vQCbJxkOrR5Q4X8zd35mH1/+twmcMs8aRHHPr1aRw/LXb6uQzT8GRB7sV4lD5yBLqmA==
+"@netlify/traffic-mesh-agent-win32-x64@^0.27.10":
+  version "0.27.10"
+  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent-win32-x64/-/traffic-mesh-agent-win32-x64-0.27.10.tgz#3dd60bc9a6afba137e782192f4f18048da25daa3"
+  integrity sha512-ea6S9ik5X0TlA2e+jXk5D7lfvArPZjyQoIBEo7G1Tjw/vUU5Fx6KLfXv1iy7eJy+ENTLoyidscAjJ2wXlHI47g==
 
-"@netlify/traffic-mesh-agent@^0.27.8":
-  version "0.27.8"
-  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent/-/traffic-mesh-agent-0.27.8.tgz#ca7cb08df06c7dc184a43e137034368cdb089f05"
-  integrity sha512-hO58FtU+DYlSf2r4BQlf4d0ZhjUHoKCUQdDbHRRfIUUxGNoT6gIdGcMNkvtj+AO35t+tyh/vBRlPn1z38BUfyw==
+"@netlify/traffic-mesh-agent@^0.27.10":
+  version "0.27.10"
+  resolved "https://registry.yarnpkg.com/@netlify/traffic-mesh-agent/-/traffic-mesh-agent-0.27.10.tgz#a90c5a406b963a3c396816ed983a5be62191db3e"
+  integrity sha512-HZXEdIXzg8CpysYRDVXkBpmjOj/C8Zb8Q/qkkt9x+npJ56HeX6sXAE4vK4SMCRLkkbQ2VyYTaDKg++GefeB2Gg==
   optionalDependencies:
-    "@netlify/traffic-mesh-agent-darwin-x64" "^0.27.8"
-    "@netlify/traffic-mesh-agent-linux-x64" "^0.27.8"
-    "@netlify/traffic-mesh-agent-win32-x64" "^0.27.8"
+    "@netlify/traffic-mesh-agent-darwin-x64" "^0.27.10"
+    "@netlify/traffic-mesh-agent-linux-x64" "^0.27.10"
+    "@netlify/traffic-mesh-agent-win32-x64" "^0.27.10"
 
 "@netlify/zip-it-and-ship-it@^1.3.12":
   version "1.4.0"
@@ -3761,10 +3766,10 @@
   resolved "https://registry.yarnpkg.com/@verdaccio/ui-theme/-/ui-theme-1.15.1.tgz#463f12ce3b4950bba1f3f23d5c592b7b235b2652"
   integrity sha512-CSd/NnVuqWQo7RnmL7ehZeAEYUbvGM33VmWGzoO91Ujny2tbhlg7kdpbfiEIoKl8Yc2wd9bVMd1HJATDF2uHGw==
 
-"@vue/cli-shared-utils@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.5.10.tgz#e3b84c38bba19c6d995278b15261da865790561c"
-  integrity sha512-Lid6FflDqcvo/JBIBjUriAQ1RkQaKbBpzXSLEK/JmoKkQRHW/rRhDLGI1dEVyOLYnDEiL1m8o1xPJaplUUiXpA==
+"@vue/cli-shared-utils@^4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.5.11.tgz#fff71673ee9128f998c691515b9d327071b4f41e"
+  integrity sha512-+aaQ+ThQG3+WMexfSWNl0y6f43edqVqRNbguE53F3TIH81I7saS5S750ayqXhZs2r6STJJyqorQnKtAWfHo29A==
   dependencies:
     "@hapi/joi" "^15.0.1"
     chalk "^2.4.2"
@@ -3779,23 +3784,23 @@
     semver "^6.1.0"
     strip-ansi "^6.0.0"
 
-"@vue/cli-ui-addon-webpack@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-4.5.10.tgz#af399056d27e86e55618a0a7899d17b589d7b367"
-  integrity sha512-+/l7m6f8bk++zv6mN4MzJnlBOGfl4M01Ir01n9UP2z2lX2ozpu4kU6bldrssaj/o2u2XazL3udXzbYA6sJFgOg==
+"@vue/cli-ui-addon-webpack@^4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-4.5.11.tgz#04ce11317ace3bce0b0ad768436cd801da13fec5"
+  integrity sha512-k7Iv8ZfoiFtbHNDlntIUee1fCbS5PkQT9ZuI+tMV7eP7fbQXPSRDefsEOb0lAnrZ953tli+AF+hh2XhP6ihZig==
 
-"@vue/cli-ui-addon-widgets@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-4.5.10.tgz#f4ec6819422d3119a1c4b8a66cdd08ff2bb66e99"
-  integrity sha512-Y89eMWLICYqoYRODJbMrr+4qporxo1gtRUAJltDKSgCZ8cn2Pt5A2/jwjxy9PueliKrvt19soF2/ckM3CLy/eA==
+"@vue/cli-ui-addon-widgets@^4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-4.5.11.tgz#9cb8d1ff913319f057a6026ee33ddf88a08bfe45"
+  integrity sha512-uUZIfWWfvFMAtfyzaJDtwRqN2vNzc2nnALEJliv2ccVRZHS8mwB/aLoaX0hL3h+RBJ8WV2PDiXmRFcESyDfKjA==
 
-"@vue/cli-ui@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-4.5.10.tgz#5c7f3b75306275e86ac4c59d9ee39b64be3c975a"
-  integrity sha512-nMB24EZcswLxYBudjlKu15l/q2uO2YAn3iag3k4oGBg4n6ZQNvuAFY842GmuccJO3CHKlBXdyVDKoQUWz8fSQg==
+"@vue/cli-ui@^4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-4.5.11.tgz#383b7e112abd26deddbc475ced0fe26e8a569124"
+  integrity sha512-hT9cukom8WkV+U3GL0yOFDvWXqG35vy5ddSLideUOK2Ylht0AW7P9DDfUls/cDCpQ172LfPnvKRO/8zADqSElg==
   dependencies:
     "@akryum/winattr" "^3.0.0"
-    "@vue/cli-shared-utils" "^4.5.10"
+    "@vue/cli-shared-utils" "^4.5.11"
     apollo-server-express "^2.13.1"
     clone "^2.1.1"
     deepmerge "^4.2.2"
@@ -3814,7 +3819,7 @@
     lowdb "^1.0.0"
     lru-cache "^5.1.1"
     node-ipc "^9.1.1"
-    node-notifier "^6.0.0"
+    node-notifier "^9.0.0"
     parse-git-config "^2.0.2"
     portfinder "^1.0.26"
     prismjs "^1.20.0"
@@ -3824,17 +3829,17 @@
     vue-cli-plugin-apollo "^0.21.3"
     watch "^1.0.2"
 
-"@vue/cli@4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-4.5.10.tgz#3aef56cd48e44eaf831526eb3f40ee37826c5cdc"
-  integrity sha512-+D54DdYcirXtV7f6G7WkDSt1nnzmgA17rRu3qhgOlwIaZ5xaJSroDzLgdgizvg4gJ2yJNCmoKrK1FXnjqTdIyQ==
+"@vue/cli@4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-4.5.11.tgz#ab46e00559d4b8cae6a7b74f4140f250225893e8"
+  integrity sha512-w6B1+Fb0AHwAd8eE1q4/KrJph/kXo/cqQ0Lf5MnXCYt7SXdDPBGTdyFAumMaSPQESXgmdWgEo8EhnVEBNpXDIw==
   dependencies:
     "@types/ejs" "^2.7.0"
     "@types/inquirer" "^6.5.0"
-    "@vue/cli-shared-utils" "^4.5.10"
-    "@vue/cli-ui" "^4.5.10"
-    "@vue/cli-ui-addon-webpack" "^4.5.10"
-    "@vue/cli-ui-addon-widgets" "^4.5.10"
+    "@vue/cli-shared-utils" "^4.5.11"
+    "@vue/cli-ui" "^4.5.11"
+    "@vue/cli-ui-addon-webpack" "^4.5.11"
+    "@vue/cli-ui-addon-widgets" "^4.5.11"
     boxen "^4.1.0"
     cmd-shim "^3.0.3"
     commander "^2.20.0"
@@ -15694,16 +15699,16 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.4.1.tgz#63a9260dec2baf3a31654382d6828b948211e95d"
-  integrity sha512-g1urfn0WbQpYV0d+UFP3TjLlQxRP5hGv2tB0l/QInXM4CJr1uRyP/XuAOJf104bYamI+6wFcs4haYW+Qg7JVaQ==
+netlify-cli@3.4.2:
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.4.2.tgz#b97b6e9553babcaa5b460c0d7e036fc91a0e2443"
+  integrity sha512-hzLwtQqZBa+gky2pockrrl6Mb9c4L5mDbBajTeyWf8m0ehYZ9fERR2uHy6CECXJhkqdgSEsis2D+9lEH4rSDUQ==
   dependencies:
     "@netlify/build" "^8.0.5"
     "@netlify/config" "^3.0.1"
     "@netlify/framework-info" "^2.0.0"
     "@netlify/plugin-edge-handlers" "^1.10.0"
-    "@netlify/traffic-mesh-agent" "^0.27.8"
+    "@netlify/traffic-mesh-agent" "^0.27.10"
     "@netlify/zip-it-and-ship-it" "^2.0.0"
     "@oclif/command" "^1.6.1"
     "@oclif/config" "^1.15.1"
@@ -15817,12 +15822,12 @@ netlify-redirector@^0.2.0:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@6.0.12:
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.0.12.tgz#e1feb3eb677349098261f22e2ca763804f12ef15"
-  integrity sha512-WAOvHMmd4E/SF8wagbbg0/HV2CXNsmKHvqxJ1carJ6eX1xhqtvLs5xjNL6fFqajj8Qmyl02YmHIq3eb6yyFRWA==
+netlify@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.0.tgz#c1655b1f632df23e1cf41c38a9c34e5d680ff630"
+  integrity sha512-qZb+i8v2yhYNcey4cvzkd4rQOPjxKANn7kHmevzksu1dYun4iM+9odsG5Jcby25CrepYKR2e+4wWbAmkGSo/ZA==
   dependencies:
-    "@netlify/open-api" "^1.0.0"
+    "@netlify/open-api" "^1.3.0"
     "@netlify/zip-it-and-ship-it" "^2.0.0"
     backoff "^2.5.0"
     clean-deep "^3.3.0"
@@ -16078,16 +16083,17 @@ node-notifier@^5.4.2:
     shellwords "^0.1.1"
     which "^1.3.0"
 
-node-notifier@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-6.0.0.tgz#cea319e06baa16deec8ce5cd7f133c4a46b68e12"
-  integrity sha512-SVfQ/wMw+DesunOm5cKqr6yDcvUTDl/yc97ybGHMrteNEY6oekXpNpS3lZwgLlwz0FLgHoiW28ZpmBHUDg37cw==
+node-notifier@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-9.0.0.tgz#46c5bbecbb796d4a803f646cea5bc91403f2ff38"
+  integrity sha512-SkwNwGnMMlSPrcoeH4CSo9XyWe72acAHEJGDdPdB+CyBVHsIYaTQ4U/1wk3URsyzC75xZLg2vzU2YaALlqDF1Q==
   dependencies:
     growly "^1.3.0"
-    is-wsl "^2.1.1"
-    semver "^6.3.0"
+    is-wsl "^2.2.0"
+    semver "^7.3.2"
     shellwords "^0.1.1"
-    which "^1.3.1"
+    uuid "^8.3.0"
+    which "^2.0.2"
 
 node-oauth1@1.3.0:
   version "1.3.0"
@@ -22417,7 +22423,7 @@ uuid@3.4.0, uuid@^3.0.0, uuid@^3.0.1, uuid@^3.1.0, uuid@^3.3.2:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
-uuid@8.3.2:
+uuid@8.3.2, uuid@^8.3.0:
   version "8.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
