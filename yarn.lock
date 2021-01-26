@@ -3691,10 +3691,10 @@
   resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.6.1-canary.0.tgz#ba549e7817c5a13e9ce271f88db3c3b9432d0d8b"
   integrity sha512-lwTNPC4xCTeqzdHSsfIzHD5h/SwwcIemA5MDRUVdFEuYyF9X38i5A01ad1l/WedCQDi7IP3Q1IGOJ9g7XKJXOg==
 
-"@vercel/build-utils@2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.7.0.tgz#b187a4ad970352d81b8f5f974c215f1268867727"
-  integrity sha512-WyTjeFpIOfUTLWB+LrJEAbs03SKD0lcA26CMt2tzPF+jaGL/hjCcRxkZJhMSRUu3LAesjKtQ7zGUuFtV0l5S3w==
+"@vercel/build-utils@2.8.0":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.8.0.tgz#9da9d002aaa39192b4260998566b935b598fdd3e"
+  integrity sha512-iLL7GjscjZhDSiv2XOnatGw/+POnTTo/jvyJHrHGgjQPB4AvbnkvAcJrujg26cLD1S4ussfAssS938PBM+Ozdw==
 
 "@vercel/go@1.1.6":
   version "1.1.6"
@@ -17706,10 +17706,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@5.15.3:
-  version "5.15.3"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.15.3.tgz#d938b8171fb026bca6e92f23dfb7d400db021e8f"
-  integrity sha512-3E53AIFukQA8OAgYcIb7dGN5+MA0GfNK8nMJwuT6sDnLC/bUs9uUSc+CaHKxZ34SIx/K5bH7gc6Q1kg2R/AiVg==
+pnpm@5.16.0:
+  version "5.16.0"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-5.16.0.tgz#0a353b015c3f9afd93657aff649adb5e385274de"
+  integrity sha512-f7bNVvYGK24eiZ5gYX4wKOSohg6kIybEhrprHqUtFsP3TfttGSLqid1OTzLvVzwVp58QBj9ifOVwRQ+RiSmE0A==
 
 portfinder@^1.0.26:
   version "1.0.28"
@@ -22522,12 +22522,12 @@ vendors@^1.0.0:
   resolved "https://registry.yarnpkg.com/vendors/-/vendors-1.0.4.tgz#e2b800a53e7a29b93506c3cf41100d16c4c4ad8e"
   integrity sha512-/juG65kTL4Cy2su4P8HjtkTxk6VmJDiOPBufWniqQ6wknac6jNiXS9vU+hO3wgusiyqWlzTbVHi0dyJqRONg3w==
 
-vercel@21.1.0:
-  version "21.1.0"
-  resolved "https://registry.yarnpkg.com/vercel/-/vercel-21.1.0.tgz#dd118bb89b1c2eee078437eac7f6f71ff4f80ea9"
-  integrity sha512-01NKN1V7oAq4oxkm7OPw/SNMsnF+UPX2OTgq5SxUKyZlz34aqvj+LvEjs4KWNGXFzTAelmuFze7VOObvmB7mug==
+vercel@21.2.0:
+  version "21.2.0"
+  resolved "https://registry.yarnpkg.com/vercel/-/vercel-21.2.0.tgz#c049d1ba516e75b7ea3ac0c481046db93237eead"
+  integrity sha512-r6XVbfDNCX+nyb8ljEHcl0MtggX8rgxg5N7pMgxQQDj9vofSLFf7yeUgTL4BIK/jqTFKGWe/iMmlvrCWMjpziQ==
   dependencies:
-    "@vercel/build-utils" "2.7.0"
+    "@vercel/build-utils" "2.8.0"
     "@vercel/go" "1.1.7"
     "@vercel/node" "1.9.0"
     "@vercel/python" "1.2.4"
