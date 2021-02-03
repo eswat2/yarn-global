@@ -7675,10 +7675,10 @@ create-hmac@^1.1.0, create-hmac@^1.1.4, create-hmac@^1.1.7:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-create-react-app@4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/create-react-app/-/create-react-app-4.0.1.tgz#a902ef957a322b9742e1d55c650c43dce2616257"
-  integrity sha512-ryEU58YUtn4gxaEQ/Zwt3Bbmkoc3MghLNbNKs1MUg8zDWyM+az1SvMmZ7QaXye9DNNwn5TS2/Ok+fpw2KKvZhA==
+create-react-app@4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/create-react-app/-/create-react-app-4.0.2.tgz#5f4e302fcf5a8c2685d46bbceddd061de2ce210a"
+  integrity sha512-B78UC1E8LwvbmvEjIPumKXvu9yeNTpaKrNVf0HpP5AJmGgq9fdipcYKtpqRNAwm06lvhpNhO3jvR9xeRQDsmog==
   dependencies:
     chalk "4.1.0"
     commander "4.1.1"
