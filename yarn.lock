@@ -16066,10 +16066,10 @@ netlify-redirector@^0.2.1:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@6.1.8, netlify@^6.1.8:
-  version "6.1.8"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.8.tgz#de071d39aeb95ecc81b9eed3d1a22d0fd232da67"
-  integrity sha512-x1PmAlf41NebEq1k8JP36pkUImq1a7pedCTOQngLqtWXwaKFsHLWxkKBJZsYiCxWI+vu8ZoIeopsm7hYiArC0g==
+netlify@6.1.9:
+  version "6.1.9"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.9.tgz#03e6f003843efc27242da8b573bd9ea36e283107"
+  integrity sha512-+t/yyPusR0/bwB/IQPT5mcwe3erlS+x8rBy006f1Gu2WsbUHpI20/Qyz0h3SJ4m7sSqeDVTVidFqQjbxMLKb0w==
   dependencies:
     "@netlify/open-api" "^1.3.0"
     "@netlify/zip-it-and-ship-it" "^2.3.0"
@@ -16118,6 +16118,33 @@ netlify@^6.0.0:
     parallel-transform "^1.1.0"
     pump "^3.0.0"
     qs "^6.9.3"
+    rimraf "^3.0.2"
+    tempy "^0.3.0"
+    through2-filter "^3.0.0"
+    through2-map "^3.0.0"
+
+netlify@^6.1.8:
+  version "6.1.8"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.8.tgz#de071d39aeb95ecc81b9eed3d1a22d0fd232da67"
+  integrity sha512-x1PmAlf41NebEq1k8JP36pkUImq1a7pedCTOQngLqtWXwaKFsHLWxkKBJZsYiCxWI+vu8ZoIeopsm7hYiArC0g==
+  dependencies:
+    "@netlify/open-api" "^1.3.0"
+    "@netlify/zip-it-and-ship-it" "^2.3.0"
+    backoff "^2.5.0"
+    clean-deep "^3.4.0"
+    flush-write-stream "^2.0.0"
+    folder-walker "^3.2.0"
+    from2-array "0.0.4"
+    hasha "^5.2.2"
+    lodash.camelcase "^4.3.0"
+    micro-api-client "^3.3.0"
+    node-fetch "^2.6.1"
+    omit.js "^2.0.2"
+    p-map "^3.0.0"
+    p-wait-for "^3.2.0"
+    parallel-transform "^1.2.0"
+    pump "^3.0.0"
+    qs "^6.9.6"
     rimraf "^3.0.2"
     tempy "^0.3.0"
     through2-filter "^3.0.0"
@@ -21272,10 +21299,10 @@ supports-hyperlinks@^2.0.0, supports-hyperlinks@^2.1.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-svgo@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/svgo/-/svgo-2.0.0.tgz#ba627609d15ab6514f505b5f4e9311a1e0c9ad73"
-  integrity sha512-oCHAONOycXoUTZRNeASVxz43nZN7lrY+4wuE4RYjTYxMq5nIu3bJPOvCfeA227CXOFebyaxsv7nsFxnguD3Sfw==
+svgo@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/svgo/-/svgo-2.0.1.tgz#6db16e349d9bef9264a1325c402c9629f0eecd12"
+  integrity sha512-v5Tzv3WPayd0XVnpmnRHqWqSHAabQFFjiTuA/KrBAOwMIyn6odBk1bCmygJJbw/6IJLwGznSvaNDKqNQeWJOtA==
   dependencies:
     chalk "^4.1.0"
     commander "^7.1.0"
