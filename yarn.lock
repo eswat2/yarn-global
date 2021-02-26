@@ -2283,10 +2283,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^9.2.0":
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-9.2.0.tgz#b04ee875c7035b2d51813d8e4f58b50876478e04"
-  integrity sha512-bpPW91WdqRpkG+95XvbHeKAYcx8/fCh68ttZJqm5dv5YYBOaxBJhARY9i47rmQGCPVUFe3joS4p7fTKH5zMMYQ==
+"@netlify/build@^9.4.0":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-9.4.0.tgz#18ece0a6e38e8a97f089f408f9ebe96e976bf059"
+  integrity sha512-mgu+FRYBK74UF1LiV4D1W1th/BuBSSRZc0xQZoCbPuvz2gD4ZK3p2uf34CyzN8Va6CR+j0tMVpNU5uGNR9ic1g==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^1.0.7"
@@ -2296,7 +2296,7 @@
     "@netlify/plugin-edge-handlers" "^1.11.5"
     "@netlify/plugins-list" "^2.2.0"
     "@netlify/run-utils" "^1.0.6"
-    "@netlify/zip-it-and-ship-it" "^2.3.0"
+    "@netlify/zip-it-and-ship-it" "^2.4.0"
     "@sindresorhus/slugify" "^1.1.0"
     "@ungap/from-entries" "^0.2.1"
     array-flat-polyfill "^1.0.1"
@@ -2552,6 +2552,34 @@
     elf-cam "^0.1.1"
     end-of-stream "^1.4.4"
     esbuild "^0.8.36"
+    find-up "^4.1.0"
+    glob "^7.1.6"
+    junk "^3.1.0"
+    locate-path "^5.0.0"
+    make-dir "^3.1.0"
+    p-map "^3.0.0"
+    path-exists "^4.0.0"
+    pkg-dir "^4.2.0"
+    precinct "^6.3.1"
+    require-package-name "^2.0.1"
+    resolve "^2.0.0-next.1"
+    semver "^7.3.2"
+    unixify "^1.0.0"
+    yargs "^15.4.1"
+
+"@netlify/zip-it-and-ship-it@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-2.4.0.tgz#1f85222c7560fffdf3ef18e045c3a80f15ecdf52"
+  integrity sha512-ApuQqnm5x97mFaUEQmmkogcH3MtvPmX1W6MI3Yp4pBXBtRjqTbkrUOiEq97mNnvRR3zEvR8kTLOY7Hd7lAL4bQ==
+  dependencies:
+    archiver "^4.0.0"
+    array-flat-polyfill "^1.0.1"
+    common-path-prefix "^2.0.0"
+    cp-file "^7.0.0"
+    elf-cam "^0.1.1"
+    end-of-stream "^1.4.4"
+    esbuild "^0.8.46"
+    filter-obj "^2.0.1"
     find-up "^4.1.0"
     glob "^7.1.6"
     junk "^3.1.0"
@@ -3658,25 +3686,25 @@
   resolved "https://registry.yarnpkg.com/@ungap/from-entries/-/from-entries-0.2.1.tgz#7e86196b8b2e99d73106a8f25c2a068326346354"
   integrity sha512-CAqefTFAfnUPwYqsWHXpOxHaq1Zo5UQ3m9Zm2p09LggGe57rqHoBn3c++xcoomzXKynAUuiBMDUCQvKMnXjUpA==
 
+"@vercel/build-utils@2.10.0":
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.10.0.tgz#69b6e7f6d4572951d4c8409bd8d83a8d12c7e842"
+  integrity sha512-2Xr+bUGvNtKULVNoJacnvlyDDoYaw6x68LF0fD/dPoIX0Ihz6rKV+zO2+hQQy8oJEyQ/JdYm6yAGekf85v7RYA==
+
 "@vercel/build-utils@2.6.1-canary.0":
   version "2.6.1-canary.0"
   resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.6.1-canary.0.tgz#ba549e7817c5a13e9ce271f88db3c3b9432d0d8b"
   integrity sha512-lwTNPC4xCTeqzdHSsfIzHD5h/SwwcIemA5MDRUVdFEuYyF9X38i5A01ad1l/WedCQDi7IP3Q1IGOJ9g7XKJXOg==
-
-"@vercel/build-utils@2.9.0":
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-2.9.0.tgz#2bb5def3df7080a892d86e25c7bb1af35f2b8964"
-  integrity sha512-cuLqv7dI1v8TqIJYu3nR4S9FAJZoGPu3ZfV+y498gVUDpwtcAQ5sdWkiqS7jPIHG03APy6rR2cEO7sYm6Ydudw==
 
 "@vercel/go@1.1.6":
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/@vercel/go/-/go-1.1.6.tgz#45ac3a6bd98a15b8bf1028b8c141a51fd971ac15"
   integrity sha512-swA2crS08fkPmw4UkR9yjmoL8FOCzuNHLFDqj8oM1V9ni610ibJ7Xk57jI8uyS7bTecQVh8VUxihb+SF0GT+aw==
 
-"@vercel/go@1.1.8":
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/@vercel/go/-/go-1.1.8.tgz#18c10c0e608f83d5c67546b01b7267f943c0b01d"
-  integrity sha512-vqW1ALevLbgyIJ5YwJU05BwStWPflyB+tt0Au9Ko00BX3TOdsyzl8CX2ARtMtYW8+qtkn51z2CfasA0mC3D8vA==
+"@vercel/go@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@vercel/go/-/go-1.2.0.tgz#a8438e6d97a89de4e1c365c45347e57423375e70"
+  integrity sha512-xuoJ80QQ7Xa9ZbjUQ/QdDmi20ZqIMdxK+iFOakpFOCEyoxTnjZxyM+JJSB4AVD7k2UPaRmN14xaEg8GNMoByLQ==
 
 "@vercel/node@1.8.5":
   version "1.8.5"
@@ -9199,6 +9227,11 @@ esbuild@^0.8.36:
   version "0.8.43"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.43.tgz#19d79f8c6d1cc6dadd50942057a5aff906a1ecf2"
   integrity sha512-ZVE2CpootS4jtnfV0bbtJdgRsHEXcMP0P7ZXGfTmNzzhBr2e5ag7Vp3ry0jmw8zduJz4iHzxg4m5jtPxWERz1w==
+
+esbuild@^0.8.46:
+  version "0.8.52"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.52.tgz#6dabf11c517af449a96d66da20dfc204ee7b5294"
+  integrity sha512-b5KzFweLLXoXQwdC/e2+Z80c8uo2M5MgP7yQEEebkFw6In4T9CvYcNoM2ElvJt8ByO04zAZUV0fZkXmXoi2s9A==
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -15743,17 +15776,17 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.10.0.tgz#87e0c0d4d10904a819d90679b9d71b417c228aa5"
-  integrity sha512-WGgQYCHJ4/J1qe+uAckphmgBfB1WP3usFfa/9TBWAHfNMtvwwZX3JeIzjWxG7t+v89nwCCR/y0ZN93Z427fWNw==
+netlify-cli@3.10.1:
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.10.1.tgz#9d207b5f3ce1a4717da3abfc9e41d9514f32731a"
+  integrity sha512-ZqG191B8Q2oWIHiuHRr8JyHOXLVnHKZFmES7uDSKaLT0IIqaMPv+86z/BV6x08TVBrQLNTVPFmEZJRsCg+A7ig==
   dependencies:
-    "@netlify/build" "^9.2.0"
+    "@netlify/build" "^9.4.0"
     "@netlify/config" "^4.0.2"
     "@netlify/framework-info" "^2.3.0"
     "@netlify/plugin-edge-handlers" "^1.11.5"
     "@netlify/traffic-mesh-agent" "^0.27.10"
-    "@netlify/zip-it-and-ship-it" "^2.3.0"
+    "@netlify/zip-it-and-ship-it" "^2.4.0"
     "@oclif/command" "^1.6.1"
     "@oclif/config" "^1.15.1"
     "@oclif/errors" "^1.3.4"
@@ -22554,13 +22587,13 @@ vendors@^1.0.0:
   resolved "https://registry.yarnpkg.com/vendors/-/vendors-1.0.4.tgz#e2b800a53e7a29b93506c3cf41100d16c4c4ad8e"
   integrity sha512-/juG65kTL4Cy2su4P8HjtkTxk6VmJDiOPBufWniqQ6wknac6jNiXS9vU+hO3wgusiyqWlzTbVHi0dyJqRONg3w==
 
-vercel@21.2.3:
-  version "21.2.3"
-  resolved "https://registry.yarnpkg.com/vercel/-/vercel-21.2.3.tgz#385dd704f1905a77d6e0b6c63bfd7aa6dcdee710"
-  integrity sha512-PmADUVtkmxli8/KXjteMYH1SpgiGwC1+q4B2vqhyHvKVwO6pInEVwBubnLE6cobxgj5x005cbKW33vSvcDfvaQ==
+vercel@21.3.0:
+  version "21.3.0"
+  resolved "https://registry.yarnpkg.com/vercel/-/vercel-21.3.0.tgz#c8dfb1d72ff979d14f0494f76143e80f4fafcc9b"
+  integrity sha512-wQz0K8iGJIBU6IBpxFvNUM7eftwR83ZRJ9O8vIxnfYotvixvCXpf9qF1gjoSiIHQwz51tunxZYQnNajg/VcdKA==
   dependencies:
-    "@vercel/build-utils" "2.9.0"
-    "@vercel/go" "1.1.8"
+    "@vercel/build-utils" "2.10.0"
+    "@vercel/go" "1.2.0"
     "@vercel/node" "1.9.1-canary.0"
     "@vercel/python" "1.2.5-canary.1"
     "@vercel/ruby" "1.2.6-canary.0"
@@ -22585,10 +22618,10 @@ verdaccio-htpasswd@9.7.2:
     http-errors "1.8.0"
     unix-crypt-td-js "1.1.4"
 
-verdaccio@4.11.0:
-  version "4.11.0"
-  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-4.11.0.tgz#7211cdb34d9856e4c44f2956069dd541428c1785"
-  integrity sha512-9mNILk0MLcd1e2EHhHVQHaiAIqYxr828Bu9ZDDXBEEA1jRNDqkwqdqr2zFfaTb0rRAfAqiorq/VvB4pNyJXWHQ==
+verdaccio@4.11.1:
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-4.11.1.tgz#da644c46bf053839fc423a072acbc26831920292"
+  integrity sha512-xlu61MWAWztdEsGM2vUbv5fUv+E4GWTZ9rTYU/uc1+X3EURMLEHDdFBZR7qe0abfB3Kj59GATNEtQNQ2KvqNDA==
   dependencies:
     "@verdaccio/commons-api" "9.7.1"
     "@verdaccio/local-storage" "9.7.4"
