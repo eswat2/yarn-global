@@ -35,7 +35,7 @@
     "typescript": "4.2.3",
     "updtr": "3.1.0",
     "uuid": "8.3.2",
-    "vercel": "21.3.2",
+    "vercel": "21.3.3",
     "verdaccio": "4.11.3",
     "wait-on": "5.2.1",
     "yarn-check": "0.0.3"
