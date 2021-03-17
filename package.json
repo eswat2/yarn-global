@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "@storybook/storybook-deployer": "2.8.7",
-    "@vue/cli": "4.5.11",
+    "@vue/cli": "4.5.12",
     "cloc": "2.7.0",
     "concurrently": "6.0.0",
     "create-react-app": "4.0.3",
     "create-react-library": "3.1.1",
-    "cspell": "5.3.7",
+    "cspell": "5.3.8",
     "devolution": "2.3.1",
     "direflow-cli": "3.5.3",
     "eslint": "7.22.0",
@@ -17,7 +17,7 @@
     "markdownlint-cli": "0.27.1",
     "move-to": "1.5.1",
     "netlify": "6.1.16",
-    "netlify-cli": "3.12.0",
+    "netlify-cli": "3.13.1",
     "newman": "5.2.2",
     "nodemon": "2.0.7",
     "now": "21.0.1",
@@ -36,8 +36,8 @@
     "updtr": "3.1.0",
     "uuid": "8.3.2",
     "vercel": "21.3.3",
-    "verdaccio": "4.11.3",
-    "wait-on": "5.2.1",
+    "verdaccio": "4.12.0",
+    "wait-on": "5.3.0",
     "yarn-check": "0.0.3"
   }
 }
