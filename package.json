@@ -13,7 +13,7 @@
     "foreman": "3.0.1",
     "hackmyresume": "1.9.0-beta",
     "lerna": "4.0.0",
-    "lighthouse": "7.3.0",
+    "lighthouse": "7.4.0",
     "markdownlint-cli": "0.27.1",
     "move-to": "1.5.1",
     "netlify": "6.1.22",
@@ -23,7 +23,7 @@
     "now": "21.0.1",
     "np": "7.5.0",
     "npm-check": "5.9.2",
-    "npm-check-updates": "11.5.3",
+    "npm-check-updates": "11.5.4",
     "parcel-bundler": "1.12.5",
     "pnpm": "6.2.1",
     "prettier": "2.2.1",
@@ -36,7 +36,7 @@
     "updtr": "3.1.0",
     "uuid": "8.3.2",
     "vercel": "22.0.1",
-    "verdaccio": "5.0.2",
+    "verdaccio": "5.0.3",
     "wait-on": "5.3.0",
     "yarn-check": "0.0.3"
   }
