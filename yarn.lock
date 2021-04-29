@@ -2160,10 +2160,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^11.3.1":
-  version "11.3.1"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-11.3.1.tgz#107ce459343669252c117e68f010c23b1f9fa35c"
-  integrity sha512-tTqgbarml9WeNGmX06FTVdB+hFRhMADNvIbWWil3vdD/mX55XYJrxgTsCt+q40/ie6UKZjvO1qoiK5QbiUqmOg==
+"@netlify/build@^11.3.2":
+  version "11.3.2"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-11.3.2.tgz#3f48c374666e15342de6b891c30d85760fabc256"
+  integrity sha512-og3TwysswYVo0gt3clFAjrUMw0clJnkqisbIVBbnej/6F2jvSEdBTyjqllJSBQuc8BWEVAtV62qX/K3GkDl+NQ==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^1.0.7"
@@ -2327,6 +2327,11 @@
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-1.3.0.tgz#873b6b1d678a883b3f8e097ce05054455253d676"
   integrity sha512-GcCPXIWI8VDBsLN4nPvb6sKS9tbi4lrHLhex90hT27nwTDeu4HgGE93YilcsgZ1LLODJNxC5LdfTNLtvEHMKVg==
+
+"@netlify/open-api@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.3.1.tgz#dfac54eb860bd5d0eb13082cfc6d7626a5e5705b"
+  integrity sha512-t+4M1iJNVTSu/Q8Xxr0RQFzuMoVs0s2UaomCLLvbnWP9IHP9So7fiJ9ynwykDKFovPjUqgkU2Yqm+7KlXJ0k9g==
 
 "@netlify/plugin-edge-handlers@^1.11.6":
   version "1.11.6"
@@ -8097,10 +8102,10 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-direflow-cli@3.5.3:
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/direflow-cli/-/direflow-cli-3.5.3.tgz#da4ee114a8e81c8f15cfa66d3c7ada480aa3726d"
-  integrity sha512-Ay5vxuESJ1rwr/Je+QgsejCXZf3+ElrnARJm9CNWpkRxcVDAnn5GwamrG2f/b2bdsUjcGQ5Ao9Toji+tNAo4tQ==
+direflow-cli@3.5.4:
+  version "3.5.4"
+  resolved "https://registry.yarnpkg.com/direflow-cli/-/direflow-cli-3.5.4.tgz#fd6a7667ca5138445122303d004bd22fad6c06fe"
+  integrity sha512-ivTKJvOePWXhYUorLvndFmaMNAEaTcbTdmAZpLMkCE0AEmeBtFG+48S7plmL0yfemqABr4Is2JsUxrHFnEj/pQ==
   dependencies:
     boxen "^4.1.0"
     chalk "2.4.2"
@@ -14827,12 +14832,12 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.23.1:
-  version "3.23.1"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.23.1.tgz#149a9c8668bdb5d9565f34f0b62f259e52810f6e"
-  integrity sha512-5Qg12CmiEgZKLon0OEhVIaLqc4XQvqoSNT24UAYXWvVd+ZioN1qjd2vOeryq7VKTF2MTwP2/vwX/tMA7MWA0IA==
+netlify-cli@3.24.0:
+  version "3.24.0"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.24.0.tgz#160fa32bc4c9a82c94c1a29c06ce2a57d9331a06"
+  integrity sha512-Fc6HLpobfZrwTJEmsd5TYGJmEvLoDm+i25cN3TvYzayK8RnYVakSNMis74rjxhvUxWH4WG8HdmZULdcRPUk7yA==
   dependencies:
-    "@netlify/build" "^11.3.1"
+    "@netlify/build" "^11.3.2"
     "@netlify/config" "^6.3.0"
     "@netlify/framework-info" "^4.0.0"
     "@netlify/plugin-edge-handlers" "^1.11.6"
@@ -14946,12 +14951,12 @@ netlify-redirector@^0.2.1:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@6.1.22, netlify@^6.1.22:
-  version "6.1.22"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.22.tgz#fb52d9fddd8130aa1348c52a3e03380bbae105ad"
-  integrity sha512-Ygamgz3EAPBG7PBs4Hq78nswGJLC7R6ndS7VfkHD9+X3l5LJ4E95+Lw4HlbD3wiDt1jp4dJ+VHn2Y0Z123rqzQ==
+netlify@6.1.24:
+  version "6.1.24"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.24.tgz#9796248eeb2a8080a55dd2c9fd137c55d042bbd7"
+  integrity sha512-4LN6vxz6eB0NZ680JlrwOzVMoLW7fm3k7pYA1zV6UkR2z0c+VFs12XXIO4M2VCt8Piyof6GTarbubXMjBitTQw==
   dependencies:
-    "@netlify/open-api" "^1.3.0"
+    "@netlify/open-api" "^2.3.1"
     "@netlify/zip-it-and-ship-it" "^3.8.0"
     backoff "^2.5.0"
     clean-deep "^3.4.0"
@@ -14980,6 +14985,33 @@ netlify@^6.1.18:
   dependencies:
     "@netlify/open-api" "^1.3.0"
     "@netlify/zip-it-and-ship-it" "^3.3.0"
+    backoff "^2.5.0"
+    clean-deep "^3.4.0"
+    flush-write-stream "^2.0.0"
+    folder-walker "^3.2.0"
+    from2-array "0.0.4"
+    hasha "^5.2.2"
+    lodash.camelcase "^4.3.0"
+    micro-api-client "^3.3.0"
+    node-fetch "^2.6.1"
+    omit.js "^2.0.2"
+    p-map "^3.0.0"
+    p-wait-for "^3.2.0"
+    parallel-transform "^1.2.0"
+    pump "^3.0.0"
+    qs "^6.9.6"
+    rimraf "^3.0.2"
+    tempy "^0.3.0"
+    through2-filter "^3.0.0"
+    through2-map "^3.0.0"
+
+netlify@^6.1.22:
+  version "6.1.22"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.22.tgz#fb52d9fddd8130aa1348c52a3e03380bbae105ad"
+  integrity sha512-Ygamgz3EAPBG7PBs4Hq78nswGJLC7R6ndS7VfkHD9+X3l5LJ4E95+Lw4HlbD3wiDt1jp4dJ+VHn2Y0Z123rqzQ==
+  dependencies:
+    "@netlify/open-api" "^1.3.0"
+    "@netlify/zip-it-and-ship-it" "^3.8.0"
     backoff "^2.5.0"
     clean-deep "^3.4.0"
     flush-write-stream "^2.0.0"
@@ -15429,10 +15461,10 @@ npm-bundled@^1.1.1:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@11.5.4:
-  version "11.5.4"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.5.4.tgz#cdb65a1e88809e74ace38b57f9a21de4982c5484"
-  integrity sha512-rErQZR/O95L2ejYFrs37E5QWbo0VEuR74EKNq9z0WlcO/V9p9AtKzeaBqhtfbfO0ABqT19Z9WWZy8XEP1u/nHA==
+npm-check-updates@11.5.5:
+  version "11.5.5"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.5.5.tgz#a9e7dc0028123f9a9a12786806027c767b8a8048"
+  integrity sha512-Dl6m4fzbWK5QeQPrHLNQbVKJj4lB2UdjKeEAOz9qjc2holMM1XLuviSvvW0XD0vuCVNjbmQaHaUUIAwRKtof9g==
   dependencies:
     chalk "^4.1.1"
     cint "^8.2.1"
