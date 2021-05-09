@@ -1259,10 +1259,10 @@
     ky "^0.25.1"
     ky-universal "^0.8.2"
 
-"@eslint/eslintrc@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.0.tgz#99cc0a0584d72f1df38b900fb062ba995f395547"
-  integrity sha512-2ZPCc+uNbjV5ERJr+aKSPRwZgKd2z11x0EgLvb1PURmUrn9QNRXFqje0Ldq454PfAVyaJYyrDvvIKSFP4NnBog==
+"@eslint/eslintrc@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.1.tgz#442763b88cecbe3ee0ec7ca6d6dd6168550cbf14"
+  integrity sha512-5v7TDE9plVhvxQeWLXDTvFvJBdH6pEsdnl2g/dAptmuFEPedQ4Erq5rsDsX+mvAM610IhNaO2W5V1dOOnDKxkQ==
   dependencies:
     ajv "^6.12.4"
     debug "^4.1.1"
@@ -3637,10 +3637,10 @@
   resolved "https://registry.yarnpkg.com/@verdaccio/ui-theme/-/ui-theme-3.1.0.tgz#21108f3c1b97e6db5901509d935e1f4ce475950a"
   integrity sha512-NmJOcv25/OtF84YrmYxi31beFde7rt+/y2qlnq0wYR4ZCFRE5TsuqisTVTe1OyJ8D8JwwPMyMSMSMtlMwUfqIQ==
 
-"@vue/cli-shared-utils@^4.5.12":
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.5.12.tgz#0e0693d488336d284ffa658ff33b1ea22927d065"
-  integrity sha512-qnIQPJ4XckMoqYh9fJ0Y91QKMIb4Hiibrm9+k4E15QHpk5RaokuOpf10SsOr2NLPCXSWsHOLo3hduZSwHPGY/Q==
+"@vue/cli-shared-utils@^4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.5.13.tgz#acd40f31b4790f1634292bdaa5fca95dc1e0ff50"
+  integrity sha512-HpnOrkLg42RFUsQGMJv26oTG3J3FmKtO2WSRhKIIL+1ok3w9OjGCtA3nMMXN27f9eX14TqO64M36DaiSZ1fSiw==
   dependencies:
     "@hapi/joi" "^15.0.1"
     chalk "^2.4.2"
@@ -3655,23 +3655,23 @@
     semver "^6.1.0"
     strip-ansi "^6.0.0"
 
-"@vue/cli-ui-addon-webpack@^4.5.12":
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-4.5.12.tgz#23e2d6d189199241c9f1997c213fb9059005d5ee"
-  integrity sha512-sPAElJL00koP6BxUSGj5wntH96+IBuhLpu+0YPUYpIMeT/e/Hip/HnsjBzeiv88CvGQKomsjykPQRi26kR/Tjw==
+"@vue/cli-ui-addon-webpack@^4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-4.5.13.tgz#b94da30d807c17286da04db508adabee63660bf5"
+  integrity sha512-mtk174vPRza0aMqMvx80U/BBmprlOq8ngHr5v3+MYIC1tqzB7co5fCJvyGI/QJ4DjO6O0MaaTGBsxOp/YsqRaQ==
 
-"@vue/cli-ui-addon-widgets@^4.5.12":
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-4.5.12.tgz#288777c0296cd6ef6637202c220da3087ae32daa"
-  integrity sha512-GIh+ETKezlmEWmZ/MxKuuJqdfSgYk8DlnIsMnNpbUcdxhHZFbkV2mv/0UoQaH2y0BQhBXBOt9TBJ9j4OeN3DwA==
+"@vue/cli-ui-addon-widgets@^4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-widgets/-/cli-ui-addon-widgets-4.5.13.tgz#428047fd7921ab05fca734f45a4a4bb2dd147cd1"
+  integrity sha512-B6PedV/H2kcGEAgnqncwjHe3E8fqUNXCLv1BsrNwkHHWQJXkDN7dFeuEB4oaucBOVbjhH7KGLJ6JAiXPE3S7xA==
 
-"@vue/cli-ui@^4.5.12":
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-4.5.12.tgz#56dd5f86dc75490d26fa5f40c2f3963318de1ffd"
-  integrity sha512-TeP4ujkrUF3/l92R7fAIl6SbTyEw5CbrMpQggctgKrtOtMWorSGhWm17vGtP0C3PoZqzniOzDC7cdO83PL4n+g==
+"@vue/cli-ui@^4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui/-/cli-ui-4.5.13.tgz#6726a20941d9af3ecf50f1cf52bfc7e34c13ef64"
+  integrity sha512-kXsmK+KAX9A2ribCJ+JuFcJ9ICEKluWuFtJEwUMOvo85O/l5UNupA7XoCrXeHoItdVtw32hAOv+bEV+KmyPyuQ==
   dependencies:
     "@akryum/winattr" "^3.0.0"
-    "@vue/cli-shared-utils" "^4.5.12"
+    "@vue/cli-shared-utils" "^4.5.13"
     apollo-server-express "^2.13.1"
     clone "^2.1.1"
     deepmerge "^4.2.2"
@@ -3699,17 +3699,17 @@
     typescript "~4.1.5"
     watch "^1.0.2"
 
-"@vue/cli@4.5.12":
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-4.5.12.tgz#e327c763e41866bb737a941ffd10437dc51e1b19"
-  integrity sha512-ZP0bxmM+VpmH8xT/5DbH8UD5nnlXLxJNYLiMcndx0pmuujabUORZdhIO3B9pq1w1Y204p2CJq3srrEUwhKKY5g==
+"@vue/cli@4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-4.5.13.tgz#a17c009ca6efc6abb9990605a988f308e7e642d0"
+  integrity sha512-KAU300YbT0/7zG472KzJgHKdFex4nr5Xoo80gQJwT+y7pkepMhTxjrmxrJ/XR8QirUvPnBiX5n6BX5FrlMuUGQ==
   dependencies:
     "@types/ejs" "^2.7.0"
     "@types/inquirer" "^6.5.0"
-    "@vue/cli-shared-utils" "^4.5.12"
-    "@vue/cli-ui" "^4.5.12"
-    "@vue/cli-ui-addon-webpack" "^4.5.12"
-    "@vue/cli-ui-addon-widgets" "^4.5.12"
+    "@vue/cli-shared-utils" "^4.5.13"
+    "@vue/cli-ui" "^4.5.13"
+    "@vue/cli-ui-addon-webpack" "^4.5.13"
+    "@vue/cli-ui-addon-widgets" "^4.5.13"
     boxen "^4.1.0"
     cmd-shim "^3.0.3"
     commander "^2.20.0"
@@ -6312,10 +6312,10 @@ cliui@^7.0.2:
     strip-ansi "^6.0.0"
     wrap-ansi "^7.0.0"
 
-cloc@2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/cloc/-/cloc-2.7.0.tgz#203b1d77f92a490da277d42378d3cf0d7ce354cf"
-  integrity sha512-oYzWIKkf4NoBnAgRcSEEKT0RUI0S9ZYeyAPSgcAQPT/bnG6m8Kkzrguhjy3Q218o6uWPoGdhT5cmtdxL4gpTYQ==
+cloc@2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/cloc/-/cloc-2.8.0.tgz#43b8265fc475947540b9fb0c8125a17ca52d6739"
+  integrity sha512-Y2zhWNwDq7yAJ5dmbH1P7/sJ2RDDlQrzwO1fVZ2MJ2/jCRbUPQN+kgKEgHNQYxv1o7w/7hMUXiqa4u6JgIFYOQ==
 
 clone-deep@^4.0.1:
   version "4.0.1"
@@ -6652,10 +6652,10 @@ concordance@^4.0.0:
     semver "^5.5.1"
     well-known-symbols "^2.0.0"
 
-concurrently@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.0.2.tgz#4ecdfc78a72a6f626a3a5d3c2a7a81962f3663e3"
-  integrity sha512-u+1Q0dJG5BidgUTpz9CU16yoHTt/oApFDQ3mbvHwSDgMjU7aGqy0q8ZQyaZyaNxdwRKTD872Ux3Twc6//sWA+Q==
+concurrently@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.1.0.tgz#00d22525d3fcdce7f34cc7f3c9753f90a57d6208"
+  integrity sha512-jy+xj49pvqeKjc2TAVXRIhrgPG51eBKDZti0kZ41kaWk9iLbyWBjH6KMFpW7peOLkEymD+ZM83Lx6UEy3N/M9g==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.16.1"
@@ -8643,13 +8643,13 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-2.0.0.tgz#21fdc8fbcd9c795cc0321f0563702095751511a8"
   integrity sha512-QudtT6av5WXels9WjIM7qz1XD1cWGvX4gGXvp/zBn9nXG02D0utdU3Em2m/QjTnrsk6bBjmCygl3rmj118msQQ==
 
-eslint@7.25.0:
-  version "7.25.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.25.0.tgz#1309e4404d94e676e3e831b3a3ad2b050031eb67"
-  integrity sha512-TVpSovpvCNpLURIScDRB6g5CYu/ZFq9GfX2hLNIV4dSBKxIWojeDODvYl3t0k0VtMxYeR8OXPCFE5+oHMlGfhw==
+eslint@7.26.0:
+  version "7.26.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.26.0.tgz#d416fdcdcb3236cd8f282065312813f8c13982f6"
+  integrity sha512-4R1ieRf52/izcZE7AlLy56uIHHDLT74Yzz2Iv2l6kDaYvEu9x+wMB5dZArVL8SYGXSYV2YAg70FcW5Y5nGGNIg==
   dependencies:
     "@babel/code-frame" "7.12.11"
-    "@eslint/eslintrc" "^0.4.0"
+    "@eslint/eslintrc" "^0.4.1"
     ajv "^6.10.0"
     chalk "^4.0.0"
     cross-spawn "^7.0.2"
