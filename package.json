@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@storybook/storybook-deployer": "2.8.7",
+    "@storybook/storybook-deployer": "2.8.8",
     "@vue/cli": "4.5.13",
     "cloc": "2.8.0",
     "concurrently": "6.1.0",
@@ -17,7 +17,7 @@
     "markdownlint-cli": "0.27.1",
     "move-to": "1.5.1",
     "netlify": "6.1.29",
-    "netlify-cli": "3.29.5",
+    "netlify-cli": "3.29.7",
     "newman": "5.2.3",
     "nodemon": "2.0.7",
     "now": "21.0.1",
