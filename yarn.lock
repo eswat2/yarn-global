@@ -2324,6 +2324,11 @@
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.4.0.tgz#baad301a2886c2b075e6f345fd1a88bc8d0449ca"
   integrity sha512-ffNpGiJulY4is1pWkrs1dn3/ytNoqJxyAD/N70cnkIVNpOWMnPGSPKGBk/TBpaZhispgSBBQ+JZXEMJAGMDZ6Q==
 
+"@netlify/open-api@^2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.5.0.tgz#d0d947ec21a0a8e8dd46f542c60b6cb25609b0f2"
+  integrity sha512-KiXfYPO/X24p7EYQjcjBTizoyfY3U8zPv68Rte0EtayW2ZSqIslLLpNNd2gteqdh0Q83mzSiESdhlQHd0Ckjjg==
+
 "@netlify/plugin-edge-handlers@^1.11.13":
   version "1.11.13"
   resolved "https://registry.yarnpkg.com/@netlify/plugin-edge-handlers/-/plugin-edge-handlers-1.11.13.tgz#bd6cf42b605cb8c8de3046159c7f4581cd108591"
@@ -14975,12 +14980,12 @@ netlify-redirector@^0.2.1:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@7.0.0, netlify@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-7.0.0.tgz#17b7e4cb0c31c3c55c3ce0a571a8502a11fb6a2b"
-  integrity sha512-s454O7JRqrIo90c6rX+um1Xp7B0dGZBAYaIXYtA3em8DXJ0uWoglDeQSul8qGT1goAAF/9oMPo0T9KTM/XrjqA==
+netlify@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-7.0.1.tgz#5fbe5addc5a43f1cb49afc710a9a5eebcb0c4646"
+  integrity sha512-Gd1aexpJ3RrOzkssdE8ipS67PuppOAkJNhRqQPp2in2XnJKPm5kvYonYMNVadasSFlNdmVCk9nELV3TnbAfklw==
   dependencies:
-    "@netlify/open-api" "^2.4.0"
+    "@netlify/open-api" "^2.5.0"
     lodash.camelcase "^4.3.0"
     micro-api-client "^3.3.0"
     node-fetch "^2.6.1"
@@ -15014,6 +15019,19 @@ netlify@^6.1.18:
     tempy "^0.3.0"
     through2-filter "^3.0.0"
     through2-map "^3.0.0"
+
+netlify@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-7.0.0.tgz#17b7e4cb0c31c3c55c3ce0a571a8502a11fb6a2b"
+  integrity sha512-s454O7JRqrIo90c6rX+um1Xp7B0dGZBAYaIXYtA3em8DXJ0uWoglDeQSul8qGT1goAAF/9oMPo0T9KTM/XrjqA==
+  dependencies:
+    "@netlify/open-api" "^2.4.0"
+    lodash.camelcase "^4.3.0"
+    micro-api-client "^3.3.0"
+    node-fetch "^2.6.1"
+    omit.js "^2.0.2"
+    p-wait-for "^3.2.0"
+    qs "^6.9.6"
 
 netrc@^0.1.4:
   version "0.1.4"
