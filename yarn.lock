@@ -14833,10 +14833,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.37.4:
-  version "3.37.4"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.37.4.tgz#626aa1675cb840a2b692285d92f27d1ce4a42ce4"
-  integrity sha512-Jn7ucYBnHRLaC3bYRJhYDHy8bc0/z18W0+p8xNiDSHKLRf75zs1ezvekyzIwxUFDINzJm877Ga0oSp162LUlJA==
+netlify-cli@3.37.5:
+  version "3.37.5"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.37.5.tgz#c954366991d5f4aed40876f608f78d3a3db2dfba"
+  integrity sha512-qVZwYE9pf/8W6kjy5AlY8XH78SCdABHs+n13T04vjQeImLYsuiVdo7QsLdXrFs7osk01HAt/ycPWCywSMHK3wg==
   dependencies:
     "@netlify/build" "^11.36.3"
     "@netlify/config" "^6.9.2"
@@ -14911,7 +14911,7 @@ netlify-cli@3.37.4:
     minimist "^1.2.5"
     multiparty "^4.2.1"
     netlify "^7.0.1"
-    netlify-redirect-parser "^4.0.3"
+    netlify-redirect-parser "^4.0.4"
     netlify-redirector "^0.2.1"
     node-fetch "^2.6.0"
     node-version-alias "^1.0.1"
@@ -14949,7 +14949,7 @@ netlify-cli@3.37.4:
     wrap-ansi "^7.0.0"
     write-file-atomic "^3.0.0"
 
-netlify-redirect-parser@^4.0.3:
+netlify-redirect-parser@^4.0.4:
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/netlify-redirect-parser/-/netlify-redirect-parser-4.0.5.tgz#8fdb99e5ef974478971078615ec1f8c0304901c4"
   integrity sha512-Lq7AjS7jsO7Fun2RRcK0qytX4H9k9eKxoff9v5MV5vWZMH2/RhvdeDtQi15HXxl3ro0MxXuVoQAjKSNVzH68uw==
