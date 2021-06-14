@@ -14687,10 +14687,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.37.20:
-  version "3.37.20"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.37.20.tgz#ae90c771bc05932e0e3bc8c8edc9bc8ff547a9d2"
-  integrity sha512-Qlmx2r2pSLYUrO33zZ7/Y1hCgNOEZ6a2kAPR87naFXJnKlEWY4Jpmwlp0Yru5tAzyOLweMdSkINiwtQx/uNd7w==
+netlify-cli@3.37.21:
+  version "3.37.21"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.37.21.tgz#d5800abbe07911bec54c42defe8bbd68810ed9f3"
+  integrity sha512-8/VqsHUQCBiomwWcSBNiUcLaGrxmYc3UjIqWR0mEycC6YyEayr+ZOBV/Fhi0DW/dOiwoyyidLsEolnjQs2EoYA==
   dependencies:
     "@netlify/build" "^12.1.1"
     "@netlify/config" "^7.2.1"
@@ -14765,7 +14765,7 @@ netlify-cli@3.37.20:
     minimist "^1.2.5"
     multiparty "^4.2.1"
     netlify "^7.0.1"
-    netlify-redirect-parser "^5.1.1"
+    netlify-redirect-parser "^5.2.0"
     netlify-redirector "^0.2.1"
     node-fetch "^2.6.0"
     node-version-alias "^1.0.1"
@@ -14807,6 +14807,16 @@ netlify-redirect-parser@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/netlify-redirect-parser/-/netlify-redirect-parser-5.1.1.tgz#1df2a752c532f338ff10d9dac4bbc5520f917d76"
   integrity sha512-TDJShXyaMwQaVtzWjK6U1UAWzWHnFzTVULAduaGroVlQha5Hi6WaRCZLg64FvQx4MUMOH8qOgSyByCqIMXqZWA==
+  dependencies:
+    filter-obj "^2.0.2"
+    is-plain-obj "^2.1.0"
+    path-exists "^4.0.0"
+    toml "^3.0.0"
+
+netlify-redirect-parser@^5.2.0:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/netlify-redirect-parser/-/netlify-redirect-parser-5.2.1.tgz#96cd77334b590bbd34200111c035c49052dd7144"
+  integrity sha512-9Tua5HZvmIty9t8IuAWEbTB48X1Ih2RnULVVwF21JRliCRENlJ+8r8AopbiNv/8IbvFz04EnGG4TBTtOG/MKEg==
   dependencies:
     filter-obj "^2.0.2"
     is-plain-obj "^2.1.0"
