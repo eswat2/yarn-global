@@ -1275,10 +1275,10 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-typescript/-/dict-typescript-1.0.19.tgz#44f3ad1c93ffc89ebf98fa6964e1634e6612fc30"
   integrity sha512-qmJApzoVskDeJnLZzZMaafEDGbEg5Elt4c3Mpg49SWzIHm1N4VXCp5CcFfHsOinJ30dGrs3ARAJGJZIw56kK6A==
 
-"@custom-elements-manifest/analyzer@0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.2.1.tgz#72a53570aabf6f57be885bddb3d967cd8dd468e4"
-  integrity sha512-OKRHa+IxVI4+W7Sa8deQsHpFpmarcZmXBWIheuvw44wT9WAebmkt4V6z131RYdjcxxwk6qNIbAGLOXGy6oAhYA==
+"@custom-elements-manifest/analyzer@0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.2.3.tgz#712fee05583259fa977086edb314a7523fbe979a"
+  integrity sha512-vUo45COZYGVVtvZ/11Z0+a98G54cQmVETsyhpxBg+6bojPVQZKY9ugiSg+z+I67JU2OK9YZvkKSSqDEKJQwMHw==
   dependencies:
     "@web/config-loader" "^0.1.3"
     command-line-args "^5.1.1"

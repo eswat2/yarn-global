@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.2.1",
+    "@custom-elements-manifest/analyzer": "0.2.3",
     "@storybook/storybook-deployer": "2.8.10",
     "@vue/cli": "4.5.13",
     "cloc": "2.8.0",
