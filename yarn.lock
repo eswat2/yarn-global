@@ -1275,10 +1275,10 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-typescript/-/dict-typescript-1.0.19.tgz#44f3ad1c93ffc89ebf98fa6964e1634e6612fc30"
   integrity sha512-qmJApzoVskDeJnLZzZMaafEDGbEg5Elt4c3Mpg49SWzIHm1N4VXCp5CcFfHsOinJ30dGrs3ARAJGJZIw56kK6A==
 
-"@custom-elements-manifest/analyzer@0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.3.1.tgz#d8eae191faaacb7d699b159cc5fcb2de030e5ba6"
-  integrity sha512-odUk5eFtiR43eYcwwrogQ8WvXqQ2Xh+D8hXGzbJtjbWtfkGMHfIWaByU/Z3e4NhyICdZs1MZY7ozl6JNg+PA8g==
+"@custom-elements-manifest/analyzer@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.3.2.tgz#748279252551eb3ecf4b670f901f451c97489d59"
+  integrity sha512-Ev6RmmKdosoL0ObA3ep9Hj7OSDCr/FWcwPmFRKRFYFFHMCRw3IgcHvn1qpoPGcx/Gp8wd5lJhPXBEl+TfVh7BA==
   dependencies:
     "@web/config-loader" "^0.1.3"
     chokidar "^3.5.2"
@@ -16746,10 +16746,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.7.6:
-  version "6.7.6"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.7.6.tgz#54207ac7b450078a664e2ee8454535431b07c1b7"
-  integrity sha512-VhO6zVIuhVkKXP3kWMZs9W5b3rhcztq524WoAc9OEwjmj7SiKyp0UNltaaLR0VRjFGJPuQOcqDbNkWwzao6dUw==
+pnpm@6.8.0:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.8.0.tgz#a2f0d9df691ccb7606a87ca239432e3e47dda201"
+  integrity sha512-la/zfhv3FA9K5kwWda58genmRQD0MwWJjLvHhH65EQWOEG3sr9zKSCJxUzckIY9uy//IRhnTTUY0HYqq2D7N6g==
 
 portfinder@^1.0.26:
   version "1.0.28"
