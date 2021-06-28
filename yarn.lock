@@ -1275,10 +1275,10 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-typescript/-/dict-typescript-1.0.19.tgz#44f3ad1c93ffc89ebf98fa6964e1634e6612fc30"
   integrity sha512-qmJApzoVskDeJnLZzZMaafEDGbEg5Elt4c3Mpg49SWzIHm1N4VXCp5CcFfHsOinJ30dGrs3ARAJGJZIw56kK6A==
 
-"@custom-elements-manifest/analyzer@0.3.6":
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.3.6.tgz#2d7e24cb48db8f068b4d32e3e386fffdc775e608"
-  integrity sha512-7bEW9Tyryj+0ZiygPUDsKRDNd0CHiDWAKEfOnYy1c/qZV0n9xNc8ak4qJNWQmPrgeVAE03FXqLDViMGH1eOmGw==
+"@custom-elements-manifest/analyzer@0.3.7":
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.3.7.tgz#3354646e81c256727fb8aa40e782bc039b98073b"
+  integrity sha512-VojE5lDOwj2wLIl9lMoi1rwNhCVFyzS2ztfTLJ2rodPYVQmMY7CBxZdOw0uKAfze/QkDketFbLp+YWfoNYMKIA==
   dependencies:
     "@web/config-loader" "^0.1.3"
     chokidar "^3.5.2"
