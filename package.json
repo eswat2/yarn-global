@@ -18,7 +18,7 @@
     "markdownlint-cli": "0.27.1",
     "move-to": "1.5.1",
     "netlify": "7.0.1",
-    "netlify-cli": "3.39.3",
+    "netlify-cli": "3.39.4",
     "newman": "5.2.4",
     "nodemon": "2.0.8",
     "now": "21.0.1",
