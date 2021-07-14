@@ -4610,10 +4610,10 @@ aws4@1.11.0, aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.11.0.tgz#d61f46d83b2519250e2784daf5b09479a8b41c59"
   integrity sha512-xh1Rl34h6Fi1DC2WWKfxUTVqRsNnr6LsKz2+hfwDxQJWmrx8+c7ylaqBMcHfl1U1r2dsifOvKX3LQuLNZ+XSvA==
 
-axe-core@4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.2.1.tgz#2e50bcf10ee5b819014f6e342e41e45096239e34"
-  integrity sha512-evY7DN8qSIbsW2H/TWQ1bX3sXN1d4MNb5Vb4n7BzPuCwRHdkZ1H2eNLuSh73EoQqkGKUtju2G2HCcjCfhvZIAA==
+axe-core@4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.2.3.tgz#2a3afc332f0031b42f602f4a3de03c211ca98f72"
+  integrity sha512-pXnVMfJKSIWU2Ml4JHP7pZEPIrgBO1Fd3WGx+fPBsS+KRGhE4vxooD8XBGWbQOIVSZsVK7pUDBBkCicNu80yzQ==
 
 axios@^0.21.1:
   version "0.21.1"
@@ -9292,6 +9292,11 @@ fast-levenshtein@^2.0.6, fast-levenshtein@~2.0.6:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
+fast-memoize@^2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/fast-memoize/-/fast-memoize-2.5.2.tgz#79e3bb6a4ec867ea40ba0e7146816f6cdce9b57e"
+  integrity sha512-Ue0LwpDYErFbmNnZSF0UH6eImUwDmogUO1jyE+JbN2gsQz/jICm1Ve7t9QT0rNSsfJt+Hs4/S3GnsDVjL4HVrw==
+
 fast-redact@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/fast-redact/-/fast-redact-3.0.1.tgz#d6015b971e933d03529b01333ba7f22c29961e92"
@@ -13290,12 +13295,12 @@ lighthouse-stack-packs@^1.5.0:
   resolved "https://registry.yarnpkg.com/lighthouse-stack-packs/-/lighthouse-stack-packs-1.5.0.tgz#c191f2b94db21602254baaebfb0bb90307a00ffa"
   integrity sha512-ntVOqFsrrTQYrNf+W+sNE9GjddW+ab5QN0WrrCikjMFsUvEQ28CvT0SXcHPZXFtcsb1lMSuVaNCmEuj7oXtYGQ==
 
-lighthouse@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.0.0.tgz#d55ec021b1e8d84ddb5ec5473fd706446805a2cd"
-  integrity sha512-jjniPn8qIjczsKKR/f91hBpMFsGgrBvwmH/KoQ/0qJlXpymsrRf06Y6Vb8xJXJ1aaR0HiGjeVgg4RlwT5pqXrg==
+lighthouse@8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.1.0.tgz#c3c0395dd8446fdb08452af678c4edc47a8bfa0e"
+  integrity sha512-kAe06yax70VFdfX38OWIDqzQ77H313BXTXbGxqs4l1SOnhnu/ao6qF7VZ6TNz3+YGbSXPJgC3KOYif/sE79KTA==
   dependencies:
-    axe-core "4.2.1"
+    axe-core "4.2.3"
     chrome-launcher "^0.14.0"
     configstore "^5.0.1"
     csp_evaluator "^1.0.1"
@@ -13322,7 +13327,7 @@ lighthouse@8.0.0:
     speedline-core "^1.4.3"
     third-party-web "^0.12.2"
     update-notifier "^4.1.0"
-    ws "3.3.2"
+    ws "^7.0.0"
     yargs "^16.1.1"
     yargs-parser "^20.2.4"
 
@@ -14129,14 +14134,6 @@ mem@^6.0.1:
   dependencies:
     map-age-cleaner "^0.1.3"
     mimic-fn "^3.0.0"
-
-mem@^8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/mem/-/mem-8.1.1.tgz#cf118b357c65ab7b7e0817bdf00c8062297c0122"
-  integrity sha512-qFCFUDs7U3b8mBDPyz5EToEKoAkgCzqquIgi9nkkR9bixxOVOre+09lbuH7+9Kn2NFpm56M3GUWVbU2hQgdACA==
-  dependencies:
-    map-age-cleaner "^0.1.3"
-    mimic-fn "^3.1.0"
 
 memoize-one@^5.2.1:
   version "5.2.1"
@@ -15338,15 +15335,16 @@ npm-bundled@^1.1.1:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@11.8.2:
-  version "11.8.2"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.2.tgz#940812ae837cc96d7a975a9e5073a9dca824cd4c"
-  integrity sha512-+TWwhsFUJrar3z1KdCdwNLW6VQkqbU6pBZQtUVMfoAaeHq/L5SAnF6CwIzE/8hmKMNvxFAEe5Ow41ibhLa2iIg==
+npm-check-updates@11.8.3:
+  version "11.8.3"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.3.tgz#3c3541ad855bbc42b0d60e8eb293d3f6125c80e5"
+  integrity sha512-NslIB6Af7GagVrN+bvBkObLyawIZfOnDnl8n9MHE+dFt0aChRYtvR6T2BLJKzOPIepCLmmh0NRR/qha0ExAELQ==
   dependencies:
     chalk "^4.1.1"
     cint "^8.2.1"
     cli-table "^0.3.6"
     commander "^6.2.1"
+    fast-memoize "^2.5.2"
     find-up "5.0.0"
     fp-and-or "^0.1.3"
     get-stdin "^8.0.0"
@@ -15356,7 +15354,6 @@ npm-check-updates@11.8.2:
     jsonlines "^0.1.1"
     libnpmconfig "^1.2.1"
     lodash "^4.17.21"
-    mem "^8.1.1"
     minimatch "^3.0.4"
     p-map "^4.0.0"
     pacote "^11.3.4"
@@ -20851,11 +20848,6 @@ uid-safe@2.1.5:
   dependencies:
     random-bytes "~1.0.0"
 
-ultron@~1.1.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.1.1.tgz#9fe1536a10a664a65266a1e3ccf85fd36302bc9c"
-  integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og==
-
 umask@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/umask/-/umask-1.1.0.tgz#f29cebf01df517912bb58ff9c4e50fde8e33320d"
@@ -21833,15 +21825,6 @@ write@^0.2.1:
   integrity sha1-X8A4KOJkzqP+kUVUdvejxWbLB1c=
   dependencies:
     mkdirp "^0.5.1"
-
-ws@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-3.3.2.tgz#96c1d08b3fefda1d5c1e33700d3bfaa9be2d5608"
-  integrity sha512-t+WGpsNxhMR4v6EClXS8r8km5ZljKJzyGhJf7goJz9k5Ye3+b5Bvno5rjqPuIBn5mnn5GBb7o8IrIWHxX1qOLQ==
-  dependencies:
-    async-limiter "~1.0.0"
-    safe-buffer "~5.1.0"
-    ultron "~1.1.0"
 
 ws@^5.1.1, ws@^5.2.0:
   version "5.2.3"
