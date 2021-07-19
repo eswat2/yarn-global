@@ -16689,10 +16689,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.10.2:
-  version "6.10.2"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.10.2.tgz#4d1ab4ec46ef31629e3cff8ac44f63359845bca4"
-  integrity sha512-o/CAEMtqjalEJyS9MgID3iZVx46LsqZ8MlwYGmWHNHD7Q0nOqtuYj+BKmgCXRiIWANA/JuC0Y6usNKhU8P3haw==
+pnpm@6.10.3:
+  version "6.10.3"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.10.3.tgz#76b8372cb629138d59824d393a7bcb4819916c12"
+  integrity sha512-GdxerBN3hhe9x9W0mAMmiWoDELy7KekrmHbYdo7WeHC1MthP/gI7MGVYIgcKj9Vy4zWLO9v1hVYOgKUrewkDVg==
 
 portfinder@^1.0.26:
   version "1.0.28"
