@@ -1399,14 +1399,14 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-typescript/-/dict-typescript-1.0.19.tgz#44f3ad1c93ffc89ebf98fa6964e1634e6612fc30"
   integrity sha512-qmJApzoVskDeJnLZzZMaafEDGbEg5Elt4c3Mpg49SWzIHm1N4VXCp5CcFfHsOinJ30dGrs3ARAJGJZIw56kK6A==
 
-"@custom-elements-manifest/analyzer@0.4.12":
-  version "0.4.12"
-  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.4.12.tgz#55dd21bf00faa6cc33a1ba248de6b9fcb804ef6f"
-  integrity sha512-AvHMmiC5TpYBYmjdZ/5OKhsTQbJvb1A7jkTb3/DUuVZrRpvNuVz6/fhyQ0giF5VFwmPWgBdMdaA2qNDQlK0lIg==
+"@custom-elements-manifest/analyzer@0.4.13":
+  version "0.4.13"
+  resolved "https://registry.yarnpkg.com/@custom-elements-manifest/analyzer/-/analyzer-0.4.13.tgz#a5f839e209b2ee0fc206a972bd441902511138c7"
+  integrity sha512-Kti6UWexsyy4HbF7VWaGFl0kUpURpoRcGkrWJ+cqCsDMmGy9KheXmYOL5WwYQZ3hDrV+xIhFQ1MUwHUQuw8UUA==
   dependencies:
     "@web/config-loader" "^0.1.3"
     chokidar "^3.5.2"
-    command-line-args "^5.1.1"
+    command-line-args "^5.1.2"
     comment-parser "^1.1.5"
     custom-elements-manifest "^1.0.0"
     debounce "^1.2.1"
@@ -6885,7 +6885,7 @@ command-exists@^1.2.6:
   resolved "https://registry.yarnpkg.com/command-exists/-/command-exists-1.2.9.tgz#c50725af3808c8ab0260fd60b01fbfa25b954f69"
   integrity sha512-LTQ/SGc+s0Xc0Fu5WaKnR0YiygZkm9eKFvyS+fRsU7/ZWFF8ykFM6Pc9aCVf1+xasOOZpO3BAVgVrKvsqKHV7w==
 
-command-line-args@^5.1.1:
+command-line-args@^5.1.2:
   version "5.1.3"
   resolved "https://registry.yarnpkg.com/command-line-args/-/command-line-args-5.1.3.tgz#1e57d2816f28804073bb5e75cd24e02e2aa321e7"
   integrity sha512-a5tF6mjqRSOBswBwdMkKY47JQ464Dkg9Pcwbxwo9wxRhKWZjtBktmBASllk3AMJ7qBuWgsAGtVa7b2/+EsymOQ==
