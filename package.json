@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.4.14",
+    "@custom-elements-manifest/analyzer": "0.4.16",
     "@microsoft/rush": "5.50.0",
     "@storybook/storybook-deployer": "2.8.10",
     "@vue/cli": "4.5.13",
@@ -19,7 +19,7 @@
     "markdownlint-cli": "0.28.1",
     "move-to": "1.5.1",
     "netlify": "8.0.0",
-    "netlify-cli": "5.3.1",
+    "netlify-cli": "5.4.0",
     "newman": "5.2.4",
     "nodemon": "2.0.12",
     "now": "21.0.1",
@@ -27,7 +27,7 @@
     "npm-check": "5.9.2",
     "npm-check-updates": "11.8.3",
     "parcel-bundler": "1.12.5",
-    "pnpm": "6.10.3",
+    "pnpm": "6.11.5",
     "prettier": "2.3.2",
     "purify-css": "1.2.5",
     "serve": "12.0.0",
