@@ -6608,10 +6608,10 @@ concordance@^5.0.0:
     semver "^7.3.2"
     well-known-symbols "^2.0.0"
 
-concurrently@6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.2.0.tgz#587e2cb8afca7234172d8ea55176088632c4c56d"
-  integrity sha512-v9I4Y3wFoXCSY2L73yYgwA9ESrQMpRn80jMcqMgHx720Hecz2GZAvTI6bREVST6lkddNypDKRN22qhK0X8Y00g==
+concurrently@6.2.1:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.2.1.tgz#d880fc1d77559084732fa514092a3d5109a0d5bf"
+  integrity sha512-emgwhH+ezkuYKSHZQ+AkgEpoUZZlbpPVYCVv7YZx0r+T7fny1H03r2nYRebpi2DudHR4n1Rgbo2YTxKOxVJ4+g==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.16.1"
@@ -16401,10 +16401,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.12.0:
-  version "6.12.0"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.12.0.tgz#b2091ad2558f4bde64327ca3725cc69eea83327d"
-  integrity sha512-3kBjfvJo6eFu6tKpXFhit/Mihd364cjaG4bblu4px8kVbSX+oGKmPBGver4zLG2dP0txtglNU+AS0e1OGEJQMw==
+pnpm@6.12.1:
+  version "6.12.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.12.1.tgz#69f7ac6928ab31a5294e1edd8ad65d9975969b58"
+  integrity sha512-p2fowre11u8/f6rw6n1zadtpNLQd2XNux40sUUdcVQqwryUG0YO7xveP96iRTBSWi+RdyCRlXnDgppyvb31d8g==
 
 portfinder@^1.0.26:
   version "1.0.28"
