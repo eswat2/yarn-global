@@ -2398,10 +2398,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^17.9.2":
-  version "17.9.2"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-17.9.2.tgz#303e0c4b0eb9e65ac5f16ae2beea745ba8e83edf"
-  integrity sha512-RbaHBWkbrwiXdLf73gjcjJAn7z3zsRqhXqaF2K9ycru7K7XIVG/BGEKztSD8IoAYR2DuY9KqmrlbPuiQg0IFFg==
+"@netlify/build@^17.10.0":
+  version "17.11.0"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-17.11.0.tgz#38fe5ae19077d0438883fe0bdb2bb3c33e5fd5b4"
+  integrity sha512-c9f28mJJMspXP7H1oDH9Mlg1+UgSxJVktPronJPrzoiMQzvEz/AuWjgn37OMopzfTJumOfSxorWlj0YTZyj3Lw==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^2.0.0"
@@ -2409,9 +2409,9 @@
     "@netlify/functions-utils" "^2.0.0"
     "@netlify/git-utils" "^2.0.0"
     "@netlify/plugin-edge-handlers" "^1.11.22"
-    "@netlify/plugins-list" "^3.2.1"
+    "@netlify/plugins-list" "^3.3.0"
     "@netlify/run-utils" "^2.0.0"
-    "@netlify/zip-it-and-ship-it" "^4.16.0"
+    "@netlify/zip-it-and-ship-it" "^4.17.0"
     "@sindresorhus/slugify" "^1.1.0"
     "@ungap/from-entries" "^0.2.1"
     ansi-escapes "^4.3.2"
@@ -2653,7 +2653,7 @@
     rollup-plugin-terser "^7.0.2"
     typescript "^4.1.5"
 
-"@netlify/plugins-list@^3.2.1", "@netlify/plugins-list@^3.3.0":
+"@netlify/plugins-list@^3.3.0":
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/@netlify/plugins-list/-/plugins-list-3.3.0.tgz#e39d0645680cf5e6b38ad87e423d0e535a31c4c7"
   integrity sha512-wuwDeBx8FK/jY1hQoI0w2MK+Q/6hcEnbaDDBzw+W0Ueu48r7QRIcZMin2OnOSMkTRpAHXqXyQUrm1lnULXKBfg==
@@ -2695,43 +2695,7 @@
   dependencies:
     execa "^3.4.0"
 
-"@netlify/zip-it-and-ship-it@4.16.0":
-  version "4.16.0"
-  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-4.16.0.tgz#d1e774d89806a6427ef87c944a56762bc3308b0b"
-  integrity sha512-DkQemRkLTpAMvwwENRCQ9h5qJDaLrjEa+PpfEh0I64om4hTXVHcTd5+YMHW0wPr4OWABA7JAWlsFOVsZADFxfQ==
-  dependencies:
-    "@netlify/esbuild" "^0.13.6"
-    acorn "^8.4.0"
-    archiver "^5.3.0"
-    array-flat-polyfill "^1.0.1"
-    common-path-prefix "^3.0.0"
-    cp-file "^9.0.0"
-    del "^6.0.0"
-    elf-cam "^0.1.1"
-    end-of-stream "^1.4.4"
-    execa "^5.0.0"
-    filter-obj "^2.0.1"
-    find-up "^5.0.0"
-    glob "^7.1.6"
-    junk "^3.1.0"
-    locate-path "^6.0.0"
-    make-dir "^3.1.0"
-    merge-options "^3.0.4"
-    minimatch "^3.0.4"
-    p-map "^4.0.0"
-    path-exists "^4.0.0"
-    pkg-dir "^5.0.0"
-    precinct "^8.0.0"
-    read-package-json-fast "^2.0.2"
-    require-package-name "^2.0.1"
-    resolve "^2.0.0-next.1"
-    semver "^7.0.0"
-    tmp-promise "^3.0.2"
-    toml "^3.0.0"
-    unixify "^1.0.0"
-    yargs "^16.0.0"
-
-"@netlify/zip-it-and-ship-it@^4.15.1", "@netlify/zip-it-and-ship-it@^4.16.0":
+"@netlify/zip-it-and-ship-it@4.17.0", "@netlify/zip-it-and-ship-it@^4.15.1", "@netlify/zip-it-and-ship-it@^4.17.0":
   version "4.17.0"
   resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-4.17.0.tgz#727b0f60b7357321ce99b8d589b1ba848d192b49"
   integrity sha512-xcumwEFH7m/cw/XEcmv3OB8U94J5zWVsMhjROdfUdT+BE5QU5InEggYS6HnDoTOMgGpVM+mY1vgBQzdgaC+NZw==
@@ -7134,7 +7098,7 @@ crypto-random-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
   integrity sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA==
 
-csp_evaluator@^1.0.1:
+csp_evaluator@1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/csp_evaluator/-/csp_evaluator-1.0.4.tgz#152deb224683020d55a9dce853266ecab6c56129"
   integrity sha512-hs1lAKCbx/SWXYwpUWu3bS/k1CS10HRLh/7Kjh+VMW2ZZ8GmzymMGlModz+IIgh4gpn+PGuSVoJFkBPU3wGR7Q==
@@ -13024,15 +12988,15 @@ lighthouse-stack-packs@^1.5.0:
   resolved "https://registry.yarnpkg.com/lighthouse-stack-packs/-/lighthouse-stack-packs-1.5.0.tgz#c191f2b94db21602254baaebfb0bb90307a00ffa"
   integrity sha512-ntVOqFsrrTQYrNf+W+sNE9GjddW+ab5QN0WrrCikjMFsUvEQ28CvT0SXcHPZXFtcsb1lMSuVaNCmEuj7oXtYGQ==
 
-lighthouse@8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.2.0.tgz#97909157186200fbcd366a5ef38a26423e91a25c"
-  integrity sha512-uiAuiUTCP9kyib0UfG2j9CrXVVtVU1eoPhsj35jYXQS2cFM7gKG6dB0v+OrRl3/0loplKyW/w5KYsHb2lZwvaA==
+lighthouse@8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.3.0.tgz#2dd8e1440500c3e70235d13bf8946425e21eb616"
+  integrity sha512-EPSm4TaC6B6VusCsPtifGtp+eLxOGlbeqAE69GAMlOtFoMRxM0VTXHcNENHzSBhaiR9j5aHZ06/6PRzb2orxEg==
   dependencies:
     axe-core "4.2.3"
     chrome-launcher "^0.14.0"
     configstore "^5.0.1"
-    csp_evaluator "^1.0.1"
+    csp_evaluator "1.0.4"
     cssstyle "1.2.1"
     enquirer "^2.3.6"
     http-link-header "^0.8.0"
@@ -14500,19 +14464,19 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.1.0.tgz#24d636cc591f3c8bed9dd678918b303e29282e0d"
-  integrity sha512-1jNmgR6DA3aoMLVhEfuagYBzxHVqK7x6pLRY+4c5Atn3PJ/hX1SU56rBED6BRTNiPfGTuudPNXHjWj75MUpj/w==
+netlify-cli@6.2.1:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.2.1.tgz#ae9211122057e481ef74aa4f224feee0c0d01b03"
+  integrity sha512-aPxlre1FMcHB4JaUG0CjdeHx9WogPDYUxdGfYEYDl0q0cPBWHb9ja/Km8ts/Fvm3ts0wZOTtx0i6NupDwWvpVA==
   dependencies:
-    "@netlify/build" "^17.9.2"
+    "@netlify/build" "^17.10.0"
     "@netlify/config" "^14.4.3"
     "@netlify/framework-info" "^5.8.0"
     "@netlify/local-functions-proxy" "^1.1.0"
     "@netlify/plugin-edge-handlers" "^1.11.22"
     "@netlify/plugins-list" "^3.3.0"
     "@netlify/routing-local-proxy" "^0.31.0"
-    "@netlify/zip-it-and-ship-it" "4.16.0"
+    "@netlify/zip-it-and-ship-it" "4.17.0"
     "@oclif/command" "^1.6.1"
     "@oclif/config" "^1.15.1"
     "@oclif/errors" "^1.3.4"
