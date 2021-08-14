@@ -2339,20 +2339,20 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
-"@microsoft/rush-lib@5.51.0":
-  version "5.51.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/rush-lib/-/rush-lib-5.51.0.tgz#a8f4ec7454b171be7f30cbacfae4dd3d17a25aa4"
-  integrity sha512-7RPcGFxTrIHLaTHpl1j//kggd/GcEc6pzQuNP43JKudTQ2KMS7uAqGcvg2N/O6FbJWDO5h9FUF9adFQ+llszAw==
+"@microsoft/rush-lib@5.51.1":
+  version "5.51.1"
+  resolved "https://registry.yarnpkg.com/@microsoft/rush-lib/-/rush-lib-5.51.1.tgz#c89de0ae7df2be2dda297f158cf5703b902b7159"
+  integrity sha512-jBR+Ip8LO2peiPHCegFfjsqPdpuZiNMwlnnVgO3T+/7IVlrC4EmvZMN7TMIMWhERZxoWpoW6bgHmIC5z5gReqA==
   dependencies:
     "@azure/identity" "~1.0.0"
     "@azure/storage-blob" "~12.3.0"
     "@pnpm/link-bins" "~5.3.7"
     "@rushstack/heft-config-file" "0.6.2"
     "@rushstack/node-core-library" "3.40.0"
-    "@rushstack/package-deps-hash" "3.0.57"
+    "@rushstack/package-deps-hash" "3.0.60"
     "@rushstack/rig-package" "0.2.13"
-    "@rushstack/stream-collator" "4.0.112"
-    "@rushstack/terminal" "0.2.14"
+    "@rushstack/stream-collator" "4.0.115"
+    "@rushstack/terminal" "0.2.17"
     "@rushstack/ts-command-line" "4.8.1"
     "@yarnpkg/lockfile" "~1.0.2"
     builtin-modules "~3.1.0"
@@ -2380,12 +2380,12 @@
     "true-case-path" "~2.2.1"
     z-schema "~3.18.3"
 
-"@microsoft/rush@5.51.0":
-  version "5.51.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/rush/-/rush-5.51.0.tgz#60caf6f2321c75f5bae431af5fdb462cfe9a15eb"
-  integrity sha512-ymbbJyeo/Lk392izAJnL1YfAUzLhJeNXeZXZYFo8kzEhcMA16zMw2QFgTKeUPK5L3JdPuIBqMae2AO7iUsI/Eg==
+"@microsoft/rush@5.51.1":
+  version "5.51.1"
+  resolved "https://registry.yarnpkg.com/@microsoft/rush/-/rush-5.51.1.tgz#5f0496a1cad6c76b623024fbc1255524e0fb46c7"
+  integrity sha512-nUW85EMkndxC0m6ObnL1azOQTI3UFHbEpyQQa1mjqtCXLF7W5a92Ttj5ewk5FWvM/uCI3IQA6IQ77pGh6DyDVg==
   dependencies:
-    "@microsoft/rush-lib" "5.51.0"
+    "@microsoft/rush-lib" "5.51.1"
     "@rushstack/node-core-library" "3.40.0"
     colors "~1.2.1"
     semver "~7.3.0"
@@ -3216,10 +3216,10 @@
     write-file-atomic "^3.0.3"
     write-yaml-file "^4.1.3"
 
-"@polka/url@^1.0.0-next.15":
-  version "1.0.0-next.15"
-  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.15.tgz#6a9d143f7f4f49db2d782f9e1c8839a29b43ae23"
-  integrity sha512-15spi3V28QdevleWBNXE4pIls3nFZmBbUGrW9IVPwiQczuSb9n76TCB4bsk8TSel+I1OkHEdPhu5QKMfY6rQHA==
+"@polka/url@^1.0.0-next.17":
+  version "1.0.0-next.17"
+  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.17.tgz#25fdbdfd282c2f86ddf3fcefbd98be99cd2627e2"
+  integrity sha512-0p1rCgM3LLbAdwBnc7gqgnvjHg9KpbhcSphergHShlkWz8EdPawoMJ3/VbezI0mGC5eKCDzMaPgF9Yca6cKvrg==
 
 "@postman/form-data@~3.1.1":
   version "3.1.1"
@@ -3372,10 +3372,10 @@
     timsort "~0.3.0"
     z-schema "~3.18.3"
 
-"@rushstack/package-deps-hash@3.0.57":
-  version "3.0.57"
-  resolved "https://registry.yarnpkg.com/@rushstack/package-deps-hash/-/package-deps-hash-3.0.57.tgz#8507e89141c5a0ee7b4bec58ad504e4efe686769"
-  integrity sha512-ccEkOXoJ2Be+xbzoOvoiIaPmrb5b+n2yh1bj6bHzoq6bflU5NTr98nA+Fh8mIwoA39CW57grHk1Ky+rxGDF0eA==
+"@rushstack/package-deps-hash@3.0.60":
+  version "3.0.60"
+  resolved "https://registry.yarnpkg.com/@rushstack/package-deps-hash/-/package-deps-hash-3.0.60.tgz#c25a6774588474f950ffdcc073f0dd6a58e61d4f"
+  integrity sha512-A07e9qYiGdVQTSkm5Oq+Sc9OF8UG09iCyFVZDV1FW/Cn6Y4KNkGJPXV63A9/i949NMSrf+tHDdT498ItnMWjOg==
   dependencies:
     "@rushstack/node-core-library" "3.40.0"
 
@@ -3387,18 +3387,18 @@
     resolve "~1.17.0"
     strip-json-comments "~3.1.1"
 
-"@rushstack/stream-collator@4.0.112":
-  version "4.0.112"
-  resolved "https://registry.yarnpkg.com/@rushstack/stream-collator/-/stream-collator-4.0.112.tgz#12240945f42033ea551eb4d537216abe0b49d299"
-  integrity sha512-G8pO+e+YHMQn4Z1U8dlz7zSiYB83wqq/vjI4lCtcjbrf3K8mb5xT+IiSnIQW3vmF2YbbRc0lF/LEwRTWjBnTMg==
+"@rushstack/stream-collator@4.0.115":
+  version "4.0.115"
+  resolved "https://registry.yarnpkg.com/@rushstack/stream-collator/-/stream-collator-4.0.115.tgz#d5f1bf41d6242da0b7aa430b40f307ecb4997bfb"
+  integrity sha512-LlDH0zBoC0VJ2pcuNL4umPJ8nxd7PAyfPY7zH5AqzHPxvCHeBI10JFM/R9BbVlro8Q6zCpoeDOSc7Ln2cv1BxQ==
   dependencies:
     "@rushstack/node-core-library" "3.40.0"
-    "@rushstack/terminal" "0.2.14"
+    "@rushstack/terminal" "0.2.17"
 
-"@rushstack/terminal@0.2.14":
-  version "0.2.14"
-  resolved "https://registry.yarnpkg.com/@rushstack/terminal/-/terminal-0.2.14.tgz#a44fcfee4eeec63a8bc81d3bb2e47d838b81fc7f"
-  integrity sha512-euGk5tjZaTVaj/Eh3CjOPFpn/lvyNgH79Gd/QfZTW0o/aSlisDOaLhghCifgeAFfzgagrJna/p8WzfnLopDiLg==
+"@rushstack/terminal@0.2.17":
+  version "0.2.17"
+  resolved "https://registry.yarnpkg.com/@rushstack/terminal/-/terminal-0.2.17.tgz#eb965f81ea26dd65740c5f2cbbbe1ae8ee1243ac"
+  integrity sha512-toi4bjJboCwP39AvaLiMLs1hzYuZUV+t0BaU8S6s9NiR6gglBxZXMOgjO51wpm8rUDM35SOFQTvHMPgvWU7rqQ==
   dependencies:
     "@rushstack/node-core-library" "3.40.0"
     "@types/node" "10.17.13"
@@ -18754,10 +18754,10 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-sirv-cli@1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.12.tgz#10c5240831879422dba42bdcdf9c09dcc3314615"
-  integrity sha512-Rs5PvF3a48zuLmrl8vcqVv9xF/WWPES19QawVkpdzqx7vD5SMZS07+ece1gK4umbslXN43YeIksYtQM5csgIzQ==
+sirv-cli@1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.14.tgz#4bc60421b3de9caea80ccd292b5004aca4ce3c81"
+  integrity sha512-yyUTNr984ANKDloqepkYbBSqvx3buwYg2sQKPWjSU+IBia5loaoka2If8N9CMwt8AfP179cdEl7kYJ//iWJHjQ==
   dependencies:
     console-clear "^1.1.0"
     get-port "^3.2.0"
@@ -18765,15 +18765,15 @@ sirv-cli@1.0.12:
     local-access "^1.0.1"
     sade "^1.6.0"
     semiver "^1.0.0"
-    sirv "^1.0.12"
+    sirv "^1.0.13"
     tinydate "^1.0.0"
 
-sirv@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/sirv/-/sirv-1.0.12.tgz#d816c882b35489b3c63290e2f455ae3eccd5f652"
-  integrity sha512-+jQoCxndz7L2tqQL4ZyzfDhky0W/4ZJip3XoOuxyQWnAwMxindLl3Xv1qT4x1YX/re0leShvTm8Uk0kQspGhBg==
+sirv@^1.0.13:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/sirv/-/sirv-1.0.14.tgz#b826343f573e12653c5b3c3080a3a2a6a06595cd"
+  integrity sha512-czTFDFjK9lXj0u9mJ3OmJoXFztoilYS+NdRPcJoT182w44wSEkHSiO7A2517GLJ8wKM4GjCm2OXE66Dhngbzjg==
   dependencies:
-    "@polka/url" "^1.0.0-next.15"
+    "@polka/url" "^1.0.0-next.17"
     mime "^2.3.1"
     totalist "^1.0.0"
 
