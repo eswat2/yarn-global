@@ -1184,10 +1184,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@cspell/cspell-bundled-dicts@^5.7.1":
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/@cspell/cspell-bundled-dicts/-/cspell-bundled-dicts-5.7.1.tgz#ef63c07c8291ae816ae3221832d9c49b3ee29891"
-  integrity sha512-eOUJver2zJglrl4pjaDVJxoXAogtcWmI9ttVWqgPENeFQAdoNjVSPjRtyLDTp4jXC87TzpTWSKRhC0RNZBZPCg==
+"@cspell/cspell-bundled-dicts@^5.7.2":
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/@cspell/cspell-bundled-dicts/-/cspell-bundled-dicts-5.7.2.tgz#077264d9aeed15e33dda12dcbde441f0e77db63a"
+  integrity sha512-Vd//xmvA1YeTpyCBbt3fVjYKNbCI6tvS9/Cfjt8PmV91loysX4TWJnI+mRY+2Eltf4WfW6SAtbC7/YUWrvBgQA==
   dependencies:
     "@cspell/dict-ada" "^1.1.2"
     "@cspell/dict-aws" "^1.0.14"
@@ -1217,17 +1217,18 @@
     "@cspell/dict-npm" "^1.0.15"
     "@cspell/dict-php" "^1.0.24"
     "@cspell/dict-powershell" "^1.0.18"
+    "@cspell/dict-public-licenses" "^1.0.3"
     "@cspell/dict-python" "^1.0.37"
     "@cspell/dict-ruby" "^1.0.14"
     "@cspell/dict-rust" "^1.0.23"
     "@cspell/dict-scala" "^1.0.21"
-    "@cspell/dict-software-terms" "^1.0.39"
+    "@cspell/dict-software-terms" "^1.0.40"
     "@cspell/dict-typescript" "^1.0.19"
 
-"@cspell/cspell-types@^5.7.0":
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/@cspell/cspell-types/-/cspell-types-5.7.0.tgz#953ea4bf5d5b35c9040f7c707d23e126251a6f58"
-  integrity sha512-nPLBMn5cKdjZ2rA4C7YXYw5TIzrn/eScvhjnLflNhM+U2Ga3Xvuo7R0V4fNYUZDxsRUqUvB+r2WK1kaxbRYnIw==
+"@cspell/cspell-types@^5.7.2":
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/@cspell/cspell-types/-/cspell-types-5.7.2.tgz#93c2632cf8ce9ae98f55503380709b13da891b9c"
+  integrity sha512-hRInos9xQxPk8Wv0Y23UwFddN5RkyKVhqqH6kEeWir1sok2eMy58n/eIJvVPyhx1LVeP4QS4a/n6/OigUQrNVw==
 
 "@cspell/dict-ada@^1.1.2":
   version "1.1.2"
@@ -1369,6 +1370,11 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-powershell/-/dict-powershell-1.0.18.tgz#c744629a168df008641ed074633a548390bac98f"
   integrity sha512-LAfCJBy1hga8/KI/IpAg/GrnoP+b4SbNGdiXiXrejeZ7ZTVfj4qYsTCkZ2p7eYUu92FLyJT4jGex0fGZn/PtVw==
 
+"@cspell/dict-public-licenses@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-public-licenses/-/dict-public-licenses-1.0.3.tgz#d02ee79f7b7aecd696695e5aba135e6553e154ec"
+  integrity sha512-sXjxOHJ9Q4rZvE1UbwpwJQ8EXO3fadKBjJIWmz0z+dZAbvTrmz5Ln1Ef9ruJvLPfwAps8m3TCV6Diz60RAQqHg==
+
 "@cspell/dict-python@^1.0.37":
   version "1.0.37"
   resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-1.0.37.tgz#59d3f7dbcb759463529817156c5ac09649b54f0b"
@@ -1389,10 +1395,10 @@
   resolved "https://registry.yarnpkg.com/@cspell/dict-scala/-/dict-scala-1.0.21.tgz#bfda392329061e2352fbcd33d228617742c93831"
   integrity sha512-5V/R7PRbbminTpPS3ywgdAalI9BHzcEjEj9ug4kWYvBIGwSnS7T6QCFCiu+e9LvEGUqQC+NHgLY4zs1NaBj2vA==
 
-"@cspell/dict-software-terms@^1.0.39":
-  version "1.0.39"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-1.0.39.tgz#070f6a1878dace57095245f0807436c6de272658"
-  integrity sha512-htJU7+CW4gaRpa89SIPp/jTTnwaE0iBpV+NR0l2dFzkFXsfJDR7Rj1PW+Ewuscnil9FVwh62kfn0z1GKirFauw==
+"@cspell/dict-software-terms@^1.0.40":
+  version "1.0.40"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-1.0.40.tgz#b9d02e62b81e8213f3ec8d44227af6610eb8ff30"
+  integrity sha512-aHEIgjZJwqn4I+tlQ2XvC4l106VS2bSzNU8crRadpcbpuL5UC2nzMgEbEOAHK4gP1P9i009ttFB0PTKTGisKgg==
 
 "@cspell/dict-typescript@^1.0.19":
   version "1.0.19"
@@ -2398,10 +2404,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^18.2.7":
-  version "18.2.7"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.2.7.tgz#f8072a656931f88e3248a4762496a12a7ed0ff34"
-  integrity sha512-1KlY84X+aFVnprlPLnNArcYPOXjDN9elHrD6v6A5SahYFOB307ehQJrDcERIde20r1tRvjb8ly67HI1VY9ib9Q==
+"@netlify/build@^18.2.8":
+  version "18.2.9"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.2.9.tgz#8596b6dab6160d3145e248162beacea6b97e2bdc"
+  integrity sha512-0resO0G+O8SKcQ7UGUeYmrZCL1qeki+cWo47lOQduo4RNjHNH6fS2HSLM0CJEwTKw9SNiJNBb7hZbRi7C/KNdQ==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^2.0.0"
@@ -2435,12 +2441,12 @@
     p-event "^4.1.0"
     p-every "^2.0.0"
     p-filter "^2.1.0"
-    p-locate "^4.1.0"
+    p-locate "^5.0.0"
     p-reduce "^2.1.0"
     path-exists "^4.0.0"
     path-type "^4.0.0"
     pkg-dir "^4.2.0"
-    pretty-ms "^5.1.0"
+    pretty-ms "^7.0.0"
     ps-list "^7.0.0"
     read-pkg-up "^7.0.1"
     readdirp "^3.4.0"
@@ -2451,9 +2457,9 @@
     statsd-client "0.4.7"
     string-width "^4.2.0"
     strip-ansi "^6.0.0"
-    supports-color "^7.1.0"
+    supports-color "^8.0.0"
     tmp-promise "^3.0.2"
-    update-notifier "^4.1.0"
+    update-notifier "^5.0.0"
     uuid "^8.0.0"
     yargs "^15.3.1"
 
@@ -2506,10 +2512,10 @@
     validate-npm-package-name "^3.0.0"
     yargs "^15.3.0"
 
-"@netlify/config@^15.3.0":
-  version "15.3.0"
-  resolved "https://registry.yarnpkg.com/@netlify/config/-/config-15.3.0.tgz#e3631e52c0d3738ea69b22c5e2024d7074e71865"
-  integrity sha512-aOkD/RqXVp6mfM+Wd3PcYTko4JCR4d/VZtyBp9rfPAkLTBvayBZjATpI3uVWuOpVq8NUm4ERpQ0jKW0IBWUwkw==
+"@netlify/config@^15.3.1":
+  version "15.3.3"
+  resolved "https://registry.yarnpkg.com/@netlify/config/-/config-15.3.3.tgz#752739f228d22919422236707d1c76410e79bc8c"
+  integrity sha512-etpctdQCHE/ALOYSWbyXzsquUSswWeUaqMIXfJsJ9pytMmB4oHjB6eu/GIT8FY1R0E6A/aVS2ibeVVexObNXbQ==
   dependencies:
     "@ungap/from-entries" "^0.2.1"
     array-flat-polyfill "^1.0.1"
@@ -2527,10 +2533,10 @@
     make-dir "^3.1.0"
     map-obj "^4.0.0"
     netlify "^8.0.0"
-    netlify-headers-parser "^2.1.1"
-    netlify-redirect-parser "^10.1.0"
+    netlify-headers-parser "^3.0.0"
+    netlify-redirect-parser "^11.0.0"
     omit.js "^2.0.2"
-    p-locate "^4.1.0"
+    p-locate "^5.0.0"
     path-exists "^4.0.0"
     path-type "^4.0.0"
     toml "^3.0.0"
@@ -7154,13 +7160,13 @@ cspell-io@^5.7.0:
     iconv-lite "^0.6.3"
     iterable-to-stream "^2.0.0"
 
-cspell-lib@^5.7.1:
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-5.7.1.tgz#c021ef423a390b71bd56ce103ec98b4df8127b0f"
-  integrity sha512-uE+a292JTroaJMb2L/w2OodtvOTAm/4l6BMkeJtYfdjYGzaKJEKmypazIsEvLuw5AeZNZfIcZoI8iajMypuFUg==
+cspell-lib@^5.7.2:
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-5.7.2.tgz#5e2d47bb2a63931abebefd3030ba830de5657314"
+  integrity sha512-9C0d96+6GeLgyek//lCXcVpk2VeuwBUU4T+0gmnzPGYEOV1uNNK79SspFsSFZvL6+un5ztO+sQ+2MxR9zMF+gw==
   dependencies:
-    "@cspell/cspell-bundled-dicts" "^5.7.1"
-    "@cspell/cspell-types" "^5.7.0"
+    "@cspell/cspell-bundled-dicts" "^5.7.2"
+    "@cspell/cspell-types" "^5.7.2"
     clear-module "^4.1.1"
     comment-json "^4.1.1"
     configstore "^5.0.1"
@@ -7184,17 +7190,17 @@ cspell-trie-lib@^5.7.0:
     fs-extra "^10.0.0"
     gensequence "^3.1.1"
 
-cspell@5.7.1:
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/cspell/-/cspell-5.7.1.tgz#4485f9ea31b3ca20abf300b355a05c998ad4c6a8"
-  integrity sha512-SbM9nSYioCkWVz+3jfN7RqTHxuFTaDJSlH66ZesRukctzDbHitQoBRFFlMpF2Qrn/XdlNBVWHA8e3rZRTIEDRg==
+cspell@5.7.2:
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/cspell/-/cspell-5.7.2.tgz#7218ceaa71e1e87e6d67b375c6371f61940d7ded"
+  integrity sha512-FJAPt3GkwdVaX6I+GR1A95WsraqHPzYqkBI1rIHNE5JnJIbWW6N+pnlbhDjsUlPWXmQYHXMfUlhFtMVLUVs3mw==
   dependencies:
-    "@cspell/cspell-types" "^5.7.0"
+    "@cspell/cspell-types" "^5.7.2"
     chalk "^4.1.2"
     commander "^8.1.0"
     comment-json "^4.1.1"
     cspell-glob "^5.7.0"
-    cspell-lib "^5.7.1"
+    cspell-lib "^5.7.2"
     fs-extra "^10.0.0"
     get-stdin "^8.0.0"
     glob "^7.1.7"
@@ -14500,13 +14506,13 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.3.5:
-  version "6.3.5"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.3.5.tgz#1d183cf714819434e43c723c9fed245e6c5b2ca9"
-  integrity sha512-ve09paxF4/aoPDScVMt+N/oRoiWLad4xF2HHWHGAq0PJFah13W6Q/9rQADafxgVBk1OHFN6zW1WOJGZCdH3+pQ==
+netlify-cli@6.4.1:
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.4.1.tgz#d52ea56ad80b90e4766ffa33d143b56d66c0ba9f"
+  integrity sha512-M145Rssq8qZQxVrGjD797OoLcYptBfd37nsRgy2snN8kUOnH2yqUNJRH0VEPKGL63ZVkaUE6Df4hC8fDubeETA==
   dependencies:
-    "@netlify/build" "^18.2.7"
-    "@netlify/config" "^15.3.0"
+    "@netlify/build" "^18.2.8"
+    "@netlify/config" "^15.3.1"
     "@netlify/framework-info" "^5.8.0"
     "@netlify/local-functions-proxy" "^1.1.1"
     "@netlify/plugin-edge-handlers" "^1.11.22"
@@ -14580,7 +14586,7 @@ netlify-cli@6.3.5:
     minimist "^1.2.5"
     multiparty "^4.2.1"
     netlify "^8.0.0"
-    netlify-redirect-parser "^10.1.0"
+    netlify-redirect-parser "^11.0.0"
     netlify-redirector "^0.2.1"
     node-fetch "^2.6.0"
     node-version-alias "^1.0.1"
@@ -14627,23 +14633,23 @@ netlify-headers-parser@^1.0.1:
     path-exists "^4.0.0"
     toml "^3.0.0"
 
-netlify-headers-parser@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/netlify-headers-parser/-/netlify-headers-parser-2.1.1.tgz#7b349cdd62476ae1b3ad9630d96cbe8801f11ee9"
-  integrity sha512-zIVVKf2+5Y/m/dx1+uLdh4xrqf7X6sDFKhFj/RHeyBS8ArqnyAF9vkm3uS0WqByfMpBTmpqZKNXPlJ8dTNihWQ==
+netlify-headers-parser@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/netlify-headers-parser/-/netlify-headers-parser-3.0.0.tgz#dc4d32e3929c8232f03af56b1da483d8fc076bfa"
+  integrity sha512-E2vSfC5lBM7GlStPPQAb7zDN+AX40Yz4fYz9t78p3iwV70BrWBsb29ZZLlYEfARGVCi7TW2qS40y0Az3TOasUA==
   dependencies:
     is-plain-obj "^3.0.0"
     map-obj "^4.2.1"
     path-exists "^4.0.0"
     toml "^3.0.0"
 
-netlify-redirect-parser@^10.1.0:
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/netlify-redirect-parser/-/netlify-redirect-parser-10.1.0.tgz#9dc4ef528358f698d88042e2c9a070b674cd3e12"
-  integrity sha512-lnNp2nlyFajv3/hQmIDjzhkB6B8TqFd/5HUE9oPd16DK0S0tERiwPiZaL25XroBJFU4nvZM4xSPN907YiGcY0w==
+netlify-redirect-parser@^11.0.0:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/netlify-redirect-parser/-/netlify-redirect-parser-11.0.1.tgz#4324df0516787096ded63966da30e6577e14a8c9"
+  integrity sha512-CSIff1lGEA9dn86pnHfsAPei3wr1LfE+vv+XwWO3wStd7kQ1my2bgUxttFBEJDK5YdW+sb7v1285HKm48XZhhw==
   dependencies:
     filter-obj "^2.0.2"
-    is-plain-obj "^2.1.0"
+    is-plain-obj "^3.0.0"
     path-exists "^4.0.0"
     toml "^3.0.0"
 
@@ -17065,17 +17071,10 @@ pretty-format@^25.5.0:
     ansi-styles "^4.0.0"
     react-is "^16.12.0"
 
-pretty-ms@7.0.1, pretty-ms@^7.0.1:
+pretty-ms@7.0.1, pretty-ms@^7.0.0, pretty-ms@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/pretty-ms/-/pretty-ms-7.0.1.tgz#7d903eaab281f7d8e03c66f867e239dc32fb73e8"
   integrity sha512-973driJZvxiGOQ5ONsFhOF/DtzPMOMtgC11kCpUrPGMTgqp2q/1gwzCquocrN33is0VZ5GFHXZYMM9l6h67v2Q==
-  dependencies:
-    parse-ms "^2.1.0"
-
-pretty-ms@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/pretty-ms/-/pretty-ms-5.1.0.tgz#b906bdd1ec9e9799995c372e2b1c34f073f95384"
-  integrity sha512-4gaK1skD2gwscCfkswYQRmddUb2GJZtzDGRjHWadVHtK/DIKFufa12MvES6/xu1tVbUYeia5bmLcwJtZJQUqnw==
   dependencies:
     parse-ms "^2.1.0"
 
@@ -19530,7 +19529,7 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-supports-color@^8.1.0:
+supports-color@^8.0.0, supports-color@^8.1.0:
   version "8.1.1"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-8.1.1.tgz#cd6fc17e28500cff56c1b86c0a7fd4a54a73005c"
   integrity sha512-MpUEN2OodtUzxvKQl72cUF7RQ5EiHsGvSsVG0ia9c5RbWGL2CI4C7EpPS8UTBIplnlzZiNuV56w+FuNxy3ty2Q==
