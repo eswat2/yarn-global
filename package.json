@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.4.17",
+    "@custom-elements-manifest/analyzer": "0.5.2",
     "@microsoft/rush": "5.52.0",
     "@storybook/storybook-deployer": "2.8.10",
     "@vue/cli": "4.5.13",
