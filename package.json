@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.5.2",
+    "@custom-elements-manifest/analyzer": "0.5.3",
     "@microsoft/rush": "5.52.0",
     "@storybook/storybook-deployer": "2.8.10",
     "@vue/cli": "4.5.13",
@@ -8,7 +8,7 @@
     "concurrently": "6.2.1",
     "create-react-app": "4.0.3",
     "create-react-library": "3.1.1",
-    "cspell": "5.8.2",
+    "cspell": "5.9.0",
     "devolution": "2.3.1",
     "direflow-cli": "3.5.5",
     "eslint": "7.32.0",
@@ -18,7 +18,7 @@
     "lighthouse": "8.3.0",
     "markdownlint-cli": "0.28.1",
     "netlify": "8.0.0",
-    "netlify-cli": "6.8.0",
+    "netlify-cli": "6.8.1",
     "newman": "5.2.4",
     "nodemon": "2.0.12",
     "now": "21.0.1",
