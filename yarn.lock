@@ -5924,7 +5924,7 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.1, chalk@^4.1.2:
+chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
@@ -14525,10 +14525,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.8.4:
-  version "6.8.4"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.8.4.tgz#ed1a116b384115dc9f05e78f478233fb4d80ac99"
-  integrity sha512-bnF3w08sgRvOl/nH//Qtd28x2JZC3ueIFfHLFXUtzruz74IXstSzzZpLbUb2vgHz/c68/ah9zsMR5861BotnDw==
+netlify-cli@6.8.5:
+  version "6.8.5"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.8.5.tgz#56489299c4862b37160852b345963bcc8cabd9e3"
+  integrity sha512-8flCVhyX04Ed22E1xLi80UtOBV/v8sMh42sa0tBRs5XiW83SlIi27I6BO+MLXtPbL+DwrAC27nUz9WY8ce21Fg==
   dependencies:
     "@netlify/build" "^18.7.3"
     "@netlify/config" "^15.5.1"
@@ -15098,12 +15098,12 @@ npm-bundled@^1.1.1:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@11.8.3:
-  version "11.8.3"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.3.tgz#3c3541ad855bbc42b0d60e8eb293d3f6125c80e5"
-  integrity sha512-NslIB6Af7GagVrN+bvBkObLyawIZfOnDnl8n9MHE+dFt0aChRYtvR6T2BLJKzOPIepCLmmh0NRR/qha0ExAELQ==
+npm-check-updates@11.8.4:
+  version "11.8.4"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.4.tgz#07d83cb6bdbea6253d5e899a68ffa70ec0582ca7"
+  integrity sha512-+whsAZw7z1v9Quj7F83Eafq+lX9TJhdFZj0HLZDmlS4bUpS919GmXD8zTCqh5ZDCxSpGwvm7FiW4X+xKSOoAgw==
   dependencies:
-    chalk "^4.1.1"
+    chalk "^4.1.2"
     cint "^8.2.1"
     cli-table "^0.3.6"
     commander "^6.2.1"
@@ -15119,7 +15119,7 @@ npm-check-updates@11.8.3:
     lodash "^4.17.21"
     minimatch "^3.0.4"
     p-map "^4.0.0"
-    pacote "^11.3.4"
+    pacote "^11.3.5"
     parse-github-url "^1.0.2"
     progress "^2.0.3"
     prompts "^2.4.1"
@@ -15934,7 +15934,7 @@ package-json@^6.3.0:
     registry-url "^5.0.0"
     semver "^6.2.0"
 
-pacote@^11.2.6, pacote@^11.3.4:
+pacote@^11.2.6, pacote@^11.3.5:
   version "11.3.5"
   resolved "https://registry.yarnpkg.com/pacote/-/pacote-11.3.5.tgz#73cf1fc3772b533f575e39efa96c50be8c3dc9d2"
   integrity sha512-fT375Yczn4zi+6Hkk2TBe1x1sP8FgFsEIZ2/iWaXY2r/NkhDJfxbcn5paz1+RTFCyNf+dPnaoBDJoAxXSU8Bkg==
