@@ -15098,10 +15098,10 @@ npm-bundled@^1.1.1:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@11.8.4:
-  version "11.8.4"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.4.tgz#07d83cb6bdbea6253d5e899a68ffa70ec0582ca7"
-  integrity sha512-+whsAZw7z1v9Quj7F83Eafq+lX9TJhdFZj0HLZDmlS4bUpS919GmXD8zTCqh5ZDCxSpGwvm7FiW4X+xKSOoAgw==
+npm-check-updates@11.8.5:
+  version "11.8.5"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-11.8.5.tgz#8dec7fd255a437264742c15f9c0bb29f4eceaf55"
+  integrity sha512-IYSHjlWe8UEugDy7X0qjBeJwcni4DlcWdBK4QQEbwgkNlEDlXyd4yQJYWFumKaJzrp/n5/EcvaboXsBD1Er/pw==
   dependencies:
     chalk "^4.1.2"
     cint "^8.2.1"
@@ -16450,10 +16450,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.14.5:
-  version "6.14.5"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.14.5.tgz#fc5ba22e179ea6d6f63a22f44afe5ae873f84f40"
-  integrity sha512-+N1B+Bj2JKZJ1GDJS141OgnDmwxAavHi/ecU3IIl0QunPSVBXxd51DbVizCw/mPwIB3UmeT474Fyz8o3Xj9sXA==
+pnpm@6.14.6:
+  version "6.14.6"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.14.6.tgz#2cfcc7f3114ee4e06ec8154fc7d7037bc1b43b40"
+  integrity sha512-PwBdhK7q/QqM8erzDuNu8a85bPNLV4Q3X6G0AFItogwhjDKEtJGKSIIGnvtq8AqnB2r1S9DGAOrQ8yqRJHU8xA==
 
 portfinder@^1.0.26:
   version "1.0.28"
