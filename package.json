@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.5.3",
-    "@microsoft/rush": "5.52.0",
+    "@microsoft/rush": "5.53.0",
     "@storybook/storybook-deployer": "2.8.10",
     "@vue/cli": "4.5.13",
     "cloc": "2.8.0",
@@ -34,7 +34,7 @@
     "sharp-cli": "1.15.0",
     "sirv-cli": "1.0.14",
     "svgo": "2.5.0",
-    "typescript": "4.4.2",
+    "typescript": "4.4.3",
     "updtr": "4.0.0",
     "uuid": "8.3.2",
     "vercel": "23.1.2",
