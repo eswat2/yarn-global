@@ -3533,10 +3533,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@trysound/sax@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.1.1.tgz#3348564048e7a2d7398c935d466c0414ebb6a669"
-  integrity sha512-Z6DoceYb/1xSg5+e+ZlPZ9v0N16ZvZ+wYMraFue4HYrE4ttONKtsvruIRf6t9TBR0YvSOfi1hUU0fJfBLCDYow==
+"@trysound/sax@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
+  integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
 "@types/accepts@*", "@types/accepts@^1.3.5":
   version "1.3.5"
@@ -14505,10 +14505,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.8.12:
-  version "6.8.12"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.8.12.tgz#f4e48cd6af6a209b9f81d04fd0bfa2673ad799be"
-  integrity sha512-yNbz/GrAEa9GtH8eV+KKA3IQdDa8sIqw+2aW6YAnBgKITqskt8G7Bbjv1v0pYrWRu55iuAA8PfslcXpVIiawow==
+netlify-cli@6.8.14:
+  version "6.8.14"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.8.14.tgz#bbf5dec887a7b48bb26dbd3bcae983621f391160"
+  integrity sha512-n+uKjB5XEUJu0zHPpkcqHIANSy2adt4V0I5SLK18cOPf9dWSBlhgc9pYXfnVxFY42bmHhj6pUufqwBqhOLeExw==
   dependencies:
     "@netlify/build" "^18.8.0"
     "@netlify/config" "^15.6.2"
@@ -16435,10 +16435,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.14.7:
-  version "6.14.7"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.14.7.tgz#546df3a0844773daaf6b61eede4c1e7653343ac6"
-  integrity sha512-/pjz4Eod3Heyxw/QCGLYpkZR8YNuzTTblgcVC+qvvYCtX0Wb5J9jVcbHoSRqC2jeo4ldtg8H9dssPlHlH50I7w==
+pnpm@6.15.0:
+  version "6.15.0"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.15.0.tgz#373bfd5f9b53e923394d407e6e7a1e69f085fc33"
+  integrity sha512-RqG3S1JHiFYxRgXQ941xT2BnNsjJbp+J1ImacB6b8JiqAIRkp6TAcNeosvF3X0Z9I6FvuCkccMwBxPJe8bboPQ==
 
 portfinder@^1.0.26:
   version "1.0.28"
@@ -19577,12 +19577,12 @@ supports-hyperlinks@^2.0.0, supports-hyperlinks@^2.1.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-svgo@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/svgo/-/svgo-2.5.0.tgz#3c9051b606d85a02fcb59f459b19970d2cc2c9bf"
-  integrity sha512-FSdBOOo271VyF/qZnOn1PgwCdt1v4Dx0Sey+U1jgqm1vqRYjPGdip0RGrFW6ItwtkBB8rHgHk26dlVr0uCs82Q==
+svgo@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/svgo/-/svgo-2.6.0.tgz#f7d3064a91b0804ea28a9dbfc3b36ba2ed4dd8d4"
+  integrity sha512-ATpRmynNSjP/5hSM4Ij4Pg3L+BCN6IBES7wRLh1ZtVxJB7Xn8omiGttLW6v6ZbqrV5pCVB3XfdbUoY8IpgIwvw==
   dependencies:
-    "@trysound/sax" "0.1.1"
+    "@trysound/sax" "0.2.0"
     colorette "^1.3.0"
     commander "^7.2.0"
     css-select "^4.1.3"
