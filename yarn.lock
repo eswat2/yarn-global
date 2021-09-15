@@ -2420,10 +2420,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^18.9.0":
-  version "18.9.0"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.9.0.tgz#a1a6df3e4c2b0d37c7c58b37d47415071dc2d8c9"
-  integrity sha512-HpqGuTzftCA//HrcZo9EDs5pbjGWKOGVgJGpq1pbjFrBmc2p7DH33VxbAE5lMBpEBfBgoUozGS9VCgthAqSz5A==
+"@netlify/build@^18.9.1":
+  version "18.10.0"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.10.0.tgz#971065d46264e5643bf267c83c08488c01020443"
+  integrity sha512-grXWwJiBcgQq0BPdVm32v8FaQ3hw6BzdkBpMXAWVP4yyYGj3rUz1f/G8uztnFKcxNCVTubJDQFA6JrG6ATuQjQ==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^2.0.0"
@@ -2433,7 +2433,7 @@
     "@netlify/plugin-edge-handlers" "^1.11.22"
     "@netlify/plugins-list" "^3.6.0"
     "@netlify/run-utils" "^2.0.0"
-    "@netlify/zip-it-and-ship-it" "^4.20.0"
+    "@netlify/zip-it-and-ship-it" "^4.21.0"
     "@sindresorhus/slugify" "^1.1.0"
     "@ungap/from-entries" "^0.2.1"
     ansi-escapes "^4.3.2"
@@ -2748,7 +2748,7 @@
   dependencies:
     execa "^5.1.1"
 
-"@netlify/zip-it-and-ship-it@4.21.0":
+"@netlify/zip-it-and-ship-it@4.21.0", "@netlify/zip-it-and-ship-it@^4.21.0":
   version "4.21.0"
   resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-4.21.0.tgz#eb39c4337824a1853d67cbd505dd998ee7a37a03"
   integrity sha512-5h/Mdahda2h2yJaDvf3J7GSjCiU3FD/RwCPBjWYgY7l5LVmkR7Xk2tNqTrdC28XfZOfQwm6URtbh01r+4UcEmA==
@@ -2785,7 +2785,7 @@
     unixify "^1.0.0"
     yargs "^16.0.0"
 
-"@netlify/zip-it-and-ship-it@^4.15.1", "@netlify/zip-it-and-ship-it@^4.20.0":
+"@netlify/zip-it-and-ship-it@^4.15.1":
   version "4.20.0"
   resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-4.20.0.tgz#edba9e1f6dd881adc43c0a3849154223cec436f0"
   integrity sha512-+wo8rupUJbrfw/lEBPccVP+GhFEJEbzx7M67eSEWxqwQkUKtZIHbBc6Ile+iVXqFnLyM2ryfxLTcSIm1pc797g==
@@ -14547,12 +14547,12 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.9.4:
-  version "6.9.4"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.9.4.tgz#ae45778d30f6770fffc8e3965b5782aab2f7aa3d"
-  integrity sha512-T3ie6Yy/3vHRsb9Xu72jsEqJZ0UidbzL4auiWTy65fNPLdPm0gixbMGv5X+IJCZkXfgU9ipYIlHMfCqlY05sdg==
+netlify-cli@6.9.5:
+  version "6.9.5"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.9.5.tgz#6ad891b0574a7170f61a9c29ecaa48ec80340a86"
+  integrity sha512-ocRoiObK3oZBKTMrvnvQ1Qa58dJVDgn2koQUmCbFfB9pRk2X2UxkzWT8liHe8OeQB4evjlSbfS1K8fMCKbMieQ==
   dependencies:
-    "@netlify/build" "^18.9.0"
+    "@netlify/build" "^18.9.1"
     "@netlify/config" "^15.6.2"
     "@netlify/framework-info" "^5.9.1"
     "@netlify/local-functions-proxy" "^1.1.1"
