@@ -16482,10 +16482,10 @@ pn@^1.1.0:
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnpm@6.15.0:
-  version "6.15.0"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.15.0.tgz#373bfd5f9b53e923394d407e6e7a1e69f085fc33"
-  integrity sha512-RqG3S1JHiFYxRgXQ941xT2BnNsjJbp+J1ImacB6b8JiqAIRkp6TAcNeosvF3X0Z9I6FvuCkccMwBxPJe8bboPQ==
+pnpm@6.15.1:
+  version "6.15.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.15.1.tgz#2f5983e05ee85c36d1166f6f81dcad1c996f7d10"
+  integrity sha512-hYGK8xlLdMj/sFhOLJ+x8IotsOkBp01c2mdWdLeKlUdA6EOl/RNWRp+7dUWs3Si2E1zgdTiHsEgNGYffv0PyLQ==
 
 portfinder@^1.0.26:
   version "1.0.28"
@@ -17079,10 +17079,10 @@ prettier-bytes@^1.0.4:
   resolved "https://registry.yarnpkg.com/prettier-bytes/-/prettier-bytes-1.0.4.tgz#994b02aa46f699c50b6257b5faaa7fe2557e62d6"
   integrity sha1-mUsCqkb2mcULYle1+qp/4lV+YtY=
 
-prettier@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.0.tgz#85bdfe0f70c3e777cf13a4ffff39713ca6f64cba"
-  integrity sha512-DsEPLY1dE5HF3BxCRBmD4uYZ+5DCbvatnolqTqcxEgKVZnL2kUfyu7b8pPQ5+hTBkdhU9SLUmK0/pHb07RE4WQ==
+prettier@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA==
 
 pretty-format@^24.9.0:
   version "24.9.0"
