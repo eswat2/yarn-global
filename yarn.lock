@@ -13108,10 +13108,10 @@ lighthouse-stack-packs@^1.5.0:
   resolved "https://registry.yarnpkg.com/lighthouse-stack-packs/-/lighthouse-stack-packs-1.5.0.tgz#c191f2b94db21602254baaebfb0bb90307a00ffa"
   integrity sha512-ntVOqFsrrTQYrNf+W+sNE9GjddW+ab5QN0WrrCikjMFsUvEQ28CvT0SXcHPZXFtcsb1lMSuVaNCmEuj7oXtYGQ==
 
-lighthouse@8.4.0:
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.4.0.tgz#2da669456e0640d21bbc0edae8950e8066e6ee9c"
-  integrity sha512-O4DE/UFvn63iu1hRNFRYY+ZzEHfN463fBSxUuux4cFXRd5c398FgL6VDiZgmy28jQ9U6lYmsKZW1xLcWLEuO+g==
+lighthouse@8.5.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/lighthouse/-/lighthouse-8.5.0.tgz#0f878646c6966f39302ab0045dd5be2c1216ef23"
+  integrity sha512-jBYe6IfE29dVFjONi+bTxLUFx+XA4O4qQueAPMvBPdDujLOehLXgTKDr7mW8ABFsiVop0uKGi1C/mMKG0+OfgQ==
   dependencies:
     axe-core "4.2.3"
     chrome-launcher "^0.14.0"
@@ -18340,10 +18340,10 @@ rollup-pluginutils@^2.6.0, rollup-pluginutils@^2.8.1:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.56.3, rollup@^2.23.1:
-  version "2.56.3"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.3.tgz#b63edadd9851b0d618a6d0e6af8201955a77aeff"
-  integrity sha512-Au92NuznFklgQCUcV96iXlxUbHuB1vQMaH76DHl5M11TotjOHwqk9CwcrT78+Tnv4FN9uTBxq6p4EJoYkpyekg==
+rollup@2.57.0:
+  version "2.57.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.57.0.tgz#c1694475eb22e1022477c0f4635fd0ac80713173"
+  integrity sha512-bKQIh1rWKofRee6mv8SrF2HdP6pea5QkwBZSMImJysFj39gQuiV8MEPBjXOCpzk3wSYp63M2v2wkWBmFC8O/rg==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -18355,6 +18355,13 @@ rollup@^1.27.5:
     "@types/estree" "*"
     "@types/node" "*"
     acorn "^7.1.0"
+
+rollup@^2.23.1:
+  version "2.56.3"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.3.tgz#b63edadd9851b0d618a6d0e6af8201955a77aeff"
+  integrity sha512-Au92NuznFklgQCUcV96iXlxUbHuB1vQMaH76DHl5M11TotjOHwqk9CwcrT78+Tnv4FN9uTBxq6p4EJoYkpyekg==
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 rss-parser@^3.8.0:
   version "3.12.0"
