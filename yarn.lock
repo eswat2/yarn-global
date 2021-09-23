@@ -2361,20 +2361,20 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
-"@microsoft/rush-lib@5.53.0":
-  version "5.53.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/rush-lib/-/rush-lib-5.53.0.tgz#c0af5c8aa594dd7125a3c9a19e28d7f4ca0ee3a7"
-  integrity sha512-wB+swhsRd7olIDFKxI2FjDtGi3Pawqzp9C5zrVlhw+QUXCmJYK0V9DEjVMGIEhLK8FfScwZvIKKfZFXyIoRyfQ==
+"@microsoft/rush-lib@5.54.0":
+  version "5.54.0"
+  resolved "https://registry.yarnpkg.com/@microsoft/rush-lib/-/rush-lib-5.54.0.tgz#3e85e212aad09726a1c0b88fc28c653d4d1e2b10"
+  integrity sha512-s5lDbrewK13nFr4Iuo/8TY5/8Cew0857J2BxDY+ClJvlaR/ClOY0ig54kE0xpfDPj52qpgfUw4/XwjrxlhvRjA==
   dependencies:
     "@azure/identity" "~1.0.0"
     "@azure/storage-blob" "~12.3.0"
     "@pnpm/link-bins" "~5.3.7"
-    "@rushstack/heft-config-file" "0.6.4"
-    "@rushstack/node-core-library" "3.40.0"
-    "@rushstack/package-deps-hash" "3.0.67"
+    "@rushstack/heft-config-file" "0.6.6"
+    "@rushstack/node-core-library" "3.40.2"
+    "@rushstack/package-deps-hash" "3.0.72"
     "@rushstack/rig-package" "0.3.0"
-    "@rushstack/stream-collator" "4.0.122"
-    "@rushstack/terminal" "0.2.24"
+    "@rushstack/stream-collator" "4.0.127"
+    "@rushstack/terminal" "0.2.29"
     "@rushstack/ts-command-line" "4.9.0"
     "@yarnpkg/lockfile" "~1.0.2"
     builtin-modules "~3.1.0"
@@ -2390,7 +2390,7 @@
     jszip "~3.7.1"
     lodash "~4.17.15"
     minimatch "~3.0.2"
-    node-fetch "~2.6.1"
+    node-fetch "2.6.2"
     npm-package-arg "~6.1.0"
     npm-packlist "~2.1.2"
     read-package-tree "~5.1.5"
@@ -2402,13 +2402,13 @@
     "true-case-path" "~2.2.1"
     z-schema "~3.18.3"
 
-"@microsoft/rush@5.53.0":
-  version "5.53.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/rush/-/rush-5.53.0.tgz#a42917805098ad8a4063e4512f9d70524fcd95ae"
-  integrity sha512-oaW0eWJU13DKjGrn2nUSGzgfsDkgeZCL78y5SePOgbhrCy0w943C304N0TZ0aBlmXdDg+2lWCvVIYWQZrmqMvw==
+"@microsoft/rush@5.54.0":
+  version "5.54.0"
+  resolved "https://registry.yarnpkg.com/@microsoft/rush/-/rush-5.54.0.tgz#161ceceadbdffbbef08d8e9ea0a6ac9b84358f2e"
+  integrity sha512-qFh0eTyMrAWgrVHhE1+3DSSa3MrlfaDqiKJodwt/kQ4FP1i1WUASbT+XwGAH88V03FKrcKVs785Q9NKgvcqhXA==
   dependencies:
-    "@microsoft/rush-lib" "5.53.0"
-    "@rushstack/node-core-library" "3.40.0"
+    "@microsoft/rush-lib" "5.54.0"
+    "@rushstack/node-core-library" "3.40.2"
     colors "~1.2.1"
     semver "~7.3.0"
 
@@ -3414,19 +3414,19 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@rushstack/heft-config-file@0.6.4":
-  version "0.6.4"
-  resolved "https://registry.yarnpkg.com/@rushstack/heft-config-file/-/heft-config-file-0.6.4.tgz#9bff58b9971d423bf40ae89f9896479f3f1901d5"
-  integrity sha512-chVrwZ3V2t5be1jO2h1SnyHo6gyipaMdZ+IgXWgLl16YeCHXc1z/BWqxx7CzGS9sMrC8akJFaVkrplVxvsdfmg==
+"@rushstack/heft-config-file@0.6.6":
+  version "0.6.6"
+  resolved "https://registry.yarnpkg.com/@rushstack/heft-config-file/-/heft-config-file-0.6.6.tgz#c12a57fdf7447a828eddabcf1fbd9939129b7b02"
+  integrity sha512-XaY2boTJaIE51fDa6oENsRvmLu0SltynyhC9IzYFb1fzEoHOcIuRMr5HIcobhTDCj41UkbIXEv+QinS6c5GCGw==
   dependencies:
-    "@rushstack/node-core-library" "3.40.0"
+    "@rushstack/node-core-library" "3.40.2"
     "@rushstack/rig-package" "0.3.0"
     jsonpath-plus "~4.0.0"
 
-"@rushstack/node-core-library@3.40.0":
-  version "3.40.0"
-  resolved "https://registry.yarnpkg.com/@rushstack/node-core-library/-/node-core-library-3.40.0.tgz#2551915ea34e34ec2abb7172b9d7f4546144d9d4"
-  integrity sha512-P6uMPI7cqTdawLSPAG5BQrBu1MHlGRPqecp7ruIRgyukIEzkmh0QAnje4jAL/l1r3hw0qe4e+Dz5ZSnukT/Egg==
+"@rushstack/node-core-library@3.40.2":
+  version "3.40.2"
+  resolved "https://registry.yarnpkg.com/@rushstack/node-core-library/-/node-core-library-3.40.2.tgz#71d92180f14bafd212f720b2cfe8892e688159b6"
+  integrity sha512-wzcRucwnhOENTfx6hZ2M+CA1Zmp8Dr572mFFtjxmcQzBWTbNFRB1Mi1wLb7DLza+69OUBoSZcHUqydlwL+gvSA==
   dependencies:
     "@types/node" "10.17.13"
     colors "~1.2.1"
@@ -3438,12 +3438,12 @@
     timsort "~0.3.0"
     z-schema "~3.18.3"
 
-"@rushstack/package-deps-hash@3.0.67":
-  version "3.0.67"
-  resolved "https://registry.yarnpkg.com/@rushstack/package-deps-hash/-/package-deps-hash-3.0.67.tgz#617a7c678a800d3a6415422165963b45569f64c6"
-  integrity sha512-MRw3vTC7xlGHXXTmPK51pEOjjwVL388y4qnBC5azpcpAMTZ9MndRL03BiokN0i1r12lCQGydl1BPbL/sTjZ82w==
+"@rushstack/package-deps-hash@3.0.72":
+  version "3.0.72"
+  resolved "https://registry.yarnpkg.com/@rushstack/package-deps-hash/-/package-deps-hash-3.0.72.tgz#f6201035313a9bdee8e82d6f594c06d3be0cde83"
+  integrity sha512-riN240U69u31jPfrYyukdJ33Cox7jZBLL4xy2ogW6ubD5RH/L5hfllGmRJJcZtSJaoJGvwMpoRYIgB7aspANVg==
   dependencies:
-    "@rushstack/node-core-library" "3.40.0"
+    "@rushstack/node-core-library" "3.40.2"
 
 "@rushstack/rig-package@0.3.0":
   version "0.3.0"
@@ -3453,20 +3453,20 @@
     resolve "~1.17.0"
     strip-json-comments "~3.1.1"
 
-"@rushstack/stream-collator@4.0.122":
-  version "4.0.122"
-  resolved "https://registry.yarnpkg.com/@rushstack/stream-collator/-/stream-collator-4.0.122.tgz#9c86aea12b13bd482ccb15ecd66b298be4f8e823"
-  integrity sha512-JLRjKyOCNAFTzuswVqUFmqFJ/WeqsvUJoLCndUeP3rY2/natPDcwJP4h6BzpEc+voteGeuFdi4X7SWqpAe6cYQ==
+"@rushstack/stream-collator@4.0.127":
+  version "4.0.127"
+  resolved "https://registry.yarnpkg.com/@rushstack/stream-collator/-/stream-collator-4.0.127.tgz#85d6302eeafc229d66437677c7b0fd7d15169880"
+  integrity sha512-t1xXWazOEsUQTGFBESiR7Y+p5vMxNjWw9kJPXkEZsmeeC669TBDV5M2k00j1QRmzGZ2f/BvMC3YUUi2TpqmrjA==
   dependencies:
-    "@rushstack/node-core-library" "3.40.0"
-    "@rushstack/terminal" "0.2.24"
+    "@rushstack/node-core-library" "3.40.2"
+    "@rushstack/terminal" "0.2.29"
 
-"@rushstack/terminal@0.2.24":
-  version "0.2.24"
-  resolved "https://registry.yarnpkg.com/@rushstack/terminal/-/terminal-0.2.24.tgz#395c207473af3e035b56680f58bd004f24c3f66f"
-  integrity sha512-FoFXfzrjHWi59RrWiXYeaW9J4erS4auCkEdcQ4YcAG7M6uyvbTaSQiOXsL41toJ+gb0i0fo2WKtRhy8SNOlBaA==
+"@rushstack/terminal@0.2.29":
+  version "0.2.29"
+  resolved "https://registry.yarnpkg.com/@rushstack/terminal/-/terminal-0.2.29.tgz#161faac6d4dba1078f165bed3094448884bc2c6d"
+  integrity sha512-ffKERe60CqLlBlsCFaCqycXEnQdbsp8MIyoCJOQDQQQAHkz7LK8jzeVKbxAjn602b89EvXv+1hIG2RXkzcxoTA==
   dependencies:
-    "@rushstack/node-core-library" "3.40.0"
+    "@rushstack/node-core-library" "3.40.2"
     "@types/node" "10.17.13"
     wordwrap "~1.0.0"
 
@@ -14802,10 +14802,15 @@ node-emoji@^1.0.3:
   dependencies:
     lodash "^4.17.21"
 
-node-fetch@2.6.1, node-fetch@^2.3.0, node-fetch@^2.6.0, node-fetch@^2.6.1, node-fetch@~2.6.1:
+node-fetch@2.6.1, node-fetch@^2.3.0, node-fetch@^2.6.0, node-fetch@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
+
+node-fetch@2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.2.tgz#986996818b73785e47b1965cc34eb093a1d464d0"
+  integrity sha512-aLoxToI6RfZ+0NOjmWAgn9+LEd30YCkJKFSyWacNZdEKTit/ZMcKjGkTRo8uWEsnIb/hfKecNPEbln02PdWbcA==
 
 node-forge@^0.10.0:
   version "0.10.0"
