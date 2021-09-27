@@ -2716,6 +2716,11 @@
   resolved "https://registry.yarnpkg.com/@netlify/plugins-list/-/plugins-list-3.6.2.tgz#77299fb1b572d8100c5422b5df47fe0f7d8cef4e"
   integrity sha512-AAfgySCWkcBFquRN5KePrAvLWW85FPop1A43SyVux4GIg7GaliMhVg+gaomc+T1c2Cr8YmC4zM2hH3iAow8RjQ==
 
+"@netlify/plugins-list@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@netlify/plugins-list/-/plugins-list-4.0.0.tgz#4bf6644fbddafa885cbe27de05bc6f35ffb3e1e5"
+  integrity sha512-qF1KWhFzA0hQhavIeH1wMao1vtv3cg+h9sdbxhiOVt1H/fBww7miSCJTp8JTXE5hAS9V0/O2GWTpCYUPIK5z8Q==
+
 "@netlify/routing-local-proxy-darwin-arm64@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@netlify/routing-local-proxy-darwin-arm64/-/routing-local-proxy-darwin-arm64-0.33.2.tgz#2b1b5b948a63e477dac49fe757eb36855a3b45da"
@@ -14565,17 +14570,17 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.9.22:
-  version "6.9.22"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.9.22.tgz#38be5250fda6894fae5fd9065bf5bd8f48f827ce"
-  integrity sha512-4FEhkNSieJAJzqnxQ2F0Hroh/I5SpHupnzYnj75hlZ4Xz8P64syzGUYigmFqhVhpGgDdFRlz4OBRjC8kPhHJ9w==
+netlify-cli@6.9.23:
+  version "6.9.23"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.9.23.tgz#0d61e2ce077eea90a83dc45ab97a6db43a2cca8d"
+  integrity sha512-GZHko6vVcaW6ZYHI3PeBGfv0KLrrehfqCPC5u4FrYP3sQirCaP6xJInKJkPhCJD4AS+WE5OTyiwunPdXJkIGRw==
   dependencies:
     "@netlify/build" "^18.13.3"
     "@netlify/config" "^15.6.3"
     "@netlify/framework-info" "^5.9.2"
     "@netlify/local-functions-proxy" "^1.1.1"
     "@netlify/plugin-edge-handlers" "^1.11.22"
-    "@netlify/plugins-list" "^3.6.2"
+    "@netlify/plugins-list" "^4.0.0"
     "@netlify/routing-local-proxy" "^0.33.2"
     "@netlify/zip-it-and-ship-it" "4.23.2"
     "@oclif/command" "^1.6.1"
