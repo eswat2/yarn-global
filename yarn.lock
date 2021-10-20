@@ -2700,6 +2700,11 @@
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.5.1.tgz#c3b121b1e8786ea4a0fe84139cd14ff973ccc238"
   integrity sha512-FBBgWU+09Xi4bxzPBtYiWB8p34NcGRvmUM+rxLDGus68U1r0M2+oFF+CIlfVvLMCJ+qJVTk6WV1R3+g4NrhYmg==
 
+"@netlify/open-api@^2.5.2":
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.5.2.tgz#a9e105cc8417e03d88cb71a6e08544d05b9c5fb8"
+  integrity sha512-OoqnEsmBRLUtt99aI566iRQLy/9I4oHhVYPu10bpOPKU9iz4zUYh0AZGcoqkG+ThgNfL4FL93HTdS20krLyj/w==
+
 "@netlify/plugin-edge-handlers@^1.11.22":
   version "1.11.22"
   resolved "https://registry.yarnpkg.com/@netlify/plugin-edge-handlers/-/plugin-edge-handlers-1.11.22.tgz#b3f531d8609a3139e8ba60100b13187d51fe0fc6"
@@ -14827,12 +14832,12 @@ netlify-redirector@^0.2.1:
   resolved "https://registry.yarnpkg.com/netlify-redirector/-/netlify-redirector-0.2.1.tgz#efdb761ea2c52edb3ecb5f237db0e10861f2ff0e"
   integrity sha512-17vDR9p1Loanp+vd57y+b6WlKb5X+qb0LZ44oTYsKJbdonz4Md+Ybv1lzH1w1aKm5YWWXHR8LMpWyY9bjlAJKw==
 
-netlify@8.0.2, netlify@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-8.0.2.tgz#83f0a718e77019aed9616decd8b96fe11817d77e"
-  integrity sha512-qOOcIgLjZL000JiUWBAJeSlqwvueNe/KjTHr0Oi7U/7gJIeCIUM0ktENJht2wF18jikO2zm1POZudYCzdQOnJw==
+netlify@8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-8.0.3.tgz#05dda56cc079d1a81ba119b3edc45a35d4cf499e"
+  integrity sha512-X20SPnE1N/nRiXa6j7BRrn/TtL4i8sgawFLHOBC5e1HzUUwPyNQAiK7nWFv4igUHUZZbIWFSqTzB/ZoHsOrJEA==
   dependencies:
-    "@netlify/open-api" "^2.5.1"
+    "@netlify/open-api" "^2.5.2"
     lodash.camelcase "^4.3.0"
     micro-api-client "^3.3.0"
     node-fetch "^2.6.1"
@@ -14859,6 +14864,19 @@ netlify@^8.0.1:
   integrity sha512-bAUay/JDmUdmFSfW6BQuUGHuj498ALr/aS4Se3Juhgv1N0q1Whrp1uwGlkIgatrlP0lLL/zkTWc6hxmG1TqQcQ==
   dependencies:
     "@netlify/open-api" "^2.5.0"
+    lodash.camelcase "^4.3.0"
+    micro-api-client "^3.3.0"
+    node-fetch "^2.6.1"
+    omit.js "^2.0.2"
+    p-wait-for "^3.2.0"
+    qs "^6.9.6"
+
+netlify@^8.0.2:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-8.0.2.tgz#83f0a718e77019aed9616decd8b96fe11817d77e"
+  integrity sha512-qOOcIgLjZL000JiUWBAJeSlqwvueNe/KjTHr0Oi7U/7gJIeCIUM0ktENJht2wF18jikO2zm1POZudYCzdQOnJw==
+  dependencies:
+    "@netlify/open-api" "^2.5.1"
     lodash.camelcase "^4.3.0"
     micro-api-client "^3.3.0"
     node-fetch "^2.6.1"
