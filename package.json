@@ -39,7 +39,7 @@
     "updtr": "4.0.0",
     "uuid": "8.3.2",
     "vercel": "23.1.2",
-    "verdaccio": "5.1.6",
+    "verdaccio": "5.2.0",
     "wait-on": "6.0.0",
     "yarn-check": "0.0.3"
   }
