@@ -2457,10 +2457,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/build@^18.21.4":
-  version "18.21.5"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.21.5.tgz#c07518ad1b6e0abeb3c1176e30c19fdfc28d63fd"
-  integrity sha512-tGO1qvGeY0qG8hGbbDh5t4OvUkFrXvzoF6Smv+YXJlHUvQ5Pc7ZcxYusac7HGAt/KE5AaM0BhiF1nFaUFuKhhQ==
+"@netlify/build@^18.21.6":
+  version "18.21.6"
+  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-18.21.6.tgz#4efb36cf77866d9eb094146ab48e3191fc67674d"
+  integrity sha512-CcERVG/Kx+pKfb3wc0p75/zD7rQ9qNGbQyWGwwsc4SLaG5aikZ+wGnGaGzDXudfQ1krYsXgGvO3fHAJNcJjJNA==
   dependencies:
     "@bugsnag/js" "^7.0.0"
     "@netlify/cache-utils" "^2.0.0"
@@ -5154,6 +5154,11 @@ async@3.2.1, async@^3.1.0, async@^3.2.0:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/async/-/async-3.2.1.tgz#d3274ec66d107a47476a4c49136aacdb00665fc8"
   integrity sha512-XdD5lRO/87udXCMC9meWdYiR+Nq6ZjUfXidViUZGu2F1MO4T3XwZ1et0hb2++BgLfhyJwy44BGB/yx80ABx8hg==
+
+async@3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.2.tgz#2eb7671034bb2194d45d30e31e24ec7e7f9670cd"
+  integrity sha512-H0E+qZaDEfx/FY4t7iLRv1W2fFI6+pyCeTw1uN20AQPiwqwM6ojPxHxdLv4z8hi2DtnW9BOckSspLucW7pIE5g==
 
 async@~1.5:
   version "1.5.2"
@@ -14385,7 +14390,12 @@ mime@1.6.0, mime@^1.2.11:
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
   integrity sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
 
-mime@2.5.2, mime@^2.3.1:
+mime@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-2.6.0.tgz#a2a682a95cd4d0cb1d6257e28f83da7e35800367"
+  integrity sha512-USPkMeET31rOMiarsBNIHZKLGgvKc/LrjofAnBlOttf5ajRvqiRA8QsenbcooctK6d6Ts6aqZXBA+XbkKthiQg==
+
+mime@^2.3.1:
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/mime/-/mime-2.5.2.tgz#6e3dc6cc2b9510643830e5f19d5cb753da5eeabe"
   integrity sha512-tqkh47FzKeCPD2PUiPB6pkbMzsCasjxAfC62/Wap5qrUWcb+sFasXUC5I3gYM5iBM8v/Qpn4UK0x+j0iHyFPDg==
@@ -14806,12 +14816,12 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@6.14.16:
-  version "6.14.16"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.14.16.tgz#83587ed991f867cdba2754d70f4a640e0de9c134"
-  integrity sha512-wjW2wQBp5wmgFaYstYZPAkHB7mNUX3hNDyXDb324Lkhb5AfRfm17WfVPX/cffJToz/h7cqFfKFt8tJPER2+jNg==
+netlify-cli@6.14.17:
+  version "6.14.17"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-6.14.17.tgz#800f5b535c1de7554f8a112fe63d84dfba75e2d0"
+  integrity sha512-m+qGcvDCfnfmlH4sIOi99uXql+PYGBcv7xsATQB/qe98sJRUwnlt59DTmlRudU4uAkcF7YxPn4pGeYSp132V4A==
   dependencies:
-    "@netlify/build" "^18.21.4"
+    "@netlify/build" "^18.21.6"
     "@netlify/config" "^15.8.2"
     "@netlify/framework-info" "^5.11.0"
     "@netlify/local-functions-proxy" "^1.1.1"
@@ -21399,10 +21409,10 @@ validate-npm-package-name@3.0.0, validate-npm-package-name@^3.0.0:
   dependencies:
     builtins "^1.0.3"
 
-validator@13.6.0:
-  version "13.6.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-13.6.0.tgz#1e71899c14cdc7b2068463cb24c1cc16f6ec7059"
-  integrity sha512-gVgKbdbHgtxpRyR8K0O6oFZPhhB5tT1jeEHZR0Znr9Svg03U0+r9DXWMrnRAB+HtCStDQKlaIZm42tVsVjqtjg==
+validator@13.7.0:
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.7.0.tgz#4f9658ba13ba8f3d82ee881d3516489ea85c0857"
+  integrity sha512-nYXQLCBkpJ8X6ltALua9dRrZDHVYxjJ1wgskNt1lH9fzGjs3tgojGSCBjmEPwkWS1y29+DrizMTW19Pr9uB2nw==
 
 validator@^8.0.0:
   version "8.2.0"
@@ -21452,10 +21462,10 @@ verdaccio-htpasswd@10.0.0:
     http-errors "1.8.0"
     unix-crypt-td-js "1.1.4"
 
-verdaccio@5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-5.2.0.tgz#e29f2c7bfdb7cb61110e726921810ea1f792837b"
-  integrity sha512-9aR6UnFdnPZZfg5J6yd6tbMZny6cITOUUT84/wJfhmFDjTcXlg6g92VQOpwZnB3cqYeV6w7CsSs/FJHC8ryNuw==
+verdaccio@5.2.2:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/verdaccio/-/verdaccio-5.2.2.tgz#e60c900e2193fa4b934d82934d15e18a6fe06ff9"
+  integrity sha512-7TbQ2QWDIQBabYMUAJQtJl9qbxpBKl8tndNYtMl9gVUgWN67gr+kPeMoqY0m4whg/+OdWrMyBj3NQy5VoTQiIw==
   dependencies:
     "@verdaccio/commons-api" "10.0.1"
     "@verdaccio/local-storage" "10.0.7"
@@ -21463,7 +21473,7 @@ verdaccio@5.2.0:
     "@verdaccio/streams" "10.0.0"
     "@verdaccio/ui-theme" "3.2.1"
     JSONStream "1.3.5"
-    async "3.2.1"
+    async "3.2.2"
     body-parser "1.19.0"
     clipanion "3.1.0"
     compression "1.7.4"
@@ -21485,7 +21495,7 @@ verdaccio@5.2.0:
     lunr-mutable-indexes "2.3.2"
     marked "2.1.3"
     memoizee "0.4.15"
-    mime "2.5.2"
+    mime "2.6.0"
     minimatch "3.0.4"
     mkdirp "1.0.4"
     mv "2.1.1"
@@ -21495,7 +21505,7 @@ verdaccio@5.2.0:
     pretty-ms "^7.0.1"
     request "2.88.0"
     semver "7.3.5"
-    validator "13.6.0"
+    validator "13.7.0"
     verdaccio-audit "10.0.2"
     verdaccio-htpasswd "10.0.0"
 
