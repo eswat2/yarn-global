@@ -34,7 +34,6 @@
     "uuid": "8.3.2",
     "vercel": "23.1.2",
     "verdaccio": "5.2.2",
-    "wait-on": "6.0.0",
-    "yarn-check": "0.0.3"
+    "wait-on": "6.0.0"
   }
 }
