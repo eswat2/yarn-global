@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.5.7",
-    "@microsoft/rush": "5.56.0",
     "@storybook/storybook-deployer": "2.8.10",
     "@vitejs/create-app": "2.5.2",
     "cloc": "2.8.0",
