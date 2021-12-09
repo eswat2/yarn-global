@@ -1468,10 +1468,10 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-create-astro@0.6.9:
-  version "0.6.9"
-  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.6.9.tgz#501e8f9a173a386c381c67fe85a1846dd3e45458"
-  integrity sha512-46HlWw0SkLHCWyT/hsZQVTykWseKU6nQXhNrMuy9g/I24fjCW6s9YPTEV8qnfRCwAawHIUaO1TcSHh5WAzQ6xg==
+create-astro@0.6.10:
+  version "0.6.10"
+  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.6.10.tgz#76524c47bd65165df27561be8f1275ae345448d5"
+  integrity sha512-XmxwU3KvaTZTiFLkptFi0yRuIJteKZ7L2HTZYTtcdLmWlA4vmKT0yjm/GHNvFUw2k4UnFdeujYx+VDSTOA0VvA==
   dependencies:
     "@types/degit" "^2.8.2"
     "@types/node-fetch" "^3.0.0"
@@ -5154,10 +5154,10 @@ robots-parser@^2.0.1:
   resolved "https://registry.yarnpkg.com/robots-parser/-/robots-parser-2.3.0.tgz#d79e86e26e13fa0a806adbc37f4cf1b96aebc8c3"
   integrity sha512-RvuCITckrHM9k8DxCCU9rqWpuuKRfVX9iHG751dC3/EdERxp9gJATxYYdYOT3L0T+TAT4+27lENisk/VbHm47A==
 
-rollup@2.60.2:
-  version "2.60.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.2.tgz#3f45ace36a9b10b4297181831ea0719922513463"
-  integrity sha512-1Bgjpq61sPjgoZzuiDSGvbI1tD91giZABgjCQBKM5aYLnzjq52GoDuWVwT/cm/MCxCMPU8gqQvkj8doQ5C8Oqw==
+rollup@2.61.0:
+  version "2.61.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.61.0.tgz#ccd927bcd6cc0c78a4689c918627a717977208f4"
+  integrity sha512-teQ+T1mUYbyvGyUavCodiyA9hD4DxwYZJwr/qehZGhs1Z49vsmzelMVYMxGU4ZhGRKxYPupHuz5yzm/wj7VpWA==
   optionalDependencies:
     fsevents "~2.3.2"
 
