@@ -1487,10 +1487,10 @@ create-stencil@1.10.1:
   resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-1.10.1.tgz#4d2e2da3ec4c634c70a71f12e2b702b885ef46a4"
   integrity sha512-+XLDu0R5+qKd1qQaNA9OMnnDPxm/tdy7Afl5VPCpKQgqZb19vOSGgl9zakXWNIlFz7EPLE/ngKAU/LRwiWp/rw==
 
-create-vite@2.7.1:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.7.1.tgz#4bf4189a3a156f4e6a9342e93f73d81a2047a2b3"
-  integrity sha512-oAMu8EO9yIiOv77JaxgrIVd4PaljTv2Vi+4gsyS5z2sz8tmmYL9P6ZL4ppwAw9jXj2WrZCXgJg7Nn9aphQ2t8A==
+create-vite@2.7.2:
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.7.2.tgz#f77a759cae3f125f676b8e3ad52fe4bdccab5101"
+  integrity sha512-4Eint1oL6GcZWGkgLbSmbzY1UNTkqQyjD9T4aM1YQsltKQ5ZNWDy+rvgYRPV9dR0XD6eLPs8TUUoge1xQCd4BA==
   dependencies:
     kolorist "^1.5.0"
     minimist "^1.2.5"
