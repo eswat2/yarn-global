@@ -9,7 +9,7 @@
     "create-stencil": "1.10.1",
     "create-vite": "2.7.2",
     "cspell": "5.13.3",
-    "eslint": "8.4.1",
+    "eslint": "8.5.0",
     "foreman": "3.0.1",
     "lighthouse": "9.2.0",
     "markdownlint-cli": "0.30.0",
