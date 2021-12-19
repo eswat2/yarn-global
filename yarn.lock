@@ -1401,10 +1401,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-concurrently@6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.5.0.tgz#57082bfe797f93cf4a437ce54742c56823a8ea05"
-  integrity sha512-BjC0KYxXtO6EiWa46gfWYzcLULPBCb+5+VZFtzCemR/co0QSHU4mysEvmT6cnedPpQ9dtJzb+2G694o3V7TgLg==
+concurrently@6.5.1:
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.5.1.tgz#4518c67f7ac680cf5c34d5adf399a2a2047edc8c"
+  integrity sha512-FlSwNpGjWQfRwPLXvJ/OgysbBxPkWpiVjy1042b0U7on7S7qwwMIILRj7WTN1mTgqa582bG6NFuScOoh6Zgdag==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.16.1"
@@ -4671,10 +4671,10 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-pnpm@6.24.1:
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.24.1.tgz#9abac8113b4e012b7be8f18c65ca2f2489a801eb"
-  integrity sha512-gvXXhgSfdq27ASRSd9121GtRXqnZ5RMeaj/HDlsRjV5XTBWCMJZvLIdz6SiSeDQas/+6w9PNz73vFR0l9j+XYA==
+pnpm@6.24.2:
+  version "6.24.2"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.24.2.tgz#9d6f438e113a99b0cc1f2ff9d47da566d65b4cdc"
+  integrity sha512-YUHmlLfWkA0+6upTzRCz/VWADW+dMsqTCRGXJqHrsCPeaw84MGZ6mec18nGdJufNB7hzeTuugAsi0e/ziPKUWA==
 
 postman-collection-transformer@4.1.3:
   version "4.1.3"
