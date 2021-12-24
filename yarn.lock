@@ -1468,10 +1468,10 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-create-astro@0.6.10:
-  version "0.6.10"
-  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.6.10.tgz#76524c47bd65165df27561be8f1275ae345448d5"
-  integrity sha512-XmxwU3KvaTZTiFLkptFi0yRuIJteKZ7L2HTZYTtcdLmWlA4vmKT0yjm/GHNvFUw2k4UnFdeujYx+VDSTOA0VvA==
+create-astro@0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.7.0.tgz#e96df08c1aa358000381dc3bb3d2d1a8214f4609"
+  integrity sha512-JmN48C3lt5BuK0gnQpmi7XgtVt/8f2epkNeLRmaMAI93y1Dvsdpp6pcBNtMSSL5m75U2r0O3tNwDS+S975gk+g==
   dependencies:
     "@types/degit" "^2.8.2"
     "@types/node-fetch" "^3.0.0"
@@ -1480,7 +1480,7 @@ create-astro@0.6.10:
     kleur "^4.1.1"
     node-fetch "^3.0.0"
     prompts "^2.4.1"
-    yargs-parser "^20.2.7"
+    yargs-parser "^21.0.0"
 
 create-stencil@1.10.1:
   version "1.10.1"
@@ -6281,10 +6281,15 @@ yargs-parser@^18.1.2:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
 
-yargs-parser@^20.2.2, yargs-parser@^20.2.3, yargs-parser@^20.2.4, yargs-parser@^20.2.7:
+yargs-parser@^20.2.2, yargs-parser@^20.2.3, yargs-parser@^20.2.4:
   version "20.2.9"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-20.2.9.tgz#2eb7dc3b0289718fc295f362753845c41a0c94ee"
   integrity sha512-y11nGElTIV+CT3Zv9t7VKl+Q3hTQoT9a1Qzezhhl6Rp21gJ/IVTW7Z3y9EWXhuUBC2Shnf+DX0antecpAwSP8w==
+
+yargs-parser@^21.0.0:
+  version "21.0.0"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-21.0.0.tgz#a485d3966be4317426dd56bdb6a30131b281dc55"
+  integrity sha512-z9kApYUOCwoeZ78rfRYYWdiU/iNL6mwwYlkkZfJoyMR1xps+NEBX5X7XmRpxkZHhXJ6+Ey00IwKxBBSW9FIjyA==
 
 yargs@^15.0.0, yargs@^15.1.0:
   version "15.4.1"
