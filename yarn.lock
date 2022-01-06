@@ -1487,10 +1487,10 @@ create-astro@0.7.0:
     prompts "^2.4.1"
     yargs-parser "^21.0.0"
 
-create-stencil@1.10.1:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-1.10.1.tgz#4d2e2da3ec4c634c70a71f12e2b702b885ef46a4"
-  integrity sha512-+XLDu0R5+qKd1qQaNA9OMnnDPxm/tdy7Afl5VPCpKQgqZb19vOSGgl9zakXWNIlFz7EPLE/ngKAU/LRwiWp/rw==
+create-stencil@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-2.0.0.tgz#954b49f5d7210496db1d02115aaace1fa948a778"
+  integrity sha512-axv2N9VN539pUA0l+P6gwExWB+XMWQyxzLmLwifvGwxQWstKj8pdBXzAMObSoKDS3B/NoehhQJ1Ix6X2nvE7YA==
 
 create-vite@2.7.2:
   version "2.7.2"
