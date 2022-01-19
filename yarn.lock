@@ -4649,10 +4649,10 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-pnpm@6.27.0:
-  version "6.27.0"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.27.0.tgz#942ad7e6504d37126bc9be22b12a7280bde35448"
-  integrity sha512-auoErIp8BCwfne9P65YQDsJVPI8S/9WgN8hsXwgE/0qukdS7Yk8+dTCyR9H+t1xywOrt1k1fgojMHZEMRLLdTw==
+pnpm@6.27.1:
+  version "6.27.1"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.27.1.tgz#16e86ccf013c04f3230a2356671b66cd9e633c11"
+  integrity sha512-aW+oDXiMk9mzInmIaRv9v9+FSNkXBs60rVUO6QBpalPja0eO3J5ePSyBxAbLsuhGGbEOpwRq0aNywFq8yIi9HQ==
 
 postman-collection-transformer@4.1.4:
   version "4.1.4"
