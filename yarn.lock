@@ -1617,7 +1617,16 @@ create-stencil@2.0.0:
   resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-2.0.0.tgz#954b49f5d7210496db1d02115aaace1fa948a778"
   integrity sha512-axv2N9VN539pUA0l+P6gwExWB+XMWQyxzLmLwifvGwxQWstKj8pdBXzAMObSoKDS3B/NoehhQJ1Ix6X2nvE7YA==
 
-create-vite@2.8.0, create-vite@latest:
+create-vite@2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.0.tgz#2f96185adec337a9ece6d407cc85bebf03fc88c9"
+  integrity sha512-o5ERuufhMM01Jh8ggw5844o+E63Ks1gKADAMAsRo5AgJnKl7170Mucce8WT+uxjLjwMOGbjJla+4z3RAn//xtQ==
+  dependencies:
+    kolorist "^1.5.1"
+    minimist "^1.2.6"
+    prompts "^2.4.2"
+
+create-vite@latest:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.8.0.tgz#27b7e89895f59440690b9d793dc18c98502ed92c"
   integrity sha512-ckzs8s75NimP9su5WqA2+oZLGFYNxbahjdPYxYeFulQ+m9reO+pAgHe6XCfLl5sAvJ2g/i27Y43Fuh1ewUvXwQ==
@@ -3960,7 +3969,7 @@ minimist-options@4.1.0:
     is-plain-obj "^1.1.0"
     kind-of "^6.0.3"
 
-minimist@^1.2.0, minimist@^1.2.5:
+minimist@^1.2.0, minimist@^1.2.5, minimist@^1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
   integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
