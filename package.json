@@ -7,7 +7,7 @@
     "concurrently": "7.1.0",
     "create-astro": "0.8.0",
     "create-stencil": "2.0.0",
-    "create-vite": "2.9.0",
+    "create-vite": "2.9.1",
     "cspell": "5.19.7",
     "eslint": "8.13.0",
     "foreman": "3.0.1",
