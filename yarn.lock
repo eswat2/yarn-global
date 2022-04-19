@@ -1623,10 +1623,10 @@ create-stencil@2.0.0:
   resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-2.0.0.tgz#954b49f5d7210496db1d02115aaace1fa948a778"
   integrity sha512-axv2N9VN539pUA0l+P6gwExWB+XMWQyxzLmLwifvGwxQWstKj8pdBXzAMObSoKDS3B/NoehhQJ1Ix6X2nvE7YA==
 
-create-vite@2.9.1:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.1.tgz#83edf0e6cb0fca371459f8b66965a57217667d8a"
-  integrity sha512-urOJX33NC2k2ZYck2kFGuRlup0srvhuWtC3G7B/hEYPcowJpV+FgEN2KeI6OlaJJ//Wrcr6EXldyt1m0ugFkTA==
+create-vite@2.9.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.2.tgz#b7f6e344b5271de2a2785cb1fb7020efacf12250"
+  integrity sha512-50UqOLnArYcU2W8Avgk8ibUPDAs8vm255GjqPHj3+7/gs70FknajKqf1t9kWkeXpiVtlTcMMyppPG04tPkNcbA==
   dependencies:
     kolorist "^1.5.1"
     minimist "^1.2.6"
@@ -4867,10 +4867,10 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-pnpm@6.32.8:
-  version "6.32.8"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.32.8.tgz#74bb9de6d8922db56f75e52ed92100b20ffef5bc"
-  integrity sha512-pZroJtqqZDevFpJI/PsOMLLfGeA6en6cvyI/HC7boGmT7TJy9eFInNYwMGW2enKv2Al/aamV2Zomv05TtBe7qw==
+pnpm@6.32.9:
+  version "6.32.9"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.32.9.tgz#67bca1f36b4b499b0ac8b95e992660c503a8438c"
+  integrity sha512-fU/urJXv2Q8l4n8FW4Qx54KGDTVMpa3n7azqa7i65XZtG5Mcpa35D+HTmAL/7G3u/3R9WGPG4CdLU7631Ti6aA==
 
 postman-collection-transformer@4.1.6:
   version "4.1.6"
