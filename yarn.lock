@@ -1643,7 +1643,16 @@ create-stencil@2.0.0:
   resolved "https://registry.yarnpkg.com/create-stencil/-/create-stencil-2.0.0.tgz#954b49f5d7210496db1d02115aaace1fa948a778"
   integrity sha512-axv2N9VN539pUA0l+P6gwExWB+XMWQyxzLmLwifvGwxQWstKj8pdBXzAMObSoKDS3B/NoehhQJ1Ix6X2nvE7YA==
 
-create-vite@2.9.3, create-vite@latest:
+create-vite@2.9.4:
+  version "2.9.4"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.4.tgz#0936d38b704b8a06c28471a58c29c31704dbfccd"
+  integrity sha512-26ZjGlGH0ZDyt9rxJQice5YnD3wgXr3DyEt0bSznd2eVSzdgi/UgGSHQHU4U4SMKwAn0Vu9XmhA5MTboGuum5g==
+  dependencies:
+    kolorist "^1.5.1"
+    minimist "^1.2.6"
+    prompts "^2.4.2"
+
+create-vite@latest:
   version "2.9.3"
   resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.3.tgz#6551daf2c1f94577654a1aa3ff5286cdea7a7bcf"
   integrity sha512-3cy/nR6oyr+WrS/44xbqw7lPzECHNpsRsnKOJ6bcDTWBFsS7okeep1bpp8i9UakDfd/VHtl8R5WMKbTUNwBBjg==
