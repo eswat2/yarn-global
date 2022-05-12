@@ -2,7 +2,6 @@
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.5.7",
     "@storybook/storybook-deployer": "2.8.11",
-    "@vitejs/create-app": "2.5.2",
     "cloc": "2.9.0",
     "concurrently": "7.1.0",
     "create-astro": "0.12.0",
