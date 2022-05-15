@@ -3,7 +3,7 @@
     "@custom-elements-manifest/analyzer": "0.5.7",
     "@storybook/storybook-deployer": "2.8.11",
     "cloc": "2.9.0",
-    "concurrently": "7.1.0",
+    "concurrently": "7.2.0",
     "create-astro": "0.12.1",
     "create-stencil": "2.0.0",
     "create-vite": "2.9.4",
