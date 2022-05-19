@@ -4986,10 +4986,10 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-pnpm@7.1.1:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.1.1.tgz#d491ba470f8e53fb0b366c8f4f0050c5be3fa46b"
-  integrity sha512-RdWWK/qD3QUf8LtBJ5MgD3CHpFcHuO9yNz+/0RR8GDdu0tI1TnBSmOTxkUGWxa7AakWZKcOtDAmLgi++aKbLng==
+pnpm@7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.1.2.tgz#0bdfb6796b7fb556ba044a5dcb10c2cecac11bb0"
+  integrity sha512-nZieltHsIEvr5vGcDM4JchBixUk1Esq+XewDP9RCiPAPxRv5LzDhGujgsrtoETyXBsQ9mclXSPppNr80ya4Rnw==
 
 postman-collection-transformer@4.1.6:
   version "4.1.6"
@@ -5493,10 +5493,10 @@ robots-parser@^3.0.0:
   resolved "https://registry.yarnpkg.com/robots-parser/-/robots-parser-3.0.0.tgz#66af89306302ecd004455f2f24298310d0966631"
   integrity sha512-6xkze3WRdneibICBAzMKcXyTKQw5shA3GbwoEJy7RSvxpZNGF0GMuYKE1T0VMP4fwx/fQs0n0mtriOqRtk5L1w==
 
-rollup@2.73.0:
-  version "2.73.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.73.0.tgz#128fef4b333fd92d02d6929afbb6ee38d7feb32d"
-  integrity sha512-h/UngC3S4Zt28mB3g0+2YCMegT5yoftnQplwzPqGZcKvlld5e+kT/QRmJiL+qxGyZKOYpgirWGdLyEO1b0dpLQ==
+rollup@2.74.0:
+  version "2.74.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.74.0.tgz#4f460e7979b8ed1f3aa0489059480a504de28b4a"
+  integrity sha512-RRwXTX5+ObPJhcMV6zP3RdHvy90/lBOUfbzL7IKkFjMJGAqeBGZiv9nZWm/DoTESaTE3GBkkzbU9QVN2AuCkjw==
   optionalDependencies:
     fsevents "~2.3.2"
 
