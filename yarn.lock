@@ -1651,10 +1651,10 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-create-astro@0.12.1:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.12.1.tgz#daa3e62f7668ab0c1e0cf2c8fab2641b4073b36a"
-  integrity sha512-Zf4saW0bKmvNKVRbB/9dJwfz3BMqHcnEhEk0VbhEOVCzcIc9BKF43ITFa2LY8uKRDWzOSbagQtGehA3zK8pRLw==
+create-astro@0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.12.2.tgz#3c32cee24d8de27f967267fa00c1745a9e3d4229"
+  integrity sha512-z3Dj5LciR5YganDpCJT4z8bNkKONzXsY6Z750vQCxRGkf4bYSkdVSbJYm3qRXPG7PE7bjC/x5C8u5IR52mvAsQ==
   dependencies:
     "@types/degit" "^2.8.3"
     "@types/prompts" "^2.0.14"
