@@ -1583,10 +1583,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-concurrently@7.2.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.2.0.tgz#4d9b4d1e527b8a8cb101bc2aee317e09496fad43"
-  integrity sha512-4KIVY5HopDRhN3ndAgfFOLsMk1PZUPgghlgTMZ5Pb5aTrqYg86RcZaIZC2Cz+qpZ9DsX36WHGjvWnXPqdnblhw==
+concurrently@7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.2.1.tgz#88b144060443403060aad46f837dd17451f7e55e"
+  integrity sha512-7cab/QyqipqghrVr9qZmoWbidu0nHsmxrpNqQ7r/67vfl1DWJElexehQnTH1p+87tDkihaAjM79xTZyBQh7HLw==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.16.1"
@@ -2411,11 +2411,6 @@ fd-slicer@~1.1.0:
   dependencies:
     pend "~1.2.0"
 
-figgy-pudding@^3.5.1:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
-  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
-
 figures@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-1.7.0.tgz#cbe1e3affcf1cd44b80cadfed28dc793a9701d2e"
@@ -2481,13 +2476,6 @@ find-up@5.0.0, find-up@^5.0.0:
   dependencies:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
-
-find-up@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/find-up/-/find-up-3.0.0.tgz#49169f1d7993430646da61ecc5ae355c21c97b73"
-  integrity sha512-1yD6RmLI1XBfxugvORwlck6f75tYL+iR0jqwsOrOxMZyGYqUuDhJ0l4AXdO1iX/FTs9cBAMEk1gWSEx1kSbylg==
-  dependencies:
-    locate-path "^3.0.0"
 
 find-up@^4.0.0, find-up@^4.1.0:
   version "4.1.0"
@@ -3110,7 +3098,7 @@ ini@2.0.0, ini@~2.0.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-2.0.0.tgz#e5fd556ecdd5726be978fa1001862eacb0a94bc5"
   integrity sha512-7PnF4oN3CvZF23ADhA5wRaYEQpJ8qygSkbtTXWBeXWXmEVRXK+1ITciHWwHhsjv1TmW0MgacIv6hEi5pX5NQdA==
 
-ini@^1.3.4, ini@^1.3.5, ini@~1.3.0:
+ini@^1.3.4, ini@~1.3.0:
   version "1.3.8"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
@@ -3582,15 +3570,6 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
-libnpmconfig@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/libnpmconfig/-/libnpmconfig-1.2.1.tgz#c0c2f793a74e67d4825e5039e7a02a0044dfcbc0"
-  integrity sha512-9esX8rTQAHqarx6qeZqmGQKBNZR5OIbl/Ayr0qQDy3oXja2iFVQQI81R6GZ2a02bSNZ9p3YOGX1O6HHCb1X7kA==
-  dependencies:
-    figgy-pudding "^3.5.1"
-    find-up "^3.0.0"
-    ini "^1.3.5"
-
 lighthouse-logger@^1.0.0, lighthouse-logger@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/lighthouse-logger/-/lighthouse-logger-1.3.0.tgz#ba6303e739307c4eee18f08249524e7dafd510db"
@@ -3712,14 +3691,6 @@ local-access@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/local-access/-/local-access-1.1.0.tgz#e007c76ba2ca83d5877ba1a125fc8dfe23ba4798"
   integrity sha512-XfegD5pyTAfb+GY6chk283Ox5z8WexG56OvM06RWLpAc/UHozO8X6xAxEkIitZOtsSMM1Yr3DkHgW5W+onLhCw==
-
-locate-path@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
-  integrity sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A==
-  dependencies:
-    p-locate "^3.0.0"
-    path-exists "^3.0.0"
 
 locate-path@^5.0.0:
   version "5.0.0"
@@ -4410,10 +4381,10 @@ npm-bundled@^1.1.1, npm-bundled@^1.1.2:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@13.0.1:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-13.0.1.tgz#33a68188edbf10bda435b6325ef1e67462d3d069"
-  integrity sha512-DU0/pDWrc4kTgc9V5MtM7RPoUrMBfDzSxcCBt+hJjSyxQ47ULrjWhVwpNpUmHCAUfHYdzwYKGW/Z65/vKwWNag==
+npm-check-updates@13.0.3:
+  version "13.0.3"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-13.0.3.tgz#b49559afdcf0af31f126a0b9a6ef4a3bc638e72c"
+  integrity sha512-a8CVklJjXZhmN5Kup8rKiejArobCbOaMnubhvM/LkYVumO17dBuWuaHUuiSrYglQUb88lGSdbNNfHDNN7b+3pQ==
   dependencies:
     chalk "^4.1.2"
     cint "^8.2.1"
@@ -4427,7 +4398,6 @@ npm-check-updates@13.0.1:
     hosted-git-info "^5.0.0"
     json-parse-helpfulerror "^1.0.3"
     jsonlines "^0.1.1"
-    libnpmconfig "^1.2.1"
     lodash "^4.17.21"
     minimatch "^5.0.1"
     p-map "^4.0.0"
@@ -4703,7 +4673,7 @@ p-finally@^1.0.0:
   resolved "https://registry.yarnpkg.com/p-finally/-/p-finally-1.0.0.tgz#3fbcfb15b899a44123b34b6dcc18b724336a2cae"
   integrity sha1-P7z7FbiZpEEjs0ttzBi3JDNqLK4=
 
-p-limit@^2.0.0, p-limit@^2.2.0, p-limit@^2.2.2:
+p-limit@^2.2.0, p-limit@^2.2.2:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.3.0.tgz#3dd33c647a214fdfffd835933eb086da0dc21db1"
   integrity sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w==
@@ -4716,13 +4686,6 @@ p-limit@^3.0.2:
   integrity sha512-TYOanM3wGwNGsZN2cVTYPArw454xnXj5qmWF1bEoAc4+cU/ol7GVh7odevjp1FNHduHc3KZMcFduxU5Xc6uJRQ==
   dependencies:
     yocto-queue "^0.1.0"
-
-p-locate@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-3.0.0.tgz#322d69a05c0264b25997d9f40cd8a891ab0064a4"
-  integrity sha512-x+12w/To+4GFfgJhBEpiDcLozRJGegY+Ei7/z0tSLkMmxGZNybVMSfWj9aJn8Z5Fc7dBUNJOOVgPv2H7IwulSQ==
-  dependencies:
-    p-limit "^2.0.0"
 
 p-locate@^4.1.0:
   version "4.1.0"
@@ -4897,11 +4860,6 @@ parse-url@^6.0.0:
     parse-path "^4.0.0"
     protocols "^1.4.0"
 
-path-exists@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-3.0.0.tgz#ce0ebeaa5f78cb18925ea7d810d7b59b010fd515"
-  integrity sha1-zg6+ql94yxiSXqfYENe1mwEP1RU=
-
 path-exists@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-4.0.0.tgz#513bdbe2d3b95d7762e8c1137efa195c6c61b5b3"
@@ -4986,10 +4944,10 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-pnpm@7.1.2:
-  version "7.1.2"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.1.2.tgz#0bdfb6796b7fb556ba044a5dcb10c2cecac11bb0"
-  integrity sha512-nZieltHsIEvr5vGcDM4JchBixUk1Esq+XewDP9RCiPAPxRv5LzDhGujgsrtoETyXBsQ9mclXSPppNr80ya4Rnw==
+pnpm@7.1.3:
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.1.3.tgz#8a1a477aacac8feddea9e9e93ed072ffc5dcc1a2"
+  integrity sha512-dQEYAJ7FT7I23mGfRnkT0GGVIoM4IUj4Mu+/gughv0s/zY8HlJUP5X4GeT67rncOSr021z6MNBj2oOoNL/LoAw==
 
 postman-collection-transformer@4.1.6:
   version "4.1.6"
