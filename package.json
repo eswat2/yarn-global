@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.5.7",
+    "@custom-elements-manifest/analyzer": "0.6.1",
     "@storybook/storybook-deployer": "2.8.11",
     "cloc": "2.9.0",
     "concurrently": "7.2.1",
