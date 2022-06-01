@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.6.1",
+    "@custom-elements-manifest/analyzer": "0.6.3",
     "@storybook/storybook-deployer": "2.8.11",
     "cloc": "2.9.0",
     "concurrently": "7.2.1",
     "create-astro": "0.12.2",
     "create-stencil": "3.0.1",
     "create-vite": "2.9.4",
-    "cspell": "6.0.0",
+    "cspell": "6.1.0",
     "eslint": "8.16.0",
     "foreman": "3.0.1",
     "lighthouse": "9.6.1",
@@ -16,16 +16,16 @@
     "nodemon": "2.0.16",
     "np": "7.6.1",
     "npm-check-updates": "13.0.3",
-    "pnpm": "7.1.5",
+    "pnpm": "7.1.7",
     "prettier": "2.6.2",
-    "rollup": "2.74.1",
+    "rollup": "2.75.4",
     "serve": "13.0.2",
     "sirv-cli": "2.0.2",
     "svgo": "2.8.0",
     "typescript": "4.7.2",
     "updtr": "4.0.0",
     "uuid": "8.3.2",
-    "vercel": "24.2.4",
+    "vercel": "24.2.5",
     "wait-on": "6.0.1"
   }
 }
