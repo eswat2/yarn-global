@@ -5,7 +5,7 @@
     "cloc": "2.9.0",
     "concurrently": "7.2.1",
     "create-astro": "0.12.2",
-    "create-stencil": "3.0.1",
+    "create-stencil": "3.0.2",
     "create-vite": "2.9.4",
     "cspell": "6.1.0",
     "eslint": "8.16.0",
