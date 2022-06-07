@@ -18,7 +18,7 @@
     "npm-check-updates": "13.1.1",
     "pnpm": "7.1.9",
     "prettier": "2.6.2",
-    "rollup": "2.75.5",
+    "rollup": "2.75.6",
     "serve": "13.0.2",
     "sirv-cli": "2.0.2",
     "svgo": "2.8.0",
