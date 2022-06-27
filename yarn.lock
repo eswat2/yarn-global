@@ -4108,6 +4108,11 @@ kleur@^3.0.3:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
+kleur@^4.0.1:
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.5.tgz#95106101795f7050c6c650f350c683febddb1780"
+  integrity sha512-o+NO+8WrRiQEE4/7nwRJhN1HWpVmJm511pBHUxPLtp0BUISzlBplORYSmTclCnJvQq2tKu/sgl3xVpkc7ZWuQQ==
+
 kleur@^4.1.4:
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.4.tgz#8c202987d7e577766d039a8cd461934c01cda04d"
@@ -4902,10 +4907,10 @@ node-pre-gyp@^0.13.0:
     semver "^5.3.0"
     tar "^4"
 
-nodemon@2.0.16:
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-2.0.16.tgz#d71b31bfdb226c25de34afea53486c8ef225fdef"
-  integrity sha512-zsrcaOfTWRuUzBn3P44RDliLlp263Z/76FPoHFr3cFFkOz0lTPAcIw8dCzfdVIx/t3AtDYCZRCDkoCojJqaG3w==
+nodemon@2.0.18:
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-2.0.18.tgz#0f5a3aa7b4587f2626e6f01369deba89cb0462a2"
+  integrity sha512-uAvrKipi2zAz8E7nkSz4qW4F4zd5fs2wNGsTx+xXlP8KXqd9ucE0vY9wankOsPboeDyuUGN9vsXGV1pLn80l/A==
   dependencies:
     chokidar "^3.5.2"
     debug "^3.2.7"
@@ -4985,10 +4990,10 @@ normalize-url@^6.0.1, normalize-url@^6.1.0:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-6.1.0.tgz#40d0885b535deffe3f3147bec877d05fe4c5668a"
   integrity sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==
 
-np@7.6.1:
-  version "7.6.1"
-  resolved "https://registry.yarnpkg.com/np/-/np-7.6.1.tgz#b1cd70a0941d03779f4c7e9036ec67b227aee604"
-  integrity sha512-EHr5PtMPzNmkM/trnWQWTKAogJnVP1RzTFfIyvPK2COvLN6Vqut4gFXuWNng15xuqnTgmUPzKYbpQAZsYR+Dkw==
+np@7.6.2:
+  version "7.6.2"
+  resolved "https://registry.yarnpkg.com/np/-/np-7.6.2.tgz#02650c024b232cb8c958846c44f672c2f8951b7c"
+  integrity sha512-gExmKGKixh7ITc4Q+Lv7nfCby0CVKvzri9zN8970oKD8976T4L5dw8QWUtMcXcIjhFF6h5lbvztao/NurDbmxQ==
   dependencies:
     "@samverschueren/stream-to-observable" "^0.3.1"
     any-observable "^0.5.1"
@@ -5037,10 +5042,10 @@ npm-bundled@^1.0.1, npm-bundled@^1.1.1, npm-bundled@^1.1.2:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@14.0.1:
-  version "14.0.1"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-14.0.1.tgz#73b5f5248d58e4fec51827cf1ded0d9083981b12"
-  integrity sha512-CjHKxcJur/OiVc2GKBagUrzDsXL8JJC71rNVv2mC7eNA6w/ebe3POx9x46ay4p3woSxJOa7hYWNn1UwL7jgHug==
+npm-check-updates@14.1.1:
+  version "14.1.1"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-14.1.1.tgz#26ffb56d32699cfaf7396f962440b0d62a58f9fc"
+  integrity sha512-lVGckd/SR9lpCPV3WhY/LbhqQRV6V7jYkN5wSp49P+ER2xCgKGewE1i5kSCBBnNG91tcQo9CfBGhX1KY9t7DCg==
   dependencies:
     chalk "^4.1.2"
     cint "^8.2.1"
@@ -5060,7 +5065,7 @@ npm-check-updates@14.0.1:
     pacote "^13.6.0"
     parse-github-url "^1.0.2"
     progress "^2.0.3"
-    prompts "^2.4.2"
+    prompts-ncu "^2.5.0"
     rc-config-loader "^4.1.0"
     remote-git-tags "^3.0.0"
     rimraf "^3.0.2"
@@ -5811,6 +5816,14 @@ promise-retry@^2.0.1:
     err-code "^2.0.2"
     retry "^0.12.0"
 
+prompts-ncu@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/prompts-ncu/-/prompts-ncu-2.5.0.tgz#eae6bb7f5564aa3937b037df1096d6dd3b828346"
+  integrity sha512-a9WdInrG7zSlmfzDszmF3r8O4grZRI8+ChV0LtagHRT4dH7F+kxkrwFPGxeS83FZgAGBx3AXoLP+c4kGJb1P3w==
+  dependencies:
+    kleur "^4.0.1"
+    sisteransi "^1.0.5"
+
 prompts@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/prompts/-/prompts-2.4.2.tgz#7b57e73b3a48029ad10ebd44f74b01722a4cb069"
@@ -6225,10 +6238,10 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.75.6:
-  version "2.75.6"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.6.tgz#ac4dc8600f95942a0180f61c7c9d6200e374b439"
-  integrity sha512-OEf0TgpC9vU6WGROJIk1JA3LR5vk/yvqlzxqdrE2CzzXnqKXNzbAwlWUXis8RS3ZPe7LAq+YUxsRa0l3r27MLA==
+rollup@2.75.7:
+  version "2.75.7"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.7.tgz#221ff11887ae271e37dcc649ba32ce1590aaa0b9"
+  integrity sha512-VSE1iy0eaAYNCxEXaleThdFXqZJ42qDBatAwrfnPlENEZ8erQ+0LYX4JXOLPceWfZpV1VtZwZ3dFCuOZiSyFtQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
