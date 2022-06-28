@@ -4,7 +4,7 @@
     "@storybook/storybook-deployer": "2.8.11",
     "cloc": "2.9.0",
     "concurrently": "7.2.2",
-    "create-astro": "0.12.3",
+    "create-astro": "0.12.4",
     "create-stencil": "3.0.2",
     "create-vite": "2.9.4",
     "cspell": "6.1.3",
