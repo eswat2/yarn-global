@@ -1631,10 +1631,10 @@ cliui@^7.0.2:
     strip-ansi "^6.0.0"
     wrap-ansi "^7.0.0"
 
-cloc@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/cloc/-/cloc-2.9.0.tgz#70bcac923342acf8724ec3f618e7f6fd900706ba"
-  integrity sha512-Eo97MtQ5nozSd5CFcYgwUg5Ej7GVcdopVd5T+SGwJc3VAmu0vNxV/ZDl06QAQhCUkM2EGKl8nhhP1BZuQXGiZg==
+cloc@2.10.0:
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/cloc/-/cloc-2.10.0.tgz#1dbd3755a9ca8d426e9222b2e8a4feaecf855837"
+  integrity sha512-iHYXbhKNF+Wy6TNxHozD8WkW0qbZ7WKecyFntyFron4BF4SOX6hp7HEuNJ8iVnjimnf3xpLd81kMwoRj2WiCoA==
 
 clone-response@^1.0.2:
   version "1.0.2"
@@ -4807,10 +4807,10 @@ node-oauth1@1.3.0:
   resolved "https://registry.yarnpkg.com/node-oauth1/-/node-oauth1-1.3.0.tgz#736d29f3c5fce2713ce1552c8beccb2a60df7b6f"
   integrity sha512-0yggixNfrA1KcBwvh/Hy2xAS1Wfs9dcg6TdFf2zN7gilcAigMdrtZ4ybrBSXBgLvGDw9V1p2MRnGBMq7XjTWLg==
 
-nodemon@2.0.18:
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-2.0.18.tgz#0f5a3aa7b4587f2626e6f01369deba89cb0462a2"
-  integrity sha512-uAvrKipi2zAz8E7nkSz4qW4F4zd5fs2wNGsTx+xXlP8KXqd9ucE0vY9wankOsPboeDyuUGN9vsXGV1pLn80l/A==
+nodemon@2.0.19:
+  version "2.0.19"
+  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-2.0.19.tgz#cac175f74b9cb8b57e770d47841995eebe4488bd"
+  integrity sha512-4pv1f2bMDj0Eeg/MhGqxrtveeQ5/G/UVe9iO6uTZzjnRluSA4PVWf8CW99LUPwGB3eNIA7zUFoP77YuI7hOc0A==
   dependencies:
     chokidar "^3.5.2"
     debug "^3.2.7"
@@ -4818,10 +4818,10 @@ nodemon@2.0.18:
     minimatch "^3.0.4"
     pstree.remy "^1.1.8"
     semver "^5.7.1"
+    simple-update-notifier "^1.0.7"
     supports-color "^5.5.0"
     touch "^3.1.0"
     undefsafe "^2.0.5"
-    update-notifier "^5.1.0"
 
 nopt@^5.0.0:
   version "5.0.0"
@@ -6224,6 +6224,11 @@ semver@^7.0.0, semver@^7.1.1, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7:
   dependencies:
     lru-cache "^6.0.0"
 
+semver@~7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.0.0.tgz#5f3ca35761e47e05b206c6daff2cf814f0316b8e"
+  integrity sha512-+GB6zVA9LWh6zovYQLALHwv5rb2PHGlJi3lfiqIHxR0uuwCgefcOJc59v9fv1w8GbStwxuuqqAjI9NMAOOgq1A==
+
 serialised-error@1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/serialised-error/-/serialised-error-1.1.3.tgz#8a4c466b29c26ff11016eaf1b5fa2b87ca4cd8b5"
@@ -6318,6 +6323,13 @@ signal-exit@^3.0.0, signal-exit@^3.0.2, signal-exit@^3.0.3, signal-exit@^3.0.7:
   version "3.0.7"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.7.tgz#a9a1767f8af84155114eaabd73f99273c8f59ad9"
   integrity sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==
+
+simple-update-notifier@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/simple-update-notifier/-/simple-update-notifier-1.0.7.tgz#7edf75c5bdd04f88828d632f762b2bc32996a9cc"
+  integrity sha512-BBKgR84BJQJm6WjWFMHgLVuo61FBDSj1z/xSFUIozqO6wO7ii0JxCqlIud7Enr/+LhlbNI0whErq96P2qHNWew==
+  dependencies:
+    semver "~7.0.0"
 
 sirv-cli@2.0.2:
   version "2.0.2"
@@ -6997,7 +7009,7 @@ update-check@1.5.2:
     registry-auth-token "3.3.2"
     registry-url "3.1.0"
 
-update-notifier@5.1.0, update-notifier@^5.0.1, update-notifier@^5.1.0:
+update-notifier@5.1.0, update-notifier@^5.0.1:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/update-notifier/-/update-notifier-5.1.0.tgz#4ab0d7c7f36a231dd7316cf7729313f0214d9ad9"
   integrity sha512-ItnICHbeMh9GqUy31hFPrD1kcuZ3rpxDZbf4KUDavXwS0bW5m7SLbDQpGX3UYr072cbrF5hFUs3r5tUsPwjfHw==
