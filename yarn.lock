@@ -668,11 +668,6 @@
     "@types/node" "*"
     "@types/responselike" "*"
 
-"@types/degit@^2.8.3":
-  version "2.8.3"
-  resolved "https://registry.yarnpkg.com/@types/degit/-/degit-2.8.3.tgz#61c809f42c80ae4fc83cce9a96241198677435e9"
-  integrity sha512-CL7y71j2zaDmtPLD5Xq5S1Gv2dFoHl0/GBZm6s39Mj/ls28L3NzAOqf7H4H0/2TNVMgMjMVf9CAFYSjmXhi3bw==
-
 "@types/http-cache-semantics@*":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@types/http-cache-semantics/-/http-cache-semantics-4.0.1.tgz#0ea7b61496902b95890dc4c3a116b60cb8dae812"
@@ -722,13 +717,6 @@
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
-
-"@types/prompts@^2.0.14":
-  version "2.0.14"
-  resolved "https://registry.yarnpkg.com/@types/prompts/-/prompts-2.0.14.tgz#10cb8899844bb0771cabe57c1becaaaca9a3b521"
-  integrity sha512-HZBd99fKxRWpYCErtm2/yxUZv6/PBI9J7N4TNFffl5JbrYMHBwF25DjQGTW3b3jmXq+9P6/8fCIb2ee57BFfYA==
-  dependencies:
-    "@types/node" "*"
 
 "@types/responselike@*", "@types/responselike@^1.0.0":
   version "1.0.0"
@@ -1514,11 +1502,6 @@ ci-info@^3.2.0:
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.3.2.tgz#6d2967ffa407466481c6c90b6e16b3098f080128"
   integrity sha512-xmDt/QIAdeZ9+nfdPsaBCpMvHNLFiLdjj59qjqn+6iPe6YmHGQ35sBnQ8uslRBXFmXkiZQOJRjvQeoGppoTjjg==
 
-cint@^8.2.1:
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/cint/-/cint-8.2.1.tgz#70386b1b48e2773d0d63166a55aff94ef4456a12"
-  integrity sha512-gyWqJHXgDFPNx7PEyFJotutav+al92TTC3dWlMFyTETlOyKBQMZb7Cetqmj3GlrnSILHwSJRwf4mIGzc7C5lXw==
-
 clean-stack@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-2.2.0.tgz#ee8472dbb129e727b31e8a10a427dee9dfe4008b"
@@ -1885,19 +1868,18 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-create-astro@0.12.4:
-  version "0.12.4"
-  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.12.4.tgz#5a81d7d2db3e4ae239eb3e4991af4bb0c80d9622"
-  integrity sha512-a3pfLmcBHkBjXbveJD5sUo9eq3+XxJc7jv7LWSDfYVxyrVU8aUR/g9J56bpNqcYn2CKnGTkOEGDnojqqWbsAZg==
+create-astro@0.12.5:
+  version "0.12.5"
+  resolved "https://registry.yarnpkg.com/create-astro/-/create-astro-0.12.5.tgz#298fa450a8570cad1096e99d07913f1be0eff873"
+  integrity sha512-OG8tXojitBTOVSjFoN0YBP55Gs0pv7fD3N6XgHYVHmTsukMCVZyLy7ogXimYwNbp5MJUFojl3oijGGvJhDAZnQ==
   dependencies:
-    "@types/degit" "^2.8.3"
-    "@types/prompts" "^2.0.14"
     chalk "^5.0.1"
     degit "^2.8.4"
     execa "^6.1.0"
     kleur "^4.1.4"
     ora "^6.1.0"
     prompts "^2.4.2"
+    which-pm-runs "^1.1.0"
     yargs-parser "^21.0.1"
 
 create-stencil@3.0.2:
@@ -4939,13 +4921,12 @@ npm-bundled@^1.1.1, npm-bundled@^1.1.2:
   dependencies:
     npm-normalize-package-bin "^1.0.1"
 
-npm-check-updates@15.2.1:
-  version "15.2.1"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-15.2.1.tgz#b520c0ab6a5c83a35c954f86d9d6f65c32c87628"
-  integrity sha512-UreoHjcbDYggZm4I8OX/Lp+QZZ8xrCDP+8xygchMBkax8mmOzL7VJ/cEvgWb99eYEZup6MuOoDaRCZUajwwG9g==
+npm-check-updates@15.2.5:
+  version "15.2.5"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-15.2.5.tgz#ca5116139db5b2cf50c4d90d83d357e7b6b75f68"
+  integrity sha512-PgJCl9iFx2LK/JVtlDVM8CnQzRaksIkvPO7JduILVnpU2UR4a/g6nBvDCK09WJrhTyyMar2hJw7SNz0Ew0nV1g==
   dependencies:
     chalk "^4.1.2"
-    cint "^8.2.1"
     cli-table "^0.3.11"
     commander "^9.3.0"
     fast-memoize "^2.5.2"
@@ -7216,6 +7197,11 @@ which-module@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/which-module/-/which-module-2.0.0.tgz#d9ef07dce77b9902b8a3a8fa4b31c3e3f7e6e87a"
   integrity sha512-B+enWhmw6cjfVC7kS8Pj9pCrKSc5txArRyaYGe088shv/FGWH+0Rjx/xPgtsWfsUtS27FkP697E4DDhgrgoc0Q==
+
+which-pm-runs@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/which-pm-runs/-/which-pm-runs-1.1.0.tgz#35ccf7b1a0fce87bd8b92a478c9d045785d3bf35"
+  integrity sha512-n1brCuqClxfFfq/Rb0ICg9giSZqCS+pLtccdag6C2HyufBrh3fBOiy9nb6ggRMvWOVH5GrdJskj5iGTZNxd7SA==
 
 which@^1.2.9:
   version "1.3.1"
