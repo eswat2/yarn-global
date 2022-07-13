@@ -1890,10 +1890,10 @@ create-stencil@3.0.2:
   dependencies:
     prompts "^2.4.2"
 
-create-vite@2.9.4:
-  version "2.9.4"
-  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.4.tgz#0936d38b704b8a06c28471a58c29c31704dbfccd"
-  integrity sha512-26ZjGlGH0ZDyt9rxJQice5YnD3wgXr3DyEt0bSznd2eVSzdgi/UgGSHQHU4U4SMKwAn0Vu9XmhA5MTboGuum5g==
+create-vite@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-3.0.0.tgz#035535acfb4fed124e4982e8f333808de760aebe"
+  integrity sha512-G/sigmlGD6bKtLHt4cezI8kDwEThdbJKpyhFIrIVtvVwuCoAjtk79kP2RNjxjsOpM5BxQD5/R/5NKcymxBEEMw==
   dependencies:
     kolorist "^1.5.1"
     minimist "^1.2.6"
