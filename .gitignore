@@ -2,6 +2,7 @@
 .env
 .cache
 dist
+yarn.lock
 
 # Logs
 logs
