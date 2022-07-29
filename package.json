@@ -7,7 +7,7 @@
     "create-astro": "0.14.3",
     "create-stencil": "3.0.2",
     "create-vite": "3.0.0",
-    "cspell": "6.4.2",
+    "cspell": "6.5.0",
     "eslint": "8.20.0",
     "foreman": "3.0.1",
     "lighthouse": "9.6.4",
@@ -25,7 +25,7 @@
     "typescript": "4.7.4",
     "updtr": "4.0.0",
     "uuid": "8.3.2",
-    "vercel": "27.3.1",
+    "vercel": "27.3.3",
     "wait-on": "6.0.1"
   }
 }
