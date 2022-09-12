@@ -5,10 +5,10 @@
     "cloc": "2.10.0",
     "concurrently": "7.4.0",
     "create-astro": "1.0.1",
-    "create-stencil": "3.0.2",
+    "create-stencil": "3.0.3",
     "create-vite": "3.1.0",
-    "cspell": "6.8.1",
-    "eslint": "8.23.0",
+    "cspell": "6.8.2",
+    "eslint": "8.23.1",
     "foreman": "3.0.1",
     "lighthouse": "9.6.7",
     "markdownlint-cli": "0.32.2",
@@ -25,7 +25,7 @@
     "typescript": "4.8.3",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "28.2.4",
+    "vercel": "28.2.5",
     "wait-on": "6.0.1"
   }
 }
