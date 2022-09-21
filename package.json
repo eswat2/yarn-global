@@ -5,7 +5,7 @@
     "cloc": "2.10.0",
     "concurrently": "7.4.0",
     "create-astro": "1.0.2",
-    "create-stencil": "3.0.3",
+    "create-stencil": "3.1.0",
     "create-vite": "3.1.0",
     "cspell": "6.10.1",
     "eslint": "8.23.1",
@@ -25,7 +25,7 @@
     "typescript": "4.8.3",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "28.3.0",
+    "vercel": "28.4.0",
     "wait-on": "6.0.1"
   }
 }
