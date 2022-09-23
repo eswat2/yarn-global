@@ -16,7 +16,7 @@
     "nodemon": "2.0.20",
     "np": "7.6.2",
     "npm-check-updates": "16.2.1",
-    "pnpm": "7.12.1",
+    "pnpm": "7.12.2",
     "prettier": "2.7.1",
     "rollup": "2.79.1",
     "serve": "14.0.1",
