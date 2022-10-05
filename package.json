@@ -16,7 +16,7 @@
     "nodemon": "2.0.20",
     "np": "7.6.2",
     "npm-check-updates": "16.3.8",
-    "pnpm": "7.13.1",
+    "pnpm": "7.13.2",
     "prettier": "2.7.1",
     "rollup": "2.79.1",
     "serve": "14.0.1",
@@ -25,7 +25,7 @@
     "typescript": "4.8.4",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "28.4.6",
+    "vercel": "28.4.7",
     "wait-on": "6.0.1"
   }
 }
