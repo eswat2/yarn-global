@@ -20,13 +20,13 @@
     "pnpm": "7.14.2",
     "prettier": "2.7.1",
     "rollup": "3.2.5",
-    "serve": "14.1.0",
+    "serve": "14.1.1",
     "sirv-cli": "2.0.2",
     "svgo": "3.0.0",
     "typescript": "4.8.4",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "28.4.16",
+    "vercel": "28.4.17",
     "wait-on": "6.0.1"
   }
 }
