@@ -6,7 +6,7 @@
     "cloc": "2.11.0",
     "concurrently": "7.6.0",
     "create-astro": "1.2.4",
-    "create-stencil": "3.1.1",
+    "create-stencil": "3.1.2",
     "create-vite": "4.0.0",
     "create-vite-app": "1.21.0",
     "cspell": "6.18.1",
