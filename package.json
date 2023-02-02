@@ -8,7 +8,7 @@
     "create-astro": "2.0.2",
     "create-lit": "1.4.0",
     "create-stencil": "^3.1.4",
-    "create-vite": "4.0.0",
+    "create-vite": "4.1.0",
     "create-vite-app": "1.21.0",
     "cspell": "6.20.1",
     "eslint": "8.33.0",
