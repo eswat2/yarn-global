@@ -13,7 +13,7 @@
     "cspell": "6.27.0",
     "eslint": "8.35.0",
     "foreman": "3.0.1",
-    "lighthouse": "10.0.1",
+    "lighthouse": "10.0.2",
     "markdownlint-cli": "0.33.0",
     "netlify-cli": "13.0.0",
     "newman": "5.3.2",
@@ -29,7 +29,7 @@
     "typescript": "4.9.5",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "28.16.9",
+    "vercel": "28.16.10",
     "wait-on": "7.0.1"
   }
 }
