@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@11ty/eleventy": "2.0.1",
     "@custom-elements-manifest/analyzer": "0.8.0",
     "@danielx/civet": "0.5.90",
     "@storybook/storybook-deployer": "2.8.16",
