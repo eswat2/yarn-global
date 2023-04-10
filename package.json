@@ -9,7 +9,7 @@
     "concurrently": "8.0.1",
     "create-astro": "3.1.2",
     "create-lit": "1.4.0",
-    "create-stencil": "3.1.5",
+    "create-stencil": "3.1.6",
     "create-vite": "4.2.0",
     "create-vite-app": "1.21.0",
     "cspell": "6.31.1",
