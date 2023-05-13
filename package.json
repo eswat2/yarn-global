@@ -2,7 +2,7 @@
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.8.2",
     "@danielx/civet": "0.6.1",
-    "@socketsupply/socket": "0.2.13",
+    "@socketsupply/socket": "0.3.0",
     "@storybook/storybook-deployer": "2.8.16",
     "@vitejs/create-app": "2.5.2",
     "cloc": "2.11.0",
@@ -24,7 +24,7 @@
     "npm-check-updates": "16.10.12",
     "pnpm": "8.5.0",
     "prettier": "2.8.8",
-    "rollup": "3.21.6",
+    "rollup": "3.21.7",
     "serve": "14.2.0",
     "sirv-cli": "2.0.2",
     "svgo": "3.0.2",
