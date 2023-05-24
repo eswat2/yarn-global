@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.8.3",
-    "@danielx/civet": "0.6.2",
+    "@danielx/civet": "0.6.3",
     "@socketsupply/socket": "0.3.1",
     "@storybook/storybook-deployer": "2.8.16",
     "@vitejs/create-app": "2.5.2",
@@ -31,7 +31,7 @@
     "typescript": "5.0.4",
     "updtr": "4.0.0",
     "uuid": "9.0.0",
-    "vercel": "29.4.0",
+    "vercel": "30.0.0",
     "wait-on": "7.0.1"
   }
 }
