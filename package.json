@@ -7,7 +7,7 @@
     "@vitejs/create-app": "2.5.2",
     "cloc": "2.11.0",
     "concurrently": "8.1.0",
-    "create-astro": "3.1.5",
+    "create-astro": "3.1.6",
     "create-lit": "1.4.0",
     "create-stencil": "3.2.0",
     "create-vite": "4.3.2",
