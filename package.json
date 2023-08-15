@@ -22,7 +22,7 @@
     "np": "8.0.4",
     "npm-check-updates": "16.11.1",
     "pnpm": "8.6.12",
-    "prettier": "3.0.1",
+    "prettier": "3.0.2",
     "rollup": "3.28.0",
     "serve": "14.2.0",
     "sirv-cli": "2.0.2",
