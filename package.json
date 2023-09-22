@@ -14,7 +14,7 @@
     "eslint": "8.49.0",
     "foreman": "3.0.1",
     "lighthouse": "11.1.0",
-    "markdownlint-cli": "0.36.0",
+    "markdownlint-cli": "0.37.0",
     "netlify-cli": "16.4.2",
     "newman": "6.0.0",
     "nodemon": "3.0.1",
@@ -29,7 +29,7 @@
     "typescript": "5.2.2",
     "updtr": "4.0.0",
     "uuid": "9.0.1",
-    "vercel": "32.2.5",
+    "vercel": "32.3.0",
     "wait-on": "7.0.1"
   }
 }
