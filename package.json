@@ -11,13 +11,13 @@
     "create-stencil": "3.5.1",
     "create-vite": "5.0.0",
     "cspell": "8.1.0",
-    "eslint": "8.54.0",
+    "eslint": "8.55.0",
     "foreman": "3.0.1",
     "lighthouse": "11.3.0",
     "markdownlint-cli": "0.37.0",
     "netlify-cli": "17.8.1",
     "newman": "6.0.0",
-    "nodemon": "3.0.1",
+    "nodemon": "3.0.2",
     "np": "9.0.0",
     "npm-check-updates": "16.14.11",
     "pnpm": "8.11.0",
@@ -29,7 +29,7 @@
     "typescript": "5.3.2",
     "updtr": "4.0.0",
     "uuid": "9.0.1",
-    "vercel": "32.6.0",
+    "vercel": "32.6.1",
     "wait-on": "7.2.0"
   }
 }
