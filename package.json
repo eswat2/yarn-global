@@ -2,7 +2,7 @@
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.9.0",
     "@danielx/civet": "0.6.59",
-    "@socketsupply/socket": "0.5.3",
+    "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
     "concurrently": "8.2.2",
@@ -10,7 +10,7 @@
     "create-lit": "1.4.0",
     "create-stencil": "3.5.2",
     "create-vite": "5.1.0",
-    "cspell": "8.2.1",
+    "cspell": "8.2.3",
     "eslint": "8.56.0",
     "foreman": "3.0.1",
     "lighthouse": "11.4.0",
