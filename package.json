@@ -15,7 +15,7 @@
     "foreman": "3.0.1",
     "lighthouse": "11.5.0",
     "markdownlint-cli": "0.39.0",
-    "netlify-cli": "17.15.6",
+    "netlify-cli": "17.15.7",
     "newman": "6.1.0",
     "nodemon": "3.0.3",
     "np": "9.2.0",
