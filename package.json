@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.9.0",
-    "@danielx/civet": "0.6.68",
+    "@danielx/civet": "0.6.69",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
@@ -15,7 +15,7 @@
     "foreman": "3.0.1",
     "lighthouse": "11.5.0",
     "markdownlint-cli": "0.39.0",
-    "netlify-cli": "17.16.0",
+    "netlify-cli": "17.16.1",
     "newman": "6.1.1",
     "nodemon": "3.0.3",
     "np": "9.2.0",
