@@ -17,7 +17,7 @@
     "markdownlint-cli": "0.39.0",
     "netlify-cli": "17.17.0",
     "newman": "6.1.1",
-    "nodemon": "3.0.3",
+    "nodemon": "3.1.0",
     "np": "9.2.0",
     "npm-check-updates": "16.14.15",
     "pnpm": "8.15.3",
