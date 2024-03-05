@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.9.3",
-    "@danielx/civet": "0.6.82",
+    "@danielx/civet": "0.6.83",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
@@ -10,12 +10,12 @@
     "create-lit": "1.4.0",
     "create-stencil": "3.5.4",
     "create-vite": "5.2.1",
-    "cspell": "8.4.1",
+    "cspell": "8.5.0",
     "eslint": "8.57.0",
     "foreman": "3.0.1",
     "lighthouse": "11.6.0",
     "markdownlint-cli": "0.39.0",
-    "netlify-cli": "17.17.1",
+    "netlify-cli": "17.17.2",
     "newman": "6.1.1",
     "nodemon": "3.1.0",
     "np": "10.0.0",
