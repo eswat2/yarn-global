@@ -15,7 +15,7 @@
     "foreman": "3.0.1",
     "lighthouse": "11.6.0",
     "markdownlint-cli": "0.39.0",
-    "newman": "6.1.1",
+    "newman": "6.1.2",
     "nodemon": "3.1.0",
     "np": "10.0.1",
     "npm-check-updates": "16.14.15",
@@ -27,7 +27,7 @@
     "svgo": "3.2.0",
     "typescript": "5.4.2",
     "updtr": "4.0.0",
-    "vercel": "33.5.5",
+    "vercel": "33.6.0",
     "wait-on": "7.2.0"
   }
 }
