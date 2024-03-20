@@ -1,15 +1,15 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.9.3",
+    "@custom-elements-manifest/analyzer": "0.9.4",
     "@danielx/civet": "0.6.84",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
     "concurrently": "8.2.2",
-    "create-astro": "4.7.4",
+    "create-astro": "4.7.5",
     "create-lit": "1.4.0",
     "create-stencil": "3.5.4",
-    "create-vite": "5.2.2",
+    "create-vite": "5.2.3",
     "cspell": "8.6.0",
     "eslint": "8.57.0",
     "foreman": "3.0.1",
