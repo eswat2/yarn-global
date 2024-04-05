@@ -11,7 +11,7 @@
     "create-stencil": "3.5.5",
     "create-vite": "5.2.3",
     "cspell": "8.6.1",
-    "eslint": "8.57.0",
+    "eslint": "9.0.0",
     "foreman": "3.0.1",
     "lighthouse": "11.7.0",
     "markdownlint-cli": "0.39.0",
