@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.9.8",
+    "@custom-elements-manifest/analyzer": "0.10.2",
     "@danielx/civet": "0.7.7",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
@@ -27,7 +27,7 @@
     "svgo": "3.2.0",
     "typescript": "5.4.5",
     "updtr": "4.0.0",
-    "vercel": "34.1.8",
+    "vercel": "34.1.9",
     "wait-on": "7.2.0"
   }
 }
