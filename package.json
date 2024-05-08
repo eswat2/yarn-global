@@ -24,7 +24,7 @@
     "rollup": "4.17.2",
     "serve": "14.2.3",
     "sirv-cli": "2.0.2",
-    "svgo": "3.2.0",
+    "svgo": "3.3.0",
     "typescript": "5.4.5",
     "updtr": "4.0.0",
     "vercel": "34.1.9",
