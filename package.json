@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.10.2",
-    "@danielx/civet": "0.7.9",
+    "@danielx/civet": "0.7.10",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
@@ -10,8 +10,8 @@
     "create-lit": "1.4.0",
     "create-stencil": "3.5.6",
     "create-vite": "5.2.3",
-    "cspell": "8.8.1",
-    "eslint": "9.2.0",
+    "cspell": "8.8.3",
+    "eslint": "9.3.0",
     "foreman": "3.0.1",
     "lighthouse": "12.0.0",
     "markdownlint-cli": "0.40.0",
@@ -19,15 +19,15 @@
     "nodemon": "3.1.0",
     "np": "10.0.5",
     "npm-check-updates": "16.14.20",
-    "pnpm": "9.1.1",
+    "pnpm": "9.1.2",
     "prettier": "3.2.5",
-    "rollup": "4.17.2",
+    "rollup": "4.18.0",
     "serve": "14.2.3",
     "sirv-cli": "2.0.2",
     "svgo": "3.3.2",
     "typescript": "5.4.5",
     "updtr": "4.0.0",
-    "vercel": "34.2.0",
+    "vercel": "34.2.2",
     "wait-on": "7.2.0"
   }
 }
