@@ -16,7 +16,7 @@
     "lighthouse": "12.0.0",
     "markdownlint-cli": "0.40.0",
     "newman": "6.1.2",
-    "nodemon": "3.1.0",
+    "nodemon": "3.1.1",
     "np": "10.0.5",
     "npm-check-updates": "16.14.20",
     "pnpm": "9.1.2",
