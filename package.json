@@ -5,7 +5,7 @@
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
-    "concurrently": "8.2.2",
+    "concurrently": "9.0.0",
     "create-astro": "4.9.0",
     "create-lit": "1.4.0",
     "create-stencil": "3.5.6",
