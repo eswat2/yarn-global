@@ -14,7 +14,7 @@
     "eslint": "9.11.1",
     "foreman": "3.0.1",
     "lighthouse": "12.2.1",
-    "markdownlint-cli": "0.41.0",
+    "markdownlint-cli": "0.42.0",
     "newman": "6.2.1",
     "nodemon": "3.1.7",
     "np": "10.0.7",
