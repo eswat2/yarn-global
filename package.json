@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.10.3",
-    "@danielx/civet": "0.8.8",
+    "@danielx/civet": "0.8.9",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "cloc": "2.11.0",
@@ -19,7 +19,7 @@
     "nodemon": "3.1.7",
     "np": "10.0.7",
     "npm-check-updates": "17.1.8",
-    "pnpm": "9.12.2",
+    "pnpm": "9.12.3",
     "prettier": "3.3.3",
     "rollup": "4.24.2",
     "serve": "14.2.4",
