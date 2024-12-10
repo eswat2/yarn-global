@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@custom-elements-manifest/analyzer": "0.10.3",
+    "@custom-elements-manifest/analyzer": "0.10.4",
     "@danielx/civet": "0.9.0",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
