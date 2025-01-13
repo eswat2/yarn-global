@@ -11,7 +11,7 @@
     "create-lit": "1.5.0",
     "create-stencil": "3.5.6",
     "create-vite": "6.1.1",
-    "cspell": "8.17.1",
+    "cspell": "8.17.2",
     "cssnano-cli": "1.0.5",
     "eslint": "9.18.0",
     "foreman": "3.0.1",
@@ -21,7 +21,7 @@
     "nodemon": "3.1.9",
     "np": "10.1.0",
     "npm-check-updates": "17.1.13",
-    "pnpm": "9.15.3",
+    "pnpm": "9.15.4",
     "prettier": "3.4.2",
     "rollup": "4.30.1",
     "serve": "14.2.4",
@@ -29,7 +29,7 @@
     "svgo": "3.3.2",
     "typescript": "5.7.3",
     "updtr": "4.1.0",
-    "vercel": "39.2.6",
+    "vercel": "39.3.0",
     "wait-on": "8.0.2"
   }
 }
