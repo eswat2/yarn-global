@@ -13,7 +13,7 @@
     "create-vite": "6.2.0",
     "cspell": "8.17.3",
     "cssnano-cli": "1.0.5",
-    "eslint": "9.20.0",
+    "eslint": "9.20.1",
     "foreman": "3.0.1",
     "lighthouse": "12.3.0",
     "markdownlint-cli": "0.44.0",
