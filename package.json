@@ -13,7 +13,7 @@
     "create-vite": "6.2.0",
     "cspell": "8.17.4",
     "cssnano-cli": "1.0.5",
-    "eslint": "9.20.1",
+    "eslint": "9.21.0",
     "foreman": "3.0.1",
     "lighthouse": "12.3.0",
     "markdownlint-cli": "0.44.0",
@@ -29,7 +29,7 @@
     "svgo": "3.3.2",
     "typescript": "5.7.3",
     "updtr": "4.1.0",
-    "vercel": "41.1.4",
+    "vercel": "41.2.0",
     "wait-on": "8.0.2"
   }
 }
