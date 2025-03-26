@@ -15,7 +15,7 @@
     "cssnano-cli": "1.0.5",
     "eslint": "9.23.0",
     "foreman": "3.0.1",
-    "lighthouse": "12.5.0",
+    "lighthouse": "12.5.1",
     "markdownlint-cli": "0.44.0",
     "newman": "6.2.1",
     "nodemon": "3.1.9",
