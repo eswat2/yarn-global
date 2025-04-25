@@ -4,7 +4,7 @@
     "@danielx/civet": "0.10.2",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
-    "bare": "1.17.5",
+    "bare": "1.17.6",
     "clean-css-cli": "5.6.3",
     "cloc": "2.11.0",
     "concurrently": "9.1.2",
