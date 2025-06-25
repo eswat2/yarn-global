@@ -3,7 +3,7 @@
     "@anthropic-ai/claude-code": "1.0.34",
     "@custom-elements-manifest/analyzer": "0.10.4",
     "@danielx/civet": "0.10.4",
-    "@google/gemini-cli": "0.1.2",
+    "@google/gemini-cli": "0.1.3",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "bare": "1.20.1",
@@ -32,7 +32,7 @@
     "svgo": "4.0.0",
     "typescript": "5.8.3",
     "updtr": "4.1.0",
-    "vercel": "44.2.4",
+    "vercel": "44.2.5",
     "wait-on": "8.0.3"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
