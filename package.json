@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.57",
+    "@anthropic-ai/claude-code": "1.0.58",
     "@custom-elements-manifest/analyzer": "0.10.4",
     "@danielx/civet": "0.10.5",
     "@google/gemini-cli": "0.1.13",
@@ -32,7 +32,7 @@
     "svgo": "4.0.0",
     "typescript": "5.8.3",
     "updtr": "4.1.0",
-    "vercel": "44.5.2",
+    "vercel": "44.5.3",
     "wait-on": "8.0.3",
     "zx": "8.7.1"
   },
