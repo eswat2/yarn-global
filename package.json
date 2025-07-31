@@ -29,7 +29,7 @@
     "serve": "14.2.4",
     "sirv-cli": "3.0.1",
     "svgo": "4.0.0",
-    "typescript": "5.8.3",
+    "typescript": "5.9.2",
     "updtr": "4.1.0",
     "vercel": "44.6.5",
     "wait-on": "8.0.4",
