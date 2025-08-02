@@ -3,7 +3,7 @@
     "@anthropic-ai/claude-code": "1.0.67",
     "@custom-elements-manifest/analyzer": "0.10.4",
     "@danielx/civet": "0.10.5",
-    "@google/gemini-cli": "0.1.15",
+    "@google/gemini-cli": "0.1.16",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "bare": "1.20.3",
