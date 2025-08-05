@@ -3,10 +3,10 @@
     "@anthropic-ai/claude-code": "1.0.68",
     "@custom-elements-manifest/analyzer": "0.10.4",
     "@danielx/civet": "0.10.5",
-    "@google/gemini-cli": "0.1.16",
+    "@google/gemini-cli": "0.1.17",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
-    "bare": "1.20.3",
+    "bare": "1.21.0",
     "clean-css-cli": "5.6.3",
     "cloc": "2.11.0",
     "concurrently": "9.2.0",
@@ -33,7 +33,7 @@
     "updtr": "4.1.0",
     "vercel": "44.7.2",
     "wait-on": "8.0.4",
-    "zx": "8.7.2"
+    "zx": "8.8.0"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
