@@ -6,7 +6,7 @@
     "@google/gemini-cli": "0.1.18",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
-    "bare": "1.21.1",
+    "bare": "1.21.2",
     "clean-css-cli": "5.6.3",
     "cloc": "2.11.0",
     "concurrently": "9.2.0",
