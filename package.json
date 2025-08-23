@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.88",
+    "@anthropic-ai/claude-code": "1.0.89",
     "@custom-elements-manifest/analyzer": "0.10.5",
     "@danielx/civet": "0.10.5",
     "@google/gemini-cli": "0.1.22",
@@ -16,7 +16,7 @@
     "create-vite": "7.1.1",
     "cspell": "9.2.0",
     "cssnano-cli": "1.0.5",
-    "eslint": "9.33.0",
+    "eslint": "9.34.0",
     "foreman": "3.0.1",
     "lighthouse": "12.8.1",
     "markdownlint-cli": "0.45.0",
