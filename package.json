@@ -23,7 +23,7 @@
     "newman": "6.2.1",
     "nodemon": "3.1.10",
     "np": "10.2.0",
-    "npm-check-updates": "18.0.2",
+    "npm-check-updates": "18.0.3",
     "prettier": "3.6.2",
     "rollup": "4.48.1",
     "serve": "14.2.4",
@@ -31,7 +31,7 @@
     "svgo": "4.0.0",
     "typescript": "5.9.2",
     "updtr": "4.1.0",
-    "vercel": "46.0.3",
+    "vercel": "46.0.4",
     "wait-on": "8.0.4",
     "zx": "8.8.1"
   },
