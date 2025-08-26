@@ -6,7 +6,7 @@
     "@google/gemini-cli": "0.1.22",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
-    "bare": "1.21.7",
+    "bare": "1.21.8",
     "clean-css-cli": "5.6.3",
     "cloc": "2.11.0",
     "concurrently": "9.2.1",
@@ -31,7 +31,7 @@
     "svgo": "4.0.0",
     "typescript": "5.9.2",
     "updtr": "4.1.0",
-    "vercel": "46.0.2",
+    "vercel": "46.0.3",
     "wait-on": "8.0.4",
     "zx": "8.8.1"
   },
