@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.111",
+    "@anthropic-ai/claude-code": "1.0.112",
     "@custom-elements-manifest/analyzer": "0.10.5",
     "@danielx/civet": "0.10.6",
-    "@google/gemini-cli": "0.4.0",
+    "@google/gemini-cli": "0.4.1",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "bare": "1.22.0",
@@ -31,7 +31,7 @@
     "svgo": "4.0.0",
     "typescript": "5.9.2",
     "updtr": "4.1.0",
-    "vercel": "47.1.4",
+    "vercel": "48.0.0",
     "wait-on": "8.0.4",
     "zx": "8.8.1"
   },
