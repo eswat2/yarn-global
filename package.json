@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.119",
+    "@anthropic-ai/claude-code": "1.0.120",
     "@custom-elements-manifest/analyzer": "0.10.6",
     "@danielx/civet": "0.10.6",
     "@google/gemini-cli": "0.5.4",
@@ -23,7 +23,7 @@
     "newman": "6.2.1",
     "nodemon": "3.1.10",
     "np": "10.2.0",
-    "npm-check-updates": "18.2.1",
+    "npm-check-updates": "18.3.0",
     "prettier": "3.6.2",
     "rollup": "4.52.0",
     "serve": "14.2.5",
