@@ -2,7 +2,7 @@
   "dependencies": {
     "@anthropic-ai/claude-code": "1.0.120",
     "@custom-elements-manifest/analyzer": "0.10.6",
-    "@danielx/civet": "0.10.6",
+    "@danielx/civet": "0.10.7",
     "@google/gemini-cli": "0.5.5",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
@@ -31,7 +31,7 @@
     "svgo": "4.0.0",
     "typescript": "5.9.2",
     "updtr": "4.1.0",
-    "vercel": "48.1.0",
+    "vercel": "48.1.1",
     "wait-on": "9.0.1",
     "zx": "8.8.3"
   },
