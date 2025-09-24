@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.120",
+    "@anthropic-ai/claude-code": "1.0.123",
     "@custom-elements-manifest/analyzer": "0.10.6",
     "@danielx/civet": "0.10.7",
     "@google/gemini-cli": "0.5.5",
