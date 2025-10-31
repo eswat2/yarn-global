@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "@anthropic-ai/claude-code": "2.0.30",
     "@custom-elements-manifest/analyzer": "0.10.10",
     "@danielx/civet": "0.10.7",
-    "@google/gemini-cli": "0.11.2",
+    "@google/gemini-cli": "0.11.3",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "bare": "1.24.1",
@@ -16,7 +15,7 @@
     "create-vite": "8.0.2",
     "cspell": "9.2.2",
     "cssnano-cli": "1.0.5",
-    "eslint": "9.38.0",
+    "eslint": "9.39.0",
     "foreman": "3.0.1",
     "lighthouse": "13.0.1",
     "markdownlint-cli": "0.45.0",
