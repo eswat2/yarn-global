@@ -2,7 +2,7 @@
   "dependencies": {
     "@custom-elements-manifest/analyzer": "0.11.0",
     "@danielx/civet": "0.11.0",
-    "@google/gemini-cli": "0.12.0",
+    "@google/gemini-cli": "0.13.0",
     "@socketsupply/socket": "0.5.4",
     "@storybook/storybook-deployer": "2.8.16",
     "bare": "1.24.1",
