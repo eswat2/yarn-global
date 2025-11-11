@@ -20,7 +20,7 @@
     "lighthouse": "13.0.1",
     "markdownlint-cli": "0.45.0",
     "newman": "6.2.1",
-    "nodemon": "3.1.10",
+    "nodemon": "3.1.11",
     "np": "10.2.0",
     "npm-check-updates": "19.1.2",
     "prettier": "3.6.2",
