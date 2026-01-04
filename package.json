@@ -21,7 +21,7 @@
     "newman": "6.2.1",
     "nodemon": "3.1.11",
     "np": "10.2.0",
-    "npm-check-updates": "19.2.1",
+    "npm-check-updates": "19.3.0",
     "prettier": "3.7.4",
     "rollup": "4.54.0",
     "serve": "14.2.5",
