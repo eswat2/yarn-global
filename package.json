@@ -20,7 +20,7 @@
     "markdownlint-cli": "0.47.0",
     "newman": "6.2.2",
     "nodemon": "3.1.11",
-    "np": "10.2.0",
+    "np": "10.3.0",
     "npm-check-updates": "19.3.1",
     "prettier": "3.8.0",
     "rollup": "4.55.1",
