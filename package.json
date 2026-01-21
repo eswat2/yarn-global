@@ -22,7 +22,7 @@
     "nodemon": "3.1.11",
     "np": "10.3.0",
     "npm-check-updates": "19.3.1",
-    "prettier": "3.8.0",
+    "prettier": "3.8.1",
     "rollup": "4.55.3",
     "serve": "14.2.5",
     "sirv-cli": "3.0.1",
