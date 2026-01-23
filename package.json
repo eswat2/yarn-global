@@ -20,7 +20,7 @@
     "markdownlint-cli": "0.47.0",
     "newman": "6.2.2",
     "nodemon": "3.1.11",
-    "np": "11.0.0",
+    "np": "11.0.1",
     "npm-check-updates": "19.3.1",
     "prettier": "3.8.1",
     "rollup": "4.56.0",
@@ -29,7 +29,7 @@
     "svgo": "4.0.0",
     "typescript": "5.9.3",
     "updtr": "4.1.0",
-    "vercel": "50.4.9",
+    "vercel": "50.4.10",
     "wait-on": "9.0.3",
     "zx": "8.8.5"
   },
